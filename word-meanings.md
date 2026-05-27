@@ -1,0 +1,1 @@
+- Espionage: the act of secretly spying to gather confidential, political, or military intelligence
