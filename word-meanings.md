@@ -14,3 +14,4 @@
 - Dissent refers to the public expression of disagreement with an official opinion, prevailing idea, or established authority.
 - agitation: आंदोलन उत्तेजना अशांति
 - Placate: to make someone less angry
+- Psychotropic substances are chemical agents that alter the central nervous system, affecting the brain and changing mood, awareness, thoughts, feelings, or behavior
