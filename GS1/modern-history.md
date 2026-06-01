@@ -5,6 +5,7 @@
   - Limited resources: Portugal had a small population and could not match the military and financial strength of Britain and the Dutch.
   - Coastal focus: Portuguese control remained limited to ports and forts, without deeper penetration into the Indian hinterland.
   - Naval setbacks: Losses to the British and Dutch weakened their Indian Ocean position and disrupted trade.
+  - Dutch capture of Cochin in 1663 showed that Portuguese naval power was no longer unchallenged.
   - Poor diplomacy: They failed to build lasting alliances with major Indian powers like the Mughal court or Marathas.
   - Religious zeal: Forced conversions and persecution of Muslims created local hostility and resistance.
   - Global overreach: Brazil and African colonies diverted attention and investment away from India.
@@ -77,7 +78,8 @@
   - Focus shifted on other territories of the world
   - Fall of Napolean contributed to French fall in India
   - English were having smarter able administrators
-  - Lack of reinforcements: France could not send enough troops or funds because of European wars.
+  - Lack of reinforcements: France could not send enough troops or funds because of European wars, unlike the British during the Seven Years’ War.
+  - Decisive defeat: The Battle of Wandiwash (1760) sealed French military collapse in South India.
   - Poor coordination: French commanders were often divided and lacked a unified strategy in India.
   - Economic disadvantage: British control of Bengal gave the EIC far greater resources.
 - *Conclusion:*
@@ -93,7 +95,7 @@
   - Culture and Language:
     - French: recognised official language in Pondicherry
     - Dual Nationality: The 1956 Treaty of Cession allowed local residents to choose French nationality, creating a unique community of thousands of French citizens living in India today.
-  - Trade impact: French factories traded textiles, opium and spices with Southeast Asia and Europe.
+  - Trade impact: French factories in Pondicherry and Chandernagore traded textiles, opium and spices with Southeast Asia and Europe.
   - Legal legacy: French civil law influenced administration in Pondicherry and other French enclaves.
   - Education: French schools and missionary institutions promoted Western learning.
   - Urban planning: Pondicherry developed as a planned colonial city with promenades, parks and civic buildings.
@@ -144,7 +146,7 @@
   - Naval dominance: Anglo-French rivalry was settled by British naval power, securing sea lanes and coastal trade.
   - Company finance: EIC profits funded armies and political agents, turning trade capital into territorial power.
   - Local collaboration: British used Indian intermediaries and rivalries to weaken larger states and gain allies.
-  - Legal control: The Regulating Act and later charters expanded British legal oversight over Company actions.
+  - Legal control: The Regulating Act of 1773 and Pitt’s India Act of 1784 expanded British legal oversight over Company actions.
   - Infrastructure base: Forts, factories and roads created a stable colonial framework for further expansion.
 - *Conclusion:*
   - The conquest used commerce, force and statecraft to establish stable British colonial dominance over India.
@@ -181,7 +183,7 @@
 - *Intro:*
   - Dadabhai Naroji exposed colonial exploitation and laid the foundation of Indian political nationalism.
 - *Body:*
-  - Drain theory: He argued that British rule drained Indian wealth to Britain, worsening Indian poverty.
+  - Drain theory: He argued that British rule drained Indian wealth to Britain, worsening Indian poverty, especially in his book Poverty and Un-British Rule in India (1901).
   - Indian question: Naroji took Indian grievances to the British Parliament as the first Indian MP.
   - Economic analysis: He used statistics to show low Indian incomes and unfair taxation.
   - Political mobilisation: He helped found the Indian National Congress in 1885.
@@ -193,8 +195,8 @@
 - *Intro:*
   - Moderates led the early Congress with constitutional methods, petitions and loyal protest to secure political reform.
 - *Body:*
-  - Constitutionalism: They sought change through dialogue with the British government.
-  - Economic critique: Moderates highlighted drain, poverty and unfair taxation.
+  - Constitutionalism: They sought change through dialogue with the British government, as in the 1885 Bombay Congress session.
+  - Economic critique: Moderates highlighted drain, poverty and unfair taxation, led by figures like Gopal Krishna Gokhale and G. S. Khaparde.
   - Public opinion: They used newspapers, pamphlets and speeches to spread nationalist ideas.
   - Social reform: They promoted education, caste reform and Hindu-Muslim unity.
   - Petitions: Moderates submitted memoranda demanding Indian representation and civil rights.
@@ -219,11 +221,11 @@
 - *Intro:*
   - Wellesley strengthened the EIC through aggressive diplomacy, military expansion and political centralisation.
 - *Body:*
-  - Subsidiary alliance: He made Indian states dependent on British troops and counsel.
-  - Military campaigns: Success in Mysore and Maratha territories expanded British control.
-  - French rivalry: He neutralised French influence and secured British supremacy in India.
-  - Political agents: He placed Residents in princely courts to shape policy.
-  - Revenue backing: Alliances ensured funds to maintain a large standing army.
+  - Subsidiary alliance: He made states like Hyderabad (1798) and Awadh (1801) dependent on British troops and counsel.
+  - Military campaigns: Success against Tipu Sultan in Mysore and Maratha chiefs expanded British control.
+  - French rivalry: He neutralised French influence in the Carnatic and secured British supremacy in South India.
+  - Political agents: He placed Residents in princely courts such as Lucknow and Hyderabad to shape policy.
+  - Revenue backing: Alliances ensured funds from allied states to maintain a large standing army.
   - Administrative unity: He promoted central coordination from Calcutta.
   - Strategic depth: His policy created a buffer of allied states around British territories.
 - *Conclusion:*
@@ -234,7 +236,7 @@
 - *Body:*
   - Anglo-Sikh wars: Two wars (1845-46, 1848-49) reflected Sikh determination and British resolve.
   - Khalsa army: The modernized Sikh army fought fiercely under Sher Singh and Ranjodh Singh.
-  - Treaty terms: The wars ended with the Treaty of Lahore and annexation of Punjab.
+  - Treaty terms: The wars ended with the Treaty of Lahore and annexation of Punjab after the Battle of Sobraon.
   - Religious identity: Sikhs resisted loss of sovereignty while preserving faith and martial tradition.
   - Leadership: Ranjit Singh’s earlier consolidation showed Sikh strength before British aggression.
   - Annexation impact: Punjab became a critical province and major recruitment ground for the British army.
@@ -245,13 +247,13 @@
 - *Intro:*
   - The British used diplomacy, legal tools and financial pressure to annex Indian states without open warfare.
 - *Body:*
-  - Subsidiary alliances: Dependent states lost sovereignty in exchange for protection.
-  - Doctrine of lapse: States without heirs were annexed automatically.
-  - Mercenary policy: British troops were stationed in princely courts to influence rulers.
-  - Treaty manipulation: Unequal treaties limited rulers and expanded British control.
-  - Financial dependency: Debt and subsidy obligations made states pliant.
-  - Political courts: Residents monitored and guided native governments.
-  - Legal pretexts: British advisers invoked misgovernment to justify annexation.
+  - Subsidiary alliances: Dependent states such as Hyderabad and Awadh lost sovereignty in exchange for British protection.
+  - Doctrine of lapse: States like Satara (1848) and Jhansi (1853) were annexed when rulers died without a natural heir.
+  - Mercenary policy: British troops were stationed in courts like Hyderabad and Jaipur to influence rulers and enforce policy.
+  - Treaty manipulation: Unequal treaties such as the Treaty of Bassein limited Maratha rulers and expanded British control.
+  - Financial dependency: Debt and subsidy obligations in states like Awadh made local rulers pliant.
+  - Political courts: Residents in Lucknow and Hyderabad monitored native governments and directed policy.
+  - Legal pretexts: British advisers invoked misgovernment, as in Awadh, to justify annexation.
 - *Conclusion:*
   - These policies allowed Britain to enlarge its domain by exploiting weakness, dependency and legal loopholes.
 ### Q17. What were the causes of 1857 war ?
@@ -259,9 +261,10 @@
   - The 1857 war was triggered by military, political and cultural grievances against British Company rule.
 - *Body:*
   - Sepoy discontent: Low pay, poor terms and unequal treatment angered Indian soldiers.
-  - Cartridge issue: The greased cartridge controversy gave a religious spark to existing resentment.
-  - Annexation policy: Doctrine of lapse and annexation of Oudh threatened princely rulers.
-  - Land revenue burden: Peasants suffered under heavy taxes and revenue settlements.
+  - Cartridge issue: The greased cartridge controversy over Enfield rifle cartridges gave a religious spark to existing resentment.
+  - Initial spark: The revolt began at Meerut on 10 May 1857 and spread quickly to Delhi.
+  - Annexation policy: Doctrine of lapse and annexation of Oudh in 1856 threatened princely rulers.
+  - Land revenue burden: Peasants suffered under heavy taxes and revenue settlements such as the Permanent Settlement.
   - Religious interference: Actions perceived as attacks on Hindu and Muslim customs created fear.
   - Economic hardship: Destruction of Indian industry and rural distress fuelled anger.
   - Political exclusion: Indians had no voice in administration, making rebellion more likely.
@@ -273,7 +276,7 @@
 - *Body:*
   - End of EIC: Power passed to the British Crown under the 1858 Government of India Act.
   - Army reorganisation: British troops increased and Indian soldiers were reorganised to prevent mutiny.
-  - Policy change: The Crown adopted a policy of non-interference in religion and customs.
+  - Policy change: The Crown adopted a policy of non-interference in religion and customs, as spelled out in the Queen’s Proclamation of 1858.
   - Princely states: Many rulers were restored and treated as allies rather than annexed.
   - Administrative caution: The British became more conservative in reform and expansion.
   - Racial divide: British mistrust of Indians grew, increasing racial segregation.
@@ -310,11 +313,11 @@
 - *Intro:*
   - British conquest succeeded due to military advantage, economic control and skilful political manipulation.
 - *Body:*
-  - Naval dominance: Control of the seas isolated Indian rivals and protected British trade.
-  - Military discipline: Well-trained armies and superior artillery defeated Indian forces.
+  - Naval dominance: Control of the seas isolated Indian rivals and protected British trade, as in the defeat of the French fleet at the Battle of Negapatam.
+  - Military discipline: Well-trained armies and superior artillery defeated Indian forces, as seen at Plassey and Buxar.
   - Economic power: Company wealth financed wars and created dependencies.
   - Dividing rivals: British exploited divisions among Marathas, Mysore, Sikhs and others.
-  - Diplomacy: Alliances and treaties turned many Indian states into British clients.
+  - Diplomacy: Alliances and treaties like Bassein (1802) and the Subsidiary Alliance turned many Indian states into British clients.
   - Administrative control: Revenue systems and political agents extended British authority.
   - Legal legitimacy: British laws and charters justified expansion and governance.
 - *Conclusion:*
@@ -323,9 +326,9 @@
 - *Intro:*
   - Governor-Generals restructured administration to consolidate colonial rule through law, revenue and bureaucracy.
 - *Body:*
-  - Cornwallis reforms: Introduced civil service exams and separated revenue, judicial and executive functions.
+  - Cornwallis reforms: Introduced civil service exams, Permanent Settlement in 1793, and separated revenue, judicial and executive functions.
   - Wellesley centralisation: Expanded political control through Residents and subsidiary alliances.
-  - Dalhousie modernisation: Built railways, telegraphs and postal networks to integrate the colony.
+  - Dalhousie modernisation: Built railways, including the first line from Calcutta to Agra, telegraphs and postal networks to integrate the colony.
   - Revenue systems: Permanent Settlement, Ryotwari and Mahalwari shaped land administration.
   - Police and judicial reform: British institutions established law and order in newly acquired territories.
   - Financial control: Governor-Generals supervised company budgets and fiscal policy.
@@ -334,5 +337,4 @@
   - Governor-Generals transformed India’s administration into an efficient colonial state that served British interests.
 
 ### end
-
 

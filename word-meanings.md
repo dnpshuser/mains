@@ -2,3 +2,15 @@
 - Solidarity: unifying of groups because of similar problems and situations
 - Satire: the use of humour to attack a person, an idea or behaviour that you think is bad or silly
 - Sneak: to go very quietly in the direction mentioned, so that no one can see or hear you: आँख बचाकर चुपके-चुपके चोरी-चोरी (बताई गई दिशा में) निकल जाना
+- A hinterland is the remote or rural region lying inland from a coast, river, or major metropolitan area
+- Dissemination is the act or process of spreading, distributing, or broadcasting something widely.
+- Enduring colonial landmarks refer to historical buildings, monuments, and infrastructure built by imperial powers that survived to the present day. Rather than just old buildings, they represent a complex, lingering legacy of power, cultural fusion, and history.
+- A voyage is a long journey, usually to a distant place. While it primarily refers to traveling by sea or space, 
+- A precedent is an earlier event, action, or decision that serves as an example or guide for subsequent situations
+- Overreach का मुख्य अर्थ सीमा से आगे निकल जाना या जरूरत से ज्यादा महत्वाकांक्षी होने के कारण असफल हो जाना होता है।
+- promenade: a wide path where people walk beside the sea in a town on the coast
+- intrigue: साज़िश
+- Pliant is an adjective that describes something (or someone) that is flexible, adaptable, and easily bent or influenced. 
+- Dissent refers to the public expression of disagreement with an official opinion, prevailing idea, or established authority.
+- agitation: आंदोलन उत्तेजना अशांति
+- Placate: to make someone less angry
