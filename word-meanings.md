@@ -1,1 +1,4 @@
 - Espionage: the act of secretly spying to gather confidential, political, or military intelligence
+- Solidarity: unifying of groups because of similar problems and situations
+- Satire: the use of humour to attack a person, an idea or behaviour that you think is bad or silly
+- Sneak: to go very quietly in the direction mentioned, so that no one can see or hear you: आँख बचाकर चुपके-चुपके चोरी-चोरी (बताई गई दिशा में) निकल जाना
