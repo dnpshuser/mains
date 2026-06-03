@@ -1,0 +1,623 @@
+### Q32. It is not Qutub ud din Aibak, but Iltutmish is the real founder of Slave Dynasty. Elaborate.
+- *Intro:*
+  - Iltutmish is regarded as the true founder of the Slave Dynasty because he converted a fragile Turkish regime into a stable Sultanate.
+- *Body:*
+  - He succeeded Aibak in 1211 CE and survived early succession crises, establishing personal legitimacy.
+  - Iltutmish secured Indian recognition by receiving investiture from the Abbasid Caliph in 1229 CE.
+  - He reorganized the executive and introduced permanent offices such as wazir, diwan-i-arz and qazi.
+  - He popularised the Iqta system, assigning revenue rights to military officers for state service.
+  - Iltutmish issued silver tanka and copper jital, standardising coinage across the Sultanate.
+  - He enlarged the Qutb complex at Delhi and completed the Quwwat-ul-Islam mosque, making Delhi the capital.
+  - His reign saw the construction of the Hauz-i-Shamsi reservoir and other public works.
+  - He defeated independent chiefs in Punjab, Bengal, Rajasthan and Haryana to expand imperial control.
+  - Iltutmish subdued the Ghurid nobility and ended the challenge from Taj al-Din Yildiz and other Turkish rivals.
+  - He set up a royal household with strong central authority and curbed the power of the chahalgani (forty nobles).
+  - He settled problems of succession by choosing his talented daughter Razia as heir, showing administrative foresight.
+  - His reign brought administrative cohesion after Aibak’s brief and militaristic rule.
+  - Iltutmish strengthened the military by recruiting mamluk slaves and trained cavalry units.
+  - He promoted Islam through establishment of mosques, madrasas and religious charities, which enhanced state legitimacy.
+  - He initiated diplomatic relations with Central Asia and the Abbasid caliphate, adding international prestige.
+  - His reforms ensured that the Slave Dynasty became a lasting imperial house rather than a temporary warlord regime.
+- *Conclusion:*
+  - While Aibak began the dynasty, Iltutmish built its durable structure and is therefore rightly called the real founder of the Slave Dynasty.
+
+### Q33. Discuss how Ala ud din Khilji soon captured most of Indian subcontinent.
+- *Intro:*
+  - Alauddin Khilji used military innovation, financial discipline and ruthless politics to bring much of India under Delhi Sultanate control.
+- *Body:*
+  - He became Sultan in 1296 CE and immediately strengthened central authority over nobles.
+  - He created a powerful standing army with local recruits, mounted archers and disciplined cavalry.
+  - Price control and market regulation reduced cost of maintaining a large army and prevented corruption.
+  - He instituted the famous market reforms and the Dagh system to track soldiers and horses.
+  - His conquest of Gujarat and Malwa secured wealth and naval access.
+  - He captured Ranthambore, Chittor, Devagiri, Warangal and other major forts.
+  - His general Malik Kafur led southern campaigns, reaching Madurai and collecting tribute.
+  - He used intelligence networks, spies and police to suppress rebellion quickly.
+  - He enforced strict control over nobles by banning private negotiations with provincial governors.
+  - He reorganised revenue administration to ensure regular funding of campaigns.
+  - He commanded by example, leading expeditions against the Mongols and Rajputs.
+  - He defeated the Mongol invasion of 1306 CE, securing the northwest border.
+  - His capture of the Deccan states expanded the Sultanate’s influence beyond the Gangetic plain.
+  - He enforced direct rule in conquered territories rather than loose suzerainty.
+  - He used harsh punishments for dissent, which deterred revolts and made conquest rapid.
+  - His reign combined war, diplomacy and administrative restructuring to extend Sultanate control swiftly.
+- *Conclusion:*
+  - Alauddin’s military ambition, centralisation of authority and economic reforms together explain how he conquered most of the Indian subcontinent in a short span.
+
+### Q34. Account for Arab and Mongol invation in India in medieval times. What were their impacts
+- *Intro:*
+  - Arab and Mongol invasions were two major external shocks in medieval India with distinct causes and long-term effects.
+- *Body:*
+  - Arab invasions began in the early 8th century, initiated by Muhammad bin Qasim in Sindh (711 CE).
+  - The Arabs established Muslim rule in Sindh, bringing Islam to northwestern India.
+  - Arab conquest opened new maritime and overland trade links with the Islamic world.
+  - It introduced Arabic administrative practices and legal ideas into Indian frontier regions.
+  - Arab rule in Sindh also brought canal irrigation and new crops to the Indus plains.
+  - The Mongol invasions began in the 13th century and threatened the Delhi Sultanate repeatedly.
+  - Genghis Khan’s successors pushed through Central Asia, causing refugees and new military pressures on India.
+  - The Mongol raids into Punjab and Sindh forced Delhi rulers to invest heavily in fortifications and frontier defence.
+  - Mongol danger led to the strengthening of cavalry and the recruitment of Central Asian troops.
+  - Both invasions accelerated the Islamisation of the subcontinent by bringing more Muslim elites and merchants.
+  - Mongol contact also imported Persianate culture, art and administrative models into India.
+  - The invasions disrupted local economies temporarily but also stimulated trade adaptation and military innovation.
+  - Arab and Mongol incursions weakened the hold of regional hill chiefs and helped the rise of centralised states.
+  - The Mongol threat gave Awadh, Bengal and other regions greater incentive to seek protection from Delhi.
+  - Cultural impact included the blending of Indo-Islamic art, architecture and language.
+  - The memory of both invasions shaped medieval Indian political consciousness and frontier policy.
+- *Conclusion:*
+  - Arab invasion brought the first permanent Islamic foothold and trade links, while Mongol invasion transformed military, political and cultural life in medieval India.
+
+### Q35. Give an account on administration of Delhi Sultanate.
+- *Intro:*
+  - The Delhi Sultanate created a centralised medieval state with a mix of Islamic offices and local Indian institutions.
+- *Body:*
+  - The Sultan was the supreme political, military and religious authority.
+  - Major ministers included the wazir (chief minister), diwan-i-arz (military), and diwan-i-risalat (religious affairs).
+  - The Iqta system linked land revenue to military service, with nobles holding revenue assignments.
+  - Provincial administration was conducted through governors (amil) and military commanders.
+  - The Sultanate used the office of qazi to administer Islamic justice and settle civil cases.
+  - Shariat law applied to Muslims, while local customs and Hindu law continued for non-Muslims.
+  - The military was a state service, organised in cavalry, infantry and elephant corps.
+  - The use of slave soldiers (mamluks) and Turkish cavalry was important in early Sultanate governance.
+  - Revenue collection was centralised, with land surveys and crop assessments in many provinces.
+  - The postal system (dilkush) and intelligence network (secretariat) supported administration.
+  - The Sultanate maintained state monopolies on minting, salt and sometimes essential commodities.
+  - The office of diwan-i-kharaj managed land revenue and payments to jagirdars.
+  - Religious scholars, Sufis and ulema played advisory and legitimising roles in administration.
+  - The state maintained a court of nobles and a hierarchy of ranks linked to state service.
+  - Urban administration relied on officials such as kotwals for policing and market regulation.
+  - The Sultanate also used dharma-yuddha ideology and regal titles to legitimize conquest.
+- *Conclusion:*
+  - Delhi Sultanate administration combined Islamic governance, military revenue structures and local adaptations to rule a diverse medieval polity.
+
+### Q36. Give an account on economy of Delhi Sultanate.
+- *Intro:*
+  - The economy of the Delhi Sultanate was mainly agrarian but supported by trade, crafts and state revenue reforms.
+- *Body:*
+  - Agriculture formed the economic base and provided most of the state revenue.
+  - Land revenue was collected from peasants and assigned to iqta holders or state treasury.
+  - The Sultanate managed irrigation systems, canals and wells to improve agricultural output.
+  - Crop production included wheat, rice, barley, millet, sugarcane, cotton and pulses.
+  - Trade was important in towns, with Delhi, Multan, Lahore, and coastal ports as major centres.
+  - The state profited from trade duties, customs, market taxes and port levies.
+  - Urban guilds regulated crafts such as textiles, metalwork, carpentry and leather.
+  - Minting of silver tanka and copper jital stabilised currency for commerce.
+  - The Sultanate encouraged long-distance trade with Central Asia, Persia and Southeast Asia.
+  - Salt, textiles, spices, horses and precious metals were major traded commodities.
+  - Crafts and manufacturing were linked to court demand for luxury goods and military equipment.
+  - Forest products, hunting rights and pasture taxes generated additional revenue.
+  - The market reforms of Alauddin Khilji attempted to check hoarding and control prices.
+  - The Sultanate used state monopolies and price controls to support its military expenditures.
+  - Agricultural surplus supported urban growth and the maintenance of the army.
+  - The economy also depended on revenue from conquered provinces and tribute from client states.
+- *Conclusion:*
+  - The Delhi Sultanate economy balanced agrarian revenue, urban markets and long-distance trade to sustain a military-centered medieval state.
+
+### Q37. Give an account on socio-cultural life of Delhi Sultanate.
+- *Intro:*
+  - Socio-cultural life under the Delhi Sultanate was marked by religious diversity, cultural exchange and the emergence of Indo-Islamic society.
+- *Body:*
+  - The Sultanate period saw the growth of cities as cosmopolitan centres of culture.
+  - Persian became the language of the court, administration and high culture.
+  - Urdu began to emerge as a synthesis of local dialects, Persian and Arabic.
+  - Sufi saints and khanqahs played a major role in popular spirituality and social cohesion.
+  - Bhakti saints in north India promoted devotional Hinduism and social reform.
+  - Festivals from both Islamic and Hindu traditions were celebrated in urban centres.
+  - Social life included strong guilds, bazaar culture and craft associations.
+  - Muslim and Hindu communities generally lived side by side, with occasional communal conflict.
+  - The Sultanate saw the spread of Islamic education through madrasas.
+  - Persian literature, historiography and poetry flourished under Sultanate patronage.
+  - Women in elite households influenced culture through patronage and piety, even though public roles were limited.
+  - Social mobility existed for military slaves, artisans and merchants who rose in state service.
+  - New architectural styles reshaped the urban landscape with mosques, tombs and madrasas.
+  - Food habits changed with the introduction of new dishes, sugar-based sweets and Persian cuisine.
+  - Dress and etiquette among the elite began to reflect Persian-Islamic norms.
+  - The Sultanate contributed to a composite Indo-Islamic culture that blended traditions across communities.
+- *Conclusion:*
+  - Delhi Sultanate social and cultural life was dynamic, combining indigenous Indian customs with Islamic and Persian influences.
+
+### Q38. Give an account of salient features of architecture of Delhi Sultanate.
+- *Intro:*
+  - Delhi Sultanate architecture laid the foundations of Indo-Islamic design in India.
+- *Body:*
+  - Use of arch and dome became prominent, especially from the Delhi Sultanate onwards.
+  - Early monuments showed corbelled arches before true voussoir arches were adopted.
+  - The Qutb Minar complex in Delhi is a principal example and is now a UNESCO World Heritage Site.
+  - The Quwwat-ul-Islam mosque used spolia from Hindu-Jain temples, blending traditions.
+  - Use of rubble masonry and battered walls was characteristic in many forts and tombs.
+  - Tughlaq architecture introduced massive sloping walls and austere surfaces.
+  - Lodi architecture developed more refined dome tombs and octagonal plans.
+  - Stone lattices (jali) and geometric ornament appeared in mosque screens.
+  - The Alai Darwaza at Qutb complex demonstrates early true arch and dome construction.
+  - Fortifications such as Tughlaqabad and Siri used concentric defence and large bastions.
+  - Tomb architecture included enclosed gardens, chhatris and vaulted halls.
+  - Use of inlaid marble and glazed tiles emerged in later Sultanate buildings.
+  - The Sultanate adapted indigenous forms like corbelled roofs into Islamic structures.
+  - Public works included tanks, city gates, bridges and market halls.
+  - Mosque plans generally included a courtyard, prayer hall and mihrab oriented towards Mecca.
+  - Sultanate architecture established a vocabulary later elaborated by the Mughals.
+- *Conclusion:*
+  - Delhi Sultanate architecture created a distinctive Indo-Islamic style with forts, mosques and tombs that shaped medieval Indian monumentality.
+
+### Q39. Comment of literature of Vijaynagar Empire.
+- *Intro:*
+  - Vijayanagara literature was rich, multilingual and deeply shaped by devotional, courtly and regional traditions.
+- *Body:*
+  - Telugu literature flourished under Vijayanagara patronage, producing court poetry and epics.
+  - The poet Pothana composed the Telugu Bhagavata Purana, a major devotional classic.
+  - Srinatha wrote popular devotional and court poetry, including the Palnati Vira Charitra.
+  - Kannada literature also saw important works by Haridasa poets and court scholars.
+  - Sanskrit remained prestigious, with works in philosophy, grammar and drama commissioned by kings.
+  - Krishnadevaraya’s court included the Ashtadiggajas, eight great poets in Telugu.
+  - The famous Telugu epic Amuktamalyada was composed by Krishnadevaraya.
+  - Bhakti literature in Kannada and Telugu popularized Dvaita and Vaishnava devotion.
+  - Annamacharya composed devotional songs to Lord Venkateswara.
+  - Literary patronage encouraged a synthesis of Sanskrit, Telugu and Kannada idioms.
+  - Court poetry celebrated kings, battles, temple grants and state rituals.
+  - Literature was used to legitimize rulers and record historical events.
+  - Temple institutions sponsored manuscript copying, commentaries and scholastic debate.
+  - Local vernaculars grew in prestige alongside classical Sanskrit.
+  - The empire’s literary culture influenced later Deccan and south Indian traditions.
+- *Conclusion:*
+  - Vijayanagara’s literary achievements combined royal patronage, devotional fervour and multilingual creativity.
+
+### Q40. Comment of art culture and architecture of Vijaynagar Empire.
+- *Intro:*
+  - The Vijayanagara Empire produced a vibrant art and architectural style that reflected ritual, military and royal grandeur.
+- *Body:*
+  - Hampi, the capital, is a UNESCO World Heritage Site and the best surviving example of Vijayanagara urban culture.
+  - Temples such as Vittala, Virupaksha and Hazara Rama exemplify monumental Dravidian architecture.
+  - The iconic stone chariot at Vittala temple is a masterpiece of sculptural art.
+  - Composite pillars with yali and kalyani motifs became standard in Vijayanagara halls.
+  - Lotus Mahal, Elephant Stables and Queen’s Bath show secular palace architecture.
+  - The architecture combined granite with carved frescoes and ornamental pillars.
+  - Sculpture was prolific, with reliefs of gods, dancers, animals and narrative scenes.
+  - Temple architecture included large mahamandapas, gopurams and prakara walls.
+  - Artisans produced fine bronze icons, stone reliefs and architectural sculpture.
+  - Court culture included music, dance, drama and temple rituals.
+  - Royal patronage supported classical Sanskrit drama as well as Telugu and Kannada literature.
+  - The empire’s festivals and rituals were elaborate and closely tied to temple art.
+  - Visual culture reflected both Vaishnava devotion and Shaiva traditions.
+  - The use of water tanks and stepwells enhanced palace and temple complexes.
+  - Military architecture such as fortified enclosures and bastions protected the capital.
+  - Vijayanagara culture influenced later South Indian kingdoms and temple architecture.
+- *Conclusion:*
+  - Vijayanagara art and architecture combined religious majesty, courtly splendour and a distinctive Dravidian idiom.
+
+### Q41. Explain briefly on travellers' account during the reign of Vijaynagar empire.
+- *Intro:*
+  - Travellers’ descriptions of Vijayanagara present the city as one of the richest and largest capitals of its time.
+- *Body:*
+  - Portuguese travellers Domingo Paes and Fernão Nunes wrote vivid accounts of Hampi in the 1520s.
+  - They described a splendid capital with broad streets, bustling markets and thousands of inhabitants.
+  - They recorded the enormous wealth of temples and palaces, calling Vijayanagara the richest city in the world.
+  - Abdur Razzaq, envoy of Shah Rukh of Persia, praised the discipline and organisation of the court.
+  - Niccolo de Conti and other western traders noted the city’s huge crowds, elephants and military power.
+  - Travellers admired the grand stone chariot, royal audience halls and wealthy merchants.
+  - They mentioned the famous bazaar, artisans, jewellers and foreign traders in the city.
+  - Accounts highlighted the prosperity of agriculture and irrigation feeding the capital.
+  - Visitors noted the emperor’s elaborate festivals and public ceremonies.
+  - They described the strong walls, gatehouses and fortifications around Hampi.
+  - Some travellers praised the religious tolerance and temple patronage of the Vijayanagara rulers.
+  - The presence of Ethiopians, Persians and Portuguese in the capital showed its cosmopolitan character.
+  - The accounts warned of the empire’s heavy taxation and strict discipline in wartime.
+  - The travellers’ impressions shaped later European ideas of South Indian splendour.
+  - Their records are key sources for historians of Vijayanagara.
+- *Conclusion:*
+  - Travellers’ accounts portray Vijayanagara as a wealthy, well-organised and culturally vibrant empire.
+
+### Q42. Explain the growth and style of temple architecture during Vijaynagar empire.
+- *Intro:*
+  - Vijayanagara temple architecture represents the culmination of Dravidian temple design with a bold new grandeur.
+- *Body:*
+  - Temples were built with large granite blocks and richly carved surfaces.
+  - The Dravidian plan emphasised large open mandapas and high-pillared halls.
+  - Gopurams were tall and sculpturally decorated, marking temple entrances.
+  - Pillared halls often rested on elevated platforms with ornate yali brackets.
+  - Stone chariot structures became iconic symbols of Vijayanagara temple art.
+  - Sculptural reliefs depicted gods, goddesses, epic scenes and mythical creatures.
+  - The use of musical pillars in the Vittala temple showed architectural innovation.
+  - Temple complexes were integrated with tanks, courtyards and processional paths.
+  - Temple mandapas served both ritual and public functions, including music and dance.
+  - Ornamentation included lotus motifs, animal figures and rhythmic geometric patterns.
+  - Temple architecture reflected both Shaiva and Vaishnava devotion in the same complexes.
+  - Bronze and stone icons were installed within temple sanctums.
+  - The style preserved classical south Indian forms while increasing scale and ornament.
+  - Patronage by the royal family and wealthy merchants funded expansive temple building.
+  - The surviving ruins at Hampi illustrate the distinctive Vijayanagara temple vocabulary.
+- *Conclusion:*
+  - Vijayanagara temple architecture grew into a monumental Dravidian form, distinguished by massive pillared halls, elaborate sculpture and a majestic city-scale presence.
+
+### Q43. What are the contribution of Gajapatis towards Indian art and architecture.
+- *Intro:*
+  - The Gajapati rulers of Odisha made lasting contributions to temple architecture, sculpture and temple culture.
+- *Body:*
+  - They patronised the Jagannath temple at Puri, an important living pilgrimage centre.
+  - The Gajapatis supported the construction and renovation of temple complexes in Odisha.
+  - Their period saw the mature Kalinga temple style with rekha deul and jagamohana forms.
+  - Konark Sun Temple, completed under Narasimhadeva I, stands as a major architectural achievement.
+  - Gajapati temples are noted for their richly carved exterior walls and narrative panels.
+  - Sculptors produced elaborate stone images of deities, dancers and ornamentation.
+  - Temple art included elegant carvings of Vishnu, Shiva, Durga and local deities.
+  - Terracotta and bronze art also flourished under Gajapati patronage.
+  - The Gajapatis supported rituals, festivals and temple theatre at Puri and Konark.
+  - Their cultural patronage linked temple architecture with religious and civic life.
+  - Jagannath culture under the Gajapatis spread Odishan artistic aesthetics beyond the region.
+  - The temple economy supported artisans, guilds and local markets.
+  - The Gajapati monuments emphasise verticality, sculptural detail and harmonious proportions.
+  - Their buildings influenced later temple architecture in eastern India.
+  - Gajapati patronage preserved Odisha’s classical temple tradition during the late medieval period.
+- *Conclusion:*
+  - The Gajapatis made significant contributions by sustaining the Kalinga temple tradition and enriching Indian sacred art and architecture.
+
+### Q44. Throw some lights on major administration changed brought during Vijaynagar Empire.
+- *Intro:*
+  - Vijayanagara created administrative reforms that strengthened central rule while accommodating regional military elites.
+- *Body:*
+  - The empire used a monarchic system with the king as supreme authority and divine patron.
+  - It developed the nayankara system, granting land and military duties to nayakas.
+  - The nayankara system linked military service to revenue assignments in local territories.
+  - Provincial administration was divided into rajyas, nadu and kottams for easier management.
+  - Military commanders and local chiefs maintained garrisons and collected revenue.
+  - The empire maintained a strong network of forts under direct royal control.
+  - Central revenue officials ensured taxes were collected and remitted to the capital.
+  - The royal court included ministers for finance, military, justice and foreign affairs.
+  - The Amaram system allowed land grants for service while preserving royal ownership of land.
+  - The empire supported pilgrimage, temple grants and local village administration.
+  - Trade in ports such as Mangalore, Goa and ports on the Coromandel coast contributed to revenue.
+  - The administration incorporated Brahmanical advisors and used Sanskrit and local languages.
+  - Bureaucratic offices supervised irrigation, agriculture and land records.
+  - The state promoted a strong military-administrative elite that balanced loyalty and local autonomy.
+  - The administrative pattern influenced later Deccan states and Maratha governance.
+- *Conclusion:*
+  - Vijayanagara’s administrative changes combined central authority with a military-revenue system that sustained a powerful medieval empire.
+
+### Q45. Comment on the society of Vijaynagar Empire.
+- *Intro:*
+  - Vijayanagara society was socially stratified yet culturally vibrant, with strong links to temples, trade and military life.
+- *Body:*
+  - The social order included kings, nobles, soldiers, merchants, artisans, peasants and priests.
+  - Temple institutions played a central role in economic, social and religious life.
+  - Brahmins held important positions as priests, scholars and grant recipients.
+  - Warriors and nayakas formed an influential military class with land assignments.
+  - Artisans and craftsmen were organised into guilds serving temples and royal projects.
+  - Merchants engaged in inland and maritime trade, bringing wealth to the capital.
+  - Peasants cultivated land under the Amaram system and paid revenue to the state and temples.
+  - The empire had a strong tradition of patronage for Sanskrit, Telugu and Kannada culture.
+  - Women in elite families influenced court ritual, patronage and temple donations.
+  - Village communities retained customary rights and local self-government in many regions.
+  - Social mobility existed for talented soldiers, traders and administrators.
+  - Religious life included Vaishnava and Shaiva devotion, alongside local folk cults.
+  - Festivals and temple rituals structured the social calendar.
+  - Urban society in Hampi was cosmopolitan, with foreign traders and diverse communities.
+  - The empire’s society was shaped by both indigenous traditions and contacts with foreign merchants.
+- *Conclusion:*
+  - Vijayanagara society was a complex balance of caste, temple economy, military organization and cultural patronage.
+
+### Q46. Comment on the trade and commerce of Vijaynagar Empire.
+- *Intro:*
+  - Trade and commerce were major pillars of Vijayanagara prosperity, supporting its army and monumental cities.
+- *Body:*
+  - Inland trade in grains, textiles, horses, metals and forest products was well-developed.
+  - Coastal trade connected the empire with the Arabian Sea, Red Sea and Indian Ocean markets.
+  - Ports such as Mangalore, Goa and Cannanore were important maritime gateways.
+  - The empire exported spices, pearls, textiles and precious stones.
+  - It imported horses, metals, luxury fabrics and foreign goods.
+  - The bazaar at Hampi was famous for its variety of goods and bustling commerce.
+  - Merchant guilds such as the Ayyavole and Manigramam operated across South India.
+  - Trade revenue provided funds for temples, forts and royal expenditure.
+  - The empire supported artisans and weavers through state patronage.
+  - Markets were regulated through taxation, tolls and customs duties.
+  - The state controlled strategic routes and secured caravanserais.
+  - The presence of Portuguese and Arab traders added foreign exchange.
+  - Inland waterways and irrigation facilitated transport of agricultural produce.
+  - Trade also stimulated urbanization of towns around temples and markets.
+  - Vijayanagara’s economic strength rested on a combination of agrarian surplus and commercial exchange.
+- *Conclusion:*
+  - Trade and commerce were critical to Vijayanagara’s wealth, linking its agricultural base with regional and overseas markets.
+
+### Q47. Explain art and architecture contribution of Bahamani Sultanate.
+- *Intro:*
+  - The Bahmani Sultanate introduced an Indo-Persian Deccan style that blended Persian forms with local Indian materials.
+- *Body:*
+  - It built monumental mosques, tombs and madrasas at Gulbarga and Bidar.
+  - Bahmani architecture featured large domes, arches, minarets and courtyards.
+  - The Haft Gumbaz tombs of Bidar display graceful Persianate tomb design.
+  - The Jama Masjid at Gulbarga is noted for its large central dome and enclosed prayer hall.
+  - The Bahmani capital at Bidar developed distinctive tile work and painted decoration.
+  - Palace architecture included octagonal pavilions, arcaded halls and Persian gardens.
+  - The Bahmani court supported calligraphy, illuminated manuscripts and Persian poetry.
+  - Their architecture used local basalt and granite, shaped into Persian forms.
+  - The Deccan style blended Persian arches with Indian decorative motifs.
+  - Bahmani art reflected the cosmopolitan character of the Deccan court.
+  - The state patronized scholars, artists and architects from Iran and Central Asia.
+  - Courtyard gardens with water channels influenced later Deccan Sultanate palaces.
+  - Bahmani book culture helped spread Persianate learning in the Deccan.
+  - The architectural legacy endured in the later Bijapur and Golconda sultanates.
+  - Bahmani monuments are important examples of medieval Indo-Islamic art in the Deccan.
+- *Conclusion:*
+  - The Bahmani Sultanate’s art and architecture established a distinctive Deccan idiom that fused Persian elegance with Indian craftsmanship.
+
+### Q48. Explain briefly the administration of Bahamani Sultanate.
+- *Intro:*
+  - The Bahmani administration combined Persian bureaucratic forms with local Deccan structures.
+- *Body:*
+  - The Sultan was the absolute head of state and commander of the army.
+  - The vizier (wazir) managed finance and administration.
+  - The amil governed provinces (tarafs) and collected revenue.
+  - Revenue was based on land taxes, customs and trade duties.
+  - The state appointed military governors to secure frontier areas.
+  - The administration distinguished between Afaqs (Persian nobles) and Deccanis (local Muslim elites).
+  - The judiciary included qadis to administer Islamic law.
+  - Letters, documents and state papers were written in Persian.
+  - The Bahmanis maintained a standing army of cavalry, infantry and artillery.
+  - Minting and coinage were controlled by the central treasury.
+  - The administration supervised irrigation, land settlement and revenue surveys.
+  - The state relied on a network of forts for territorial control.
+  - Military and civil officials were often granted revenue farms or jagirs.
+  - The royal court had an elaborate protocol of ranks and titles.
+  - The administration experienced recurring factionalism between foreign and local elites.
+- *Conclusion:*
+  - The Bahmani Sultanate’s administration was a Perso-Islamic model adapted for the Deccan, balancing central control with provincial governance.
+
+### Q49. How did Akbar solved his initial problems and consolidated his empire ?
+- *Intro:*
+  - Akbar overcame early political challenges through military skill, diplomacy and administrative innovation.
+- *Body:*
+  - He faced rebellion from Afghan chiefs and Rajput and Muslim nobles after his accession.
+  - He defeated Hemu’s forces at the Battle of Panipat in 1556 and secured Delhi.
+  - He subdued local rebellions in Gwalior, Mewar and Malwa through military campaigns.
+  - He incorporated defeated nobles into his administration instead of eliminating them.
+  - He forged marital alliances with Rajput houses of Amber, Bikaner and Jodhpur.
+  - He reorganized the empire into subas (provinces) with military and civil governors.
+  - He introduced the mansabdari system to regularize military and bureaucratic service.
+  - He consolidated revenue assessment through the Todar Mal bandobast.
+  - He built a strong capital at Agra and fortified key frontier towns.
+  - He established intelligence networks and posted loyal officers across the empire.
+  - He promoted religious tolerance to win support from Hindu and Muslim subjects.
+  - He standardized coinage and revenue collection for reliable finance.
+  - He created a professional army loyal to the emperor rather than to local lords.
+  - He patronized culture and architecture to project imperial authority.
+  - He centralized decision-making while allowing local autonomy under competent administrators.
+- *Conclusion:*
+  - Akbar solved his early problems by combining military victory, administrative reform and inclusive politics to consolidate Mughal power.
+
+### Q50. What policies did Akbar adopt to have a peaceful relations with the neighbouring kingdoms ?
+- *Intro:*
+  - Akbar used diplomacy, alliances and religious moderation to establish peaceful relations with neighbouring states.
+- *Body:*
+  - He formed matrimonial alliances with Rajput rulers, binding them to the Mughal cause.
+  - He granted high military and administrative posts to Rajput chiefs.
+  - He adopted Sulh-i-Kul, a policy of universal tolerance towards all religions.
+  - He abolished the jizya tax on non-Muslims in 1564.
+  - He welcomed Hindu and Jain scholars to his court, fostering goodwill.
+  - He respected local customs and traditions in conquered territories.
+  - He negotiated with regional rulers like the Deccan sultans and Bengal Nawabs.
+  - He maintained strong garrisons on borders to deter aggression while avoiding constant war.
+  - He used gifts, embassies and trade incentives to cultivate friendly relations.
+  - He employed Afghan and Persian nobles as mediators in frontier diplomacy.
+  - He allowed defeated rulers to retain some autonomy as tributaries.
+  - He supported pilgrimage and religious institutions across regions.
+  - He extended trade privileges to neighbouring states to create mutual interest.
+  - He pursued partial accommodation with the Rajputs to prevent northwestern instability.
+  - He chose military action selectively, preferring settlement where possible.
+- *Conclusion:*
+  - Akbar’s policies of inclusion, alliance and pragmatic diplomacy helped him maintain peaceful relations with neighbouring kingdoms.
+
+### Q51. Explain briefly Mansabdari and Jagirdari system.
+- *Intro:*
+  - The Mansabdari and Jagirdari systems were core institutions of Mughal administration linking military service with revenue assignment.
+- *Body:*
+  - Mansab means rank; a mansabdar held a position in the imperial hierarchy.
+  - Mansabs were measured in zat (personal rank) and sawar (number of cavalry to maintain).
+  - Mansabdars were appointed by the emperor and were transferable across provinces.
+  - A mansabdar’s salary was paid in cash or by grant of a jagir.
+  - Jagirdari assigned the right to collect revenue from a specified territory.
+  - Jagirdars were responsible for collecting revenue and maintaining horsemen.
+  - Jagirs were not hereditary and could be transferred or withdrawn by the emperor.
+  - The Mansabdari system ensured a direct link between service and reward.
+  - The Jagirdari system provided the financial base for the mansabdars.
+  - A jagir could be of different types, such as khalsa jagir or assignment jagir.
+  - The system helped centralize control by making nobles dependent on imperial favor.
+  - It reduced the power of regional landlords by preventing permanent land ownership.
+  - The system also placed financial and military duties on mansabdars.
+  - Officials were regularly inspected to check the accuracy of revenue accounts.
+  - The system became the backbone of Mughal military and administrative organization.
+- *Conclusion:*
+  - Mansabdari and Jagirdari together created a flexible imperial structure that linked rank, revenue and military obligation under Mughal rule.
+
+### Q52. Account for the development of paintings during Mughal Empire.
+- *Intro:*
+  - Mughal painting developed into a distinctive Indo-Persian school under imperial patronage.
+- *Body:*
+  - It began under Babur and Humayun with Persian influence and illustrated manuscripts.
+  - Humayun brought Persian artists like Mir Sayyid Ali and Khwaja Abdus Samad to his court.
+  - Akbar founded the imperial atelier and sponsored manuscripts such as Akbarnama and Razmnama.
+  - The Mughal style combined Persian delicacy with Indian colour and realism.
+  - Artists like Basawan, Farrukh Beg, and Daswanth created narrative and portrait paintings.
+  - Painting workshops produced illustrations of history, court life, hunting scenes and religious stories.
+  - Akbar’s court encouraged close observation of nature and human expression.
+  - Jahangir increased realism, especially in portraiture, animal studies and botanical art.
+  - Ustad Mansur became famous for accurate natural history paintings of birds and animals.
+  - Shah Jahan’s period favored elegant court scenes, architecture and refined colour palettes.
+  - Miniature painting was linked to manuscripts, albums (muraqqa) and royal gifts.
+  - Mughal painting influenced Rajput and Deccan schools in later centuries.
+  - Persian calligraphy and ornamental borders were integral to Mughal paintings.
+  - The art also recorded political events, diplomatic ceremonies and festivals.
+  - Mughal painting brought a synthesis of Persian, Indian and Central Asian aesthetics.
+- *Conclusion:*
+  - Mughal painting evolved from Persian origins into a mature, courtly art that combined realism, elegance and cultural synthesis.
+
+### Q53. Give an account of Jhangir's art and architecture.
+- *Intro:*
+  - Jahangir’s reign is remembered for refined painting, natural history art and elegant architectural patronage.
+- *Body:*
+  - Jahangir patronised portraiture, making royal likenesses a central genre.
+  - His court artists created sensitive studies of nobles, princes and everyday life.
+  - He encouraged natural history painting, especially by Ustad Mansur.
+  - Jahangir’s memoir Tuzk-i-Jahangiri contains references to artists and commissions.
+  - He ordered the construction of the tomb of his beloved wife Nur Jahan, an example of Mughal funerary style.
+  - Jahangir rebuilt and decorated gardens such as the Shalimar Bagh in Kashmir.
+  - His reign saw refinement of decorative arts, carpets and textiles.
+  - Murals and book illustrations from his period show Persianate refinement and realistic detail.
+  - He patronised calligraphy and illuminated manuscripts in his workshops.
+  - Court painting under Jahangir often combined landscape, portrait and animal studies.
+  - His architectural projects emphasised gardens, pavilions and pleasure palaces.
+  - Jahangir also supported restorations of mosques and Sufi shrines.
+  - His reign formed a bridge between Akbar’s pluralism and Shah Jahan’s architectural magnificence.
+  - Jahangir promoted a cultured aesthetic in court life, including jewellery and refined furnishings.
+  - He fostered artistic exchange with Persian and European artists.
+- *Conclusion:*
+  - Jahangir’s art and architecture are marked by elegance, realism and courtly sophistication.
+
+### Q54. Give an account of Shah Janha's art and architecture.
+- *Intro:*
+  - Shah Jahan ushered in a golden age of Mughal architecture and patronised art of great refinement.
+- *Body:*
+  - The Taj Mahal, built as Mumtaz Mahal’s mausoleum, is his architectural masterpiece.
+  - The Red Fort in Delhi became the imperial residence and a symbol of Mughal power.
+  - Jahangir’s tomb in Lahore and Shahdara complex reflect his interest in funerary architecture.
+  - The Jama Masjid of Delhi is a major congregational mosque from his reign.
+  - Shalimar Bagh in Lahore demonstrates his love of Persian-style gardens.
+  - He built the Moti Masjid in the Red Fort and the Moti Masjid at Agra.
+  - Shah Jahan introduced extensive use of white marble, red sandstone and pietra dura inlay.
+  - His architecture emphasised symmetry, axial planning and refined ornament.
+  - Palace architecture included Diwan-i-Aam, Diwan-i-Khas and ornate private chambers.
+  - His buildings featured intricate floral motifs, calligraphy and geometric patterns.
+  - Mughal urban design under Shah Jahan combined gardens, water channels and formal spaces.
+  - Court art produced luxurious manuscripts, miniature paintings and decorative arts.
+  - He patronised artists who worked on court portraits, court scenes and royal albums.
+  - Shah Jahan’s reign saw the highest level of craftsmanship in stone carving and inlay.
+  - His monuments projected imperial authority through beauty and monumental scale.
+- *Conclusion:*
+  - Shah Jahan’s art and architecture are defined by aesthetic perfection, monumental harmony and the use of premium materials.
+
+### Q55. Give an account of society and culture during Mughal time.
+- *Intro:*
+  - Mughal society and culture were shaped by a fusion of Persianate, Indian and Central Asian influences.
+- *Body:*
+  - The Mughal court modelled Persian etiquette, language and dress.
+  - Persian was the language of administration, literature and high culture.
+  - Urdu emerged as a living lingua franca blending Persian, Arabic and vernacular Hindi.
+  - Court culture patronised poetry, music, painting and architecture.
+  - Mughal society included Muslims, Hindus, Jains, Sikhs and Christians.
+  - Religious pluralism under Akbar encouraged cultural exchange and tolerance.
+  - Sufism and Bhakti movements influenced popular belief and devotional practice.
+  - New food habits, including refined cuisine and sweet dishes, developed in the court.
+  - Courtly fashion adopted Persian robes, turbans and jewellery, while local dress remained common elsewhere.
+  - Education was valued among elites, with madrasas and maktabs teaching Persian, Arabic and religious sciences.
+  - Social life revolved around imperial festivals, royal hunts and public audiences.
+  - The Mughal empire supported a vibrant artisan class in textiles, metalwork, ceramics and jewellery.
+  - Women of the royal household influenced politics, culture and charity.
+  - Urban centres such as Agra, Delhi and Lahore were cosmopolitan cultural hubs.
+  - The Mughals encouraged literary composition in Persian, Sanskrit, Urdu and regional languages.
+- *Conclusion:*
+  - Mughal society and culture were rich and composite, blending diverse traditions into an enduring Indo-Islamic civilisation.
+
+### Q56. Why Shah Janha's reign is called the Golden Age of Mughal Architecture ?
+- *Intro:*
+  - Shah Jahan’s reign is called the Golden Age because it produced the finest Mughal monuments and a coherent architectural style.
+- *Body:*
+  - The Taj Mahal represented the peak of Mughal funerary architecture.
+  - The Red Fort established a grand imperial palace city in Delhi.
+  - The Jama Masjid created one of the largest mosque ensembles in India.
+  - Agricultural and economic stability provided resources for monumental building.
+  - Uniform use of white marble and red sandstone defined the aesthetic.
+  - Pietra dura inlay and calligraphic decoration reached new perfection.
+  - Symmetry and axial planning became hallmarks of Mughal design.
+  - Shah Jahan patronised architects who perfected gardens and water features.
+  - Palace architecture blended ceremonial and private spaces elegantly.
+  - The period produced enduring civic monuments and garden complexes.
+  - Stone carving and decorative arts were executed with exceptional craftsmanship.
+  - The emperor’s direct involvement ensured cohesive architectural vision.
+  - The buildings projected imperial power through beauty and order.
+  - Shah Jahan’s monuments influenced later Rajput and Deccan architecture.
+  - The period is remembered as the high point of Mughal decorative arts.
+- *Conclusion:*
+  - Shah Jahan’s reign is called the Golden Age of Mughal architecture because it achieved unrivalled monumental beauty and technical mastery.
+
+### Q57. How indo-islamic culture mingled in India ?
+- *Intro:*
+  - Indo-Islamic culture emerged from sustained contact between Islamic and Indian traditions over centuries.
+- *Body:*
+  - Persian and Arabic language merged with local dialects to create Urdu and enriched Indian vocabulary.
+  - Islamic architecture incorporated Indian stone carving, temple plans and decorative motifs.
+  - Sufi saints and Bhakti mystics facilitated religious exchange and shared devotion.
+  - Court art combined Persian miniatures with Indian colour, flora and figural realism.
+  - Mughal cuisine blended Central Asian, Persian and Indian ingredients and techniques.
+  - Dress styles fused Persian robes with Indian textiles and jewelry.
+  - Administrative institutions adapted Persian chancery practices to Indian conditions.
+  - Music saw fusion in qawwali, khayal, dhrupad and courtly singing.
+  - Festivals and social ceremonies began to share cultural elements across communities.
+  - Literature in Persian, Urdu, Sanskrit and regional languages reflected shared concepts.
+  - Monumental architecture such as the Taj and Qutb Minar symbolised the fusion.
+  - Hindu motifs like lotus and bells appeared in mosque decoration.
+  - Muslim rulers adopted Indian titles, customs and court rituals.
+  - Indian artisans learned Persian crafts while preserving local building techniques.
+  - The mingling produced a composite culture that shaped India’s medieval identity.
+- *Conclusion:*
+  - Indo-Islamic culture mingled through architecture, language, religion and everyday life, creating a blended medieval Indian civilisation.
+
+### Q58. Describe the role of Shivaji in the formation of Maharatha State ?
+- *Intro:*
+  - Shivaji laid the foundations of the Maratha state through military innovation, administration and regional mobilisation.
+- *Body:*
+  - He was born in 1630 and established himself as a regional chief in the western Deccan.
+  - Shivaji captured Torna fort in 1646, beginning the rise of his power.
+  - He used guerrilla warfare and hit-and-run tactics suited to the Western Ghats.
+  - He built a network of forts including Raigad, Rajgad and Sinhagad.
+  - He organised a compact cavalry and local militia for fast raids.
+  - He challenged the Bijapur Sultanate and asserted independence after 1659.
+  - Shivaji raided Surat and coastal ports to secure revenue and weaken Adil Shahi power.
+  - He promoted Marathi language and local customs in his administration.
+  - He adopted the Sanskrit title Chhatrapati in 1674 after coronation at Raigad.
+  - He developed the Ashta Pradhan council to govern his emergent state.
+  - He created the concept of Swarajya (self-rule) as a political ideal.
+  - Shivaji established a strong navy under Kanhoji Angre and coastal defences.
+  - He built a revenue and land system suited to the Deccan terrain.
+  - He secured allegiance from local chiefs and Maratha clans.
+  - His policies laid the institutional basis for the later Maratha Confederacy.
+- *Conclusion:*
+  - Shivaji’s role was central in transforming a collection of hill chiefs into a sovereign Maratha polity.
+
+### Q59. Describe the administration of Shivaji ?
+- *Intro:*
+  - Shivaji’s administration was efficient, military-oriented and rooted in Marathi-Princely tradition.
+- *Body:*
+  - He established the Ashta Pradhan council of eight ministers.
+  - Key ministers included the Peshwa, Amatya, Sachiv, Sumant, Senapati, Nyayadhish, Panditrao and Majumdar.
+  - The Peshwa handled general administration, while the Amatya managed finance.
+  - The Senapati commanded the military and the navy.
+  - The Nyayadhish oversaw justice and legal matters.
+  - The administration used Marathi and Sanskrit in official records.
+  - Shivaji introduced the Chauth and Sardeshmukhi taxes on tributary territories.
+  - He maintained strict control over forts, land revenue and military organisation.
+  - The Paik system recruited soldiers from local villages.
+  - He appointed Karkuns and Deshmukhs to supervise revenue collection and local policing.
+  - His administration emphasised quick decision-making and accountability.
+  - He protected peasants from excessive exaction by nobles.
+  - The king’s household included a well-regulated royal court and secretariat.
+  - Shivaji encouraged temple rebuildings and patronised local religious institutions.
+  - He maintained diplomatic relations with Mughals, Bijapur and southern powers.
+- *Conclusion:*
+  - Shivaji’s administration combined military strength, disciplined bureaucracy and regional autonomy to govern the emerging Maratha state.

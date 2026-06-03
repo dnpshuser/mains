@@ -15,3 +15,13 @@
 - agitation: आंदोलन उत्तेजना अशांति
 - Placate: to make someone less angry
 - Psychotropic substances are chemical agents that alter the central nervous system, affecting the brain and changing mood, awareness, thoughts, feelings, or behavior
+- kinship: the relationship between the members of the same family
+- venerated: to have and show a lot of respect for somebody/something that is considered to be old, holy or very important
+- archaic: very old-fashioned; no longer used
+- Genealogies are records, charts, or accounts that document the lineage, descent, and history of a family over multiple generations
+- embody: to be a very good example of something. To include or contain something
+- amorous: showing sexual desire and love for somebody
+- Aesthetics: the study of beauty, especially in art
+- Etymological is an adjective that describes anything relating to the origin and historical development of words
+- Ignorance is the lack of knowledge, education, or awareness about a specific subject or fact
+- transit: the act of being moved or carried from one place to another
