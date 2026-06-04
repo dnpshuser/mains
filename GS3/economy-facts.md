@@ -1,0 +1,1 @@
+- Micro, Small, and Medium Enterprises (MSMEs) are the backbone of the Indian economy, contributing roughly 30% to the country’s GDP, 45% to manufacturing output, and over 48% to total exports while employing more than 11 crore citizens.

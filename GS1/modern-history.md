@@ -2,15 +2,15 @@
 - *Intro:*
   - Despite early maritime success, the Portuguese failed to sustain power in India because they lacked resources, local alliances and strategic focus.
 - *Body:*
-  - Limited resources: Portugal had a small population and could not match the military and financial strength of Britain and the Dutch.
-  - Coastal focus: Portuguese control remained limited to ports and forts, without deeper penetration into the Indian hinterland.
-  - Naval setbacks: Losses to the British and Dutch weakened their Indian Ocean position and disrupted trade.
+  - **Limited resources**: Portugal had a small population and could not match the military and financial strength of Britain and the Dutch.
+  - **Coastal focus**: Portuguese control remained limited to ports and forts, without deeper penetration into the Indian hinterland.
+  - **Naval setbacks**: Losses to the British and Dutch weakened their Indian Ocean position and disrupted trade.
   - Dutch capture of Cochin in 1663 showed that Portuguese naval power was no longer unchallenged.
-  - Poor diplomacy: They failed to build lasting alliances with major Indian powers like the Mughal court or Marathas.
-  - Religious zeal: Forced conversions and persecution of Muslims created local hostility and resistance.
-  - Global overreach: Brazil and African colonies diverted attention and investment away from India.
-  - European competition: Stronger Dutch and British companies displaced them in key trade centres.
-  - Administrative weakness: Their maritime empire lacked coherent governance and a stable revenue base.
+  - **Poor diplomacy**: They failed to build lasting alliances with major Indian powers like the Mughal court or Marathas.
+  - **Religious zeal**: Forced conversions and persecution of Muslims created local hostility and resistance.
+  - **Global overreach**: Brazil and African colonies diverted attention and investment away from India.
+  - **European competition**: Stronger Dutch and British companies displaced them in key trade centres.
+  - **Administrative weakness**: Their maritime empire lacked coherent governance and a stable revenue base.
 - *Conclusion:*
   - The Portuguese could not compete because their empire was too small, too religiously rigid and too isolated against stronger European rivals.
 
@@ -48,13 +48,13 @@
 - *Intro:*
   - Vasco da Gama’s arrival in India opened the sea route from Europe, marking the start of direct European-Indian trade and colonisation.
 - *Body:*
-  - Maritime route: He established the Cape of Good Hope sea route to India, bypassing Arab and Ottoman-controlled land routes.
-  - Trade revolution: His voyage enabled direct spice trade, reducing costs and increasing European access to Indian goods.
-  - Strategic gateway: India became a forward base for Portuguese naval power in the Indian Ocean.
-  - Diplomatic contact: It initiated direct relations between European powers and Indian rulers.
-  - Economic impact: The voyage made spices and textiles more readily available in Europe.
-  - Colonial precedent: It paved the way for later European expansion and competition in India.
-  - Cultural encounter: European Christianity and new goods began to influence coastal India.
+  - **Maritime route**: He established the Cape of Good Hope sea route to India, bypassing Arab and Ottoman-controlled land routes.
+  - **Trade revolution**: His voyage enabled direct spice trade, reducing costs and increasing European access to Indian goods.
+  - **Strategic gateway**: India became a forward base for Portuguese naval power in the Indian Ocean.
+  - **Diplomatic contact**: It initiated direct relations between European powers and Indian rulers.
+  - **Economic impact**: The voyage made spices and textiles more readily available in Europe.
+  - **Colonial precedent**: It paved the way for later European expansion and competition in India.
+  - **Cultural encounter**: European Christianity and new goods began to influence coastal India.
 - *Conclusion:*
   - Vasco’s entry transformed India into a key theatre of European trade and imperial rivalry.
 
@@ -78,10 +78,10 @@
   - Focus shifted on other territories of the world
   - Fall of Napolean contributed to French fall in India
   - English were having smarter able administrators
-  - Lack of reinforcements: France could not send enough troops or funds because of European wars, unlike the British during the Seven Years’ War.
-  - Decisive defeat: The Battle of Wandiwash (1760) sealed French military collapse in South India.
-  - Poor coordination: French commanders were often divided and lacked a unified strategy in India.
-  - Economic disadvantage: British control of Bengal gave the EIC far greater resources.
+  - **Lack of reinforcements**: France could not send enough troops or funds because of European wars, unlike the British during the Seven Years’ War.
+  - **Decisive defeat**: The Battle of Wandiwash (1760) sealed French military collapse in South India.
+  - **Poor coordination**: French commanders were often divided and lacked a unified strategy in India.
+  - **Economic disadvantage**: British control of Bengal gave the EIC far greater resources.
 - *Conclusion:*
   - Strategic overreach, naval weakness and superior British organisation caused the French to lose in India.
 
@@ -89,16 +89,16 @@
 - *Intro:*
   - French rule in India left a distinct cultural and administrative legacy, especially along the Coromandel coast and in Pondicherry.
 - *Body:*
-  - Architecture Impact: 
-    - Grid Layouts: French engineers split Puducherry into a grid-iron layout, separating the "White Town" (French) from "Black Town" (Indian).
+  - **Architecture Impact**: 
+    - **Grid Layouts**: French engineers split Puducherry into a grid-iron layout, separating the "White Town" (French) from "Black Town" (Indian).
     - pastel-colored colonial villas, high walls, wrought-iron balconies, and grid-iron street layouts reminiscent of a French Mediterranean town.
-  - Culture and Language:
-    - French: recognised official language in Pondicherry
-    - Dual Nationality: The 1956 Treaty of Cession allowed local residents to choose French nationality, creating a unique community of thousands of French citizens living in India today.
-  - Trade impact: French factories in Pondicherry and Chandernagore traded textiles, opium and spices with Southeast Asia and Europe.
-  - Legal legacy: French civil law influenced administration in Pondicherry and other French enclaves.
-  - Education: French schools and missionary institutions promoted Western learning.
-  - Urban planning: Pondicherry developed as a planned colonial city with promenades, parks and civic buildings.
+  - **Culture and Language**:
+    - **French**: recognised official language in Pondicherry
+    - **Dual Nationality**: The 1956 Treaty of Cession allowed local residents to choose French nationality, creating a unique community of thousands of French citizens living in India today.
+  - **Trade impact**: French factories in Pondicherry and Chandernagore traded textiles, opium and spices with Southeast Asia and Europe.
+  - **Legal legacy**: French civil law influenced administration in Pondicherry and other French enclaves.
+  - **Education**: French schools and missionary institutions promoted Western learning.
+  - **Urban planning**: Pondicherry developed as a planned colonial city with promenades, parks and civic buildings.
 - *Conclusion:*
   - French rule was small-scale but left a lasting imprint in architecture, language, trade networks and colonial culture in South India.
 
@@ -337,4 +337,3 @@
   - Governor-Generals transformed India’s administration into an efficient colonial state that served British interests.
 
 ### end
-

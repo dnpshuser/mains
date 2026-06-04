@@ -340,21 +340,21 @@
 - *Intro:*
   - The Bahmani Sultanate introduced an Indo-Persian Deccan style that blended Persian forms with local Indian materials.
 - *Body:*
-  - It built monumental mosques, tombs and madrasas at Gulbarga and Bidar.
-  - Bahmani architecture featured large domes, arches, minarets and courtyards.
-  - The Haft Gumbaz tombs of Bidar display graceful Persianate tomb design.
-  - The Jama Masjid at Gulbarga is noted for its large central dome and enclosed prayer hall.
-  - The Bahmani capital at Bidar developed distinctive tile work and painted decoration.
-  - Palace architecture included octagonal pavilions, arcaded halls and Persian gardens.
-  - The Bahmani court supported calligraphy, illuminated manuscripts and Persian poetry.
-  - Their architecture used local basalt and granite, shaped into Persian forms.
-  - The Deccan style blended Persian arches with Indian decorative motifs.
-  - Bahmani art reflected the cosmopolitan character of the Deccan court.
-  - The state patronized scholars, artists and architects from Iran and Central Asia.
-  - Courtyard gardens with water channels influenced later Deccan Sultanate palaces.
-  - Bahmani book culture helped spread Persianate learning in the Deccan.
-  - The architectural legacy endured in the later Bijapur and Golconda sultanates.
-  - Bahmani monuments are important examples of medieval Indo-Islamic art in the Deccan.
+  - It built monumental mosques, tombs and madrasas at **Gulbarga and Bidar**.
+  - **Bahmani architecture** featured large domes, arches, minarets and courtyards.
+  - The **Haft Gumbaz** tombs of Bidar display graceful Persianate tomb design.
+  - The **Jama Masjid** at Gulbarga is noted for its large central dome and enclosed prayer hall.
+  - The **Bahmani capital** at Bidar developed distinctive tile work and painted decoration.
+  - **Palace architecture** included octagonal pavilions, arcaded halls and Persian gardens.
+  - The **Bahmani court** supported calligraphy, illuminated manuscripts and Persian poetry.
+  - **Their architecture** used local basalt and granite, shaped into Persian forms.
+  - The **Deccan style** blended Persian arches with Indian decorative motifs.
+  - **Bahmani art** reflected the cosmopolitan character of the Deccan court.
+  - The **state** patronized scholars, artists and architects from Iran and Central Asia.
+  - **Courtyard gardens** with water channels influenced later Deccan Sultanate palaces.
+  - **Bahmani book culture** helped spread Persianate learning in the Deccan.
+  - The **architectural legacy** endured in the later Bijapur and Golconda sultanates.
+  - **Bahmani monuments** are important examples of medieval Indo-Islamic art in the Deccan.
 - *Conclusion:*
   - The Bahmani Sultanate’s art and architecture established a distinctive Deccan idiom that fused Persian elegance with Indian craftsmanship.
 

@@ -2,18 +2,18 @@
 - *Intro:*
   - Ancient texts mirror society by recording social roles, values, rituals, gender norms and caste in clear literary form.
 - *Body:*
-  - Caste: Vedic hymns and Manu Smriti describe varna duties, showing caste as a social framework.
-  - Ritual: Yajna and soma rituals in the Rigveda underline the ritualistic basis of society.
-  - Kinship: Mahabharata and Ramayana emphasize lineage, joint-family duties and inheritance rules.
-  - Kingship: Ashvamedha and Rajasuya rituals in epic literature attest to royal authority and political hierarchy.
-  - Patronage: Court poets like Kalidasa praise kings in works such as "Shakuntala," indicating elite patronage and social order.
-  - Gender: In the Ramayana and Mahabharata, Sita, Draupadi and Gargi illustrate ideals of womanhood and female agency.
-  - Occupation: Manusmriti and Arthashastra list priests, warriors, traders and artisans, showing organised social functions.
-  - Village life: Sangam poems describe farmers, fishermen and daily village economy.
-  - Ethics: Dharma and artha in the Mahabharata, Manusmriti and Dharmasutras reflect moral and social expectations.
-  - Religion: Upanishads and Puranas record diverse beliefs, deities and rituals.
-  - Social mobility: Bhakti poems by Kabir and Namdev challenge caste restrictions.
-  - Language: Works in Prakrit and regional languages, such as Gaha Sattasai, show widening social access.
+  - **Caste**: Vedic hymns and Manu Smriti describe varna duties, showing caste as a social framework.
+  - **Ritual**: Yajna and soma rituals in the Rigveda underline the ritualistic basis of society.
+  - **Kinship**: Mahabharata and Ramayana emphasize lineage, joint-family duties and inheritance rules.
+  - **Kingship**: Ashvamedha and Rajasuya rituals in epic literature attest to royal authority and political hierarchy.
+  - **Patronage**: Court poets like Kalidasa praise kings in works such as "Shakuntala," indicating elite patronage and social order.
+  - **Gender**: In the Ramayana and Mahabharata, Sita, Draupadi and Gargi illustrate ideals of womanhood and female agency.
+  - **Occupation**: Manusmriti and Arthashastra list priests, warriors, traders and artisans, showing organised social functions.
+  - **Village life**: Sangam poems describe farmers, fishermen and daily village economy.
+  - **Ethics**: Dharma and artha in the Mahabharata, Manusmriti and Dharmasutras reflect moral and social expectations.
+  - **Religion**: Upanishads and Puranas record diverse beliefs, deities and rituals.
+  - **Social mobility**: Bhakti poems by Kabir and Namdev challenge caste restrictions.
+  - **Language**: Works in Prakrit and regional languages, such as Gaha Sattasai, show widening social access.
 - *Conclusion:*
   - Literature preserves ancient social characteristics by reflecting norms, values and cultural organization of society.
 
@@ -21,18 +21,18 @@
 - *Intro:*
   - Vedic literature differs from canonical literature in purpose, content, language, authority and the social context of composition.
 - *Body:*
-  - Period: Vedic texts are older, composed c.1500–500 BCE, while canonical works span later ancient periods.
-  - Genre: Vedas are ritual and hymn collections, whereas canonical works include epics, Smritis and Puranas.
-  - Language: Vedas use archaic Vedic Sanskrit; canonical works use classical Sanskrit and regional dialects.
-  - Purpose: Vedas focus on sacrifice and cosmic order, while canonical texts teach law, history and ethics.
-  - Authority: Vedas are regarded as shruti, divinely revealed; canonical works are smriti and tradition-based.
-  - Content: Vedic literature covers rituals, deities and cosmology; canonical literature includes myths, laws and genealogies.
-  - Structure: Rigveda has hymns; Puranas have narratives and genealogies.
-  - Accessibility: Canonical texts like Ramayana reached wider audiences through recitation.
-  - Social role: Vedas served priestly classes; canonical works addressed rulers and common people.
-  - Philosophy: Vedic texts introduce early metaphysics; later literature develops ethics, bhakti and devotion.
-  - Codification: Smritis record social law; Vedas do not give formal legal codes.
-  - Transmission: Vedic chanting preserved exact sounds; canonical literature evolved with commentary.
+  - **Period**: Vedic texts are older, composed c.1500–500 BCE, while canonical works span later ancient periods.
+  - **Genre**: Vedas are ritual and hymn collections, whereas canonical works include epics, Smritis and Puranas.
+  - **Language**: Vedas use archaic Vedic Sanskrit; canonical works use classical Sanskrit and regional dialects.
+  - **Purpose**: Vedas focus on sacrifice and cosmic order, while canonical texts teach law, history and ethics.
+  - **Authority**: Vedas are regarded as shruti, divinely revealed; canonical works are smriti and tradition-based.
+  - **Content**: Vedic literature covers rituals, deities and cosmology; canonical literature includes myths, laws and genealogies.
+  - **Structure**: Rigveda has hymns; Puranas have narratives and genealogies.
+  - **Accessibility**: Canonical texts like Ramayana reached wider audiences through recitation.
+  - **Social role**: Vedas served priestly classes; canonical works addressed rulers and common people.
+  - **Philosophy**: Vedic texts introduce early metaphysics; later literature develops ethics, bhakti and devotion.
+  - **Codification**: Smritis record social law; Vedas do not give formal legal codes.
+  - **Transmission**: Vedic chanting preserved exact sounds; canonical literature evolved with commentary.
 - *Conclusion:*
   - Vedic and canonical literature differ in form, function and cultural role, reflecting changing ancient India.
 
@@ -40,18 +40,18 @@
 - *Intro:*
   - Foreign travellers provided independent dates, details of rulers, geography and society that support India’s chronological history.
 - *Body:*
-  - Megasthenes: His Indica mentions Chandragupta Maurya and Pataliputra, linking Greek and Indian chronologies.
-  - Arrian: Described Alexander’s campaigns in India and local kingdoms, helping date classical interactions.
-  - Pliny: Referred to Indian trade goods and the Indus region in the first century CE.
-  - Fa-Hien: Reported Gupta-era monasteries and political conditions around 405 CE.
-  - Hiuen Tsang: Recorded Harsha’s reign, cities and religious institutions in the seventh century.
-  - Al-Biruni: Mentioned Indian eras, calendars and dynasties in the 11th century.
-  - Marco Polo: Noted southern ports and trade in the 13th century. He mentions the prosperity of Pandyan kingdom.
-  - Ibn Battuta: Described Delhi Sultanate society and geography in the 14th century.
-  - Geographic details: Rivers, cities and routes help locate ancient sites.
-  - Currency notes: Traveller accounts mention coins and markets, aiding economic chronology.
-  - Cultural observations: Temples, rituals and social customs corroborate archaeological dates.
-  - Cross-references: Their reports are compared with Indian inscriptions and texts to build timelines.
+  - **Megasthenes**: His Indica mentions Chandragupta Maurya and Pataliputra, linking Greek and Indian chronologies.
+  - **Arrian**: Described Alexander’s campaigns in India and local kingdoms, helping date classical interactions.
+  - **Pliny**: Referred to Indian trade goods and the Indus region in the first century CE.
+  - **Fa-Hien**: Reported Gupta-era monasteries and political conditions around 405 CE.
+  - **Hiuen Tsang**: Recorded Harsha’s reign, cities and religious institutions in the seventh century.
+  - **Al-Biruni**: Mentioned Indian eras, calendars and dynasties in the 11th century.
+  - **Marco Polo**: Noted southern ports and trade in the 13th century. He mentions the prosperity of Pandyan kingdom.
+  - **Ibn Battuta**: Described Delhi Sultanate society and geography in the 14th century.
+  - **Geographic details**: Rivers, cities and routes help locate ancient sites.
+  - **Currency notes**: Traveller accounts mention coins and markets, aiding economic chronology.
+  - **Cultural observations**: Temples, rituals and social customs corroborate archaeological dates.
+  - **Cross-references**: Their reports are compared with Indian inscriptions and texts to build timelines.
 - *Conclusion:*
   - Foreign travellers enriched chronological knowledge by providing dated, external evidence that complements Indian sources.
 
@@ -59,19 +59,19 @@
 - *Intro:*
   - Archaeological sources are crucial because they provide physical evidence, dates and cultural details absent from texts.
 - *Body:*
-  - Material evidence: Pottery, tools and structures show everyday life and economy.
-  - Chronology: Radiocarbon dating of sites like Mehrgarh creates reliable timelines.
-  - Urban planning: Harappan grid cities reveal civic organisation and planning.
-  - Inscriptions: Ashokan edicts and copper plates record rulers and policies.
-  - Coins: Punch-marked and gold coins indicate political authority and trade.
-  - Seals: Harappan seals show administrative practices and contacts.
-  - Monuments: Stupas, temples and forts show religious and political values.
-  - Burials: Tombs and graves reveal beliefs about death and social status.
-  - Diet: Animal bones and plant remains show subsistence and agriculture.
-  - Technology: Metal objects and tools demonstrate craft development.
-  - Continuity: Archaeological layers trace cultural changes over time.
-  - Settlement: Excavations reveal rural and urban habitation patterns.
-  - Scientific methods: Archaeobotany, zooarchaeology and geochemistry refine historical understanding.
+  - **Material evidence**: Pottery, tools and structures show everyday life and economy.
+  - **Chronology**: Radiocarbon dating of sites like Mehrgarh creates reliable timelines.
+  - **Urban planning**: Harappan grid cities reveal civic organisation and planning.
+  - **Inscriptions**: Ashokan edicts and copper plates record rulers and policies.
+  - **Coins**: Punch-marked and gold coins indicate political authority and trade.
+  - **Seals**: Harappan seals show administrative practices and contacts.
+  - **Monuments**: Stupas, temples and forts show religious and political values.
+  - **Burials**: Tombs and graves reveal beliefs about death and social status.
+  - **Diet**: Animal bones and plant remains show subsistence and agriculture.
+  - **Technology**: Metal objects and tools demonstrate craft development.
+  - **Continuity**: Archaeological layers trace cultural changes over time.
+  - **Settlement**: Excavations reveal rural and urban habitation patterns.
+  - **Scientific methods**: Archaeobotany, zooarchaeology and geochemistry refine historical understanding.
 - *Conclusion:*
   - Archaeology reconstructs history through material evidence, filling gaps left by literary sources.
 
@@ -79,19 +79,19 @@
 - *Intro:*
   - Monuments reflect culture by embodying religious beliefs, artistic expression, social values and political identity.
 - *Body:*
-  - Religion: Sanchi Stupa reflects Buddhist devotion and early stupastic architecture, while the Ajanta caves show Buddhist narrative art.
-  - Ritual: Ajanta murals depict monks performing puja and the Buddha’s life scenes.
-  - Royal power: Mauryan pillars such as the Sarnath capital symbolise imperial authority and dharma under Ashoka.
-  - Art style: Khajuraho temples show sensuality and religious symbolism through sculpted amorous couples.
-  - Language: Inscriptions on Ashokan edicts and Hampi temples link monuments to Sanskrit, Prakrit and local dialects.
-  - Patronage: The Shore Temple of Mamallapuram and Ellora cave patrons demonstrate royal and merchant support for religion.
-  - Society: Sun Temple sculptures at Konark depict dancers, craftsmen and market life.
-  - Technology: Rock-cut caves at Elephanta and brick temples at Sanchi reflect advanced engineering skills.
-  - Continuity: The Kashi Vishwanath site and the Puri temple show continuity of worship across centuries.
-  - Regional identity: Dravidian gopurams of Madurai and Nagara shikharas of Khajuraho signal regional cultural preferences.
-  - Aesthetics: Ornamentation on the Hoysaleswara Temple reflects aesthetic values and mythological themes.
-  - Trade: Lothal’s dockyard and coastal temples near Chennai show prosperity and cultural exchange.
-  - Cosmology: Temple plans at Khajuraho and Konark echo cosmic order and sacred geometry.
+  - **Religion**: Sanchi Stupa reflects Buddhist devotion and early stupastic architecture, while the Ajanta caves show Buddhist narrative art.
+  - **Ritual**: Ajanta murals depict monks performing puja and the Buddha’s life scenes.
+  - **Royal power**: Mauryan pillars such as the Sarnath capital symbolise imperial authority and dharma under Ashoka.
+  - **Art style**: Khajuraho temples show sensuality and religious symbolism through sculpted amorous couples.
+  - **Language**: Inscriptions on Ashokan edicts and Hampi temples link monuments to Sanskrit, Prakrit and local dialects.
+  - **Patronage**: The Shore Temple of Mamallapuram and Ellora cave patrons demonstrate royal and merchant support for religion.
+  - **Society**: Sun Temple sculptures at Konark depict dancers, craftsmen and market life.
+  - **Technology**: Rock-cut caves at Elephanta and brick temples at Sanchi reflect advanced engineering skills.
+  - **Continuity**: The Kashi Vishwanath site and the Puri temple show continuity of worship across centuries.
+  - **Regional identity**: Dravidian gopurams of Madurai and Nagara shikharas of Khajuraho signal regional cultural preferences.
+  - **Aesthetics**: Ornamentation on the Hoysaleswara Temple reflects aesthetic values and mythological themes.
+  - **Trade**: Lothal’s dockyard and coastal temples near Chennai show prosperity and cultural exchange.
+  - **Cosmology**: Temple plans at Khajuraho and Konark echo cosmic order and sacred geometry.
 - *Conclusion:*
   - Indian monuments are cultural texts that reveal belief systems, art, social life and historical identity.
 
@@ -99,19 +99,19 @@
 - *Intro:*
   - Coins reflect social conditions through economy, political authority, religion and cultural contacts of their era.
 - *Body:*
-  - Authority: Royal symbols on coins like Ashokan lion punch-marks and Kushan king portraits show rulers and political control.
-  - Economy: Gupta gold dinars and Mauryan silver punch-marked pieces reveal wealth, metal availability and resource access.
-  - Trade: Roman denarii at Arikamedu and Indo-Greek staters in the northwest demonstrate long-distance trade links
-  - Religion: Deity images such as Lakshmi on Gupta gold and Buddha on Kushan coins show prevailing religious preferences.
-  - Language: Brahmi legends on Satavahana coins and Kharosthi on Indo-Greek issues indicate script use and literacy.
-  - Standardisation: Mauryan punch-marked coins and later Satavahana copper units with uniform weights show organised trade and administration.
-  - Urbanisation: Coin hoards from Taxila, Pataliputra and Ujjain point to vibrant market centres and cities.
-  - Military: Indo-Greek coins with helmeted warriors and punch-marked symbols like the sun and six-armed figures imply martial authority.
-  - Minting centres: Local finds of Kosambi punch-marked coins and Taxila drachms indicate regional economic hubs.
-  - Cultural exchange: Indo-Greek coins blending Greek gods and Indian motifs show syncretism and cultural contacts.
-  - Distribution: Roman coins in south India and Kushan coins across Gandhara suggest broad economic integration.
-  - Social status: Elite usage of Gupta gold and silver coins versus common copper pieces reflects class differentiation.
-  - Taxation: Regular currency systems implied by standardised punch-marked issues suggest state revenue and fiscal control.
+  - **Authority**: Royal symbols on coins like Ashokan lion punch-marks and Kushan king portraits show rulers and political control.
+  - **Economy**: Gupta gold dinars and Mauryan silver punch-marked pieces reveal wealth, metal availability and resource access.
+  - **Trade**: Roman denarii at Arikamedu and Indo-Greek staters in the northwest demonstrate long-distance trade links
+  - **Religion**: Deity images such as Lakshmi on Gupta gold and Buddha on Kushan coins show prevailing religious preferences.
+  - **Language**: Brahmi legends on Satavahana coins and Kharosthi on Indo-Greek issues indicate script use and literacy.
+  - **Standardisation**: Mauryan punch-marked coins and later Satavahana copper units with uniform weights show organised trade and administration.
+  - **Urbanisation**: Coin hoards from Taxila, Pataliputra and Ujjain point to vibrant market centres and cities.
+  - **Military**: Indo-Greek coins with helmeted warriors and punch-marked symbols like the sun and six-armed figures imply martial authority.
+  - **Minting centres**: Local finds of Kosambi punch-marked coins and Taxila drachms indicate regional economic hubs.
+  - **Cultural exchange**: Indo-Greek coins blending Greek gods and Indian motifs show syncretism and cultural contacts.
+  - **Distribution**: Roman coins in south India and Kushan coins across Gandhara suggest broad economic integration.
+  - **Social status**: Elite usage of Gupta gold and silver coins versus common copper pieces reflects class differentiation.
+  - **Taxation**: Regular currency systems implied by standardised punch-marked issues suggest state revenue and fiscal control.
 - *Conclusion:*
   - Coins are compact social documents that reveal political, economic and cultural conditions of ancient times.
 
@@ -119,19 +119,19 @@
 - *Intro:*
   - Geography shapes history by influencing settlement, economy, defence, culture and political boundaries.
 - *Body:*
-  - Rivers: The Indus and Ganga supported agriculture and early urban civilisation.
-  - Monsoons: Seasonal rains determined cropping patterns and food security.
-  - Plains: The Indo-Gangetic plain facilitated population growth and empires.
-  - Mountains: Himalayas provided defence and cultural separation.
-  - Coast: Western and eastern coasts enabled maritime trade and port towns.
-  - Deserts: The Thar limited invaders and shaped pastoral life.
-  - Plateaus: The Deccan plateau created a distinct cultural region.
-  - Resources: Minerals and fertile land influenced settlement and craft.
-  - Trade routes: Geography guided land and sea routes like the Silk Road.
-  - Climate: Climate change affected migrations and agriculture.
-  - Natural barriers: Peninsulas and forests influenced political fragmentation.
-  - Floods: River floods shaped settlement planning and irrigation.
-  - Ecology: Flora and fauna influenced diet, rituals and economy.
+  - **Rivers**: The Indus and Ganga supported agriculture and early urban civilisation.
+  - **Monsoons**: Seasonal rains determined cropping patterns and food security.
+  - **Plains**: The Indo-Gangetic plain facilitated population growth and empires.
+  - **Mountains**: Himalayas provided defence and cultural separation.
+  - **Coast**: Western and eastern coasts enabled maritime trade and port towns.
+  - **Deserts**: The Thar limited invaders and shaped pastoral life.
+  - **Plateaus**: The Deccan plateau created a distinct cultural region.
+  - **Resources**: Minerals and fertile land influenced settlement and craft.
+  - **Trade routes**: Geography guided land and sea routes like the Silk Road.
+  - **Climate**: Climate change affected migrations and agriculture.
+  - **Natural barriers**: Peninsulas and forests influenced political fragmentation.
+  - **Floods**: River floods shaped settlement planning and irrigation.
+  - **Ecology**: Flora and fauna influenced diet, rituals and economy.
 - *Conclusion:*
   - Geography influences historical development by defining opportunities and constraints for societies.
 
@@ -139,20 +139,20 @@
 - *Intro:*
   - Prehistoric caves are natural rock shelters used before written records, preserving early human art, tools and settlement evidence.
 - *Body:*
-  - Bhimbetka: Rock shelters contain Paleolithic paintings of animals, hunting scenes and human figures dated to c.30,000 years.
-  - Kurnool: Old stone shelters show Acheulean tool-work, habitation evidence and early human settlement patterns.
-  - Adamgarh: Cave paintings at this site record Mesolithic life and animal imagery.
-  - Lakhudiyar: Painted handprints and motif panels reveal symbolic behaviour in late Palaeolithic communities.
-  - Mirzapur: Shelters preserve prehistoric paintings of bison and deer, showing early artistic expression.
-  - Stone tools: Flint blades, microliths and scrapers from caves demonstrate early tool-making technology.
-  - Paintings: Animal, hunting and community scenes reveal prehistoric beliefs and subsistence.
-  - Shelter: Natural rock overhangs provided protection, seasonal camps and early habitation.
-  - Environment: Caves reflect prehistoric climate, fauna and human adaptation to changing landscapes.
-  - Artefacts: Microliths and pottery fragments found in shelters indicate evolving technology.
-  - Symbolism: Painted motifs and handprints suggest early symbolic thought and communication.
-  - Ritual: Some shelters may have been used for ritual or communal gatherings.
-  - Continuity: Prehistoric caves show a long tradition of human occupation before script.
-  - Heritage: Sites like Bhimbetka are protected as UNESCO World Heritage monuments.
+  - **Bhimbetka**: Rock shelters contain Paleolithic paintings of animals, hunting scenes and human figures dated to c.30,000 years.
+  - **Kurnool**: Old stone shelters show Acheulean tool-work, habitation evidence and early human settlement patterns.
+  - **Adamgarh**: Cave paintings at this site record Mesolithic life and animal imagery.
+  - **Lakhudiyar**: Painted handprints and motif panels reveal symbolic behaviour in late Palaeolithic communities.
+  - **Mirzapur**: Shelters preserve prehistoric paintings of bison and deer, showing early artistic expression.
+  - **Stone tools**: Flint blades, microliths and scrapers from caves demonstrate early tool-making technology.
+  - **Paintings**: Animal, hunting and community scenes reveal prehistoric beliefs and subsistence.
+  - **Shelter**: Natural rock overhangs provided protection, seasonal camps and early habitation.
+  - **Environment**: Caves reflect prehistoric climate, fauna and human adaptation to changing landscapes.
+  - **Artefacts**: Microliths and pottery fragments found in shelters indicate evolving technology.
+  - **Symbolism**: Painted motifs and handprints suggest early symbolic thought and communication.
+  - **Ritual**: Some shelters may have been used for ritual or communal gatherings.
+  - **Continuity**: Prehistoric caves show a long tradition of human occupation before script.
+  - **Heritage**: Sites like Bhimbetka are protected as UNESCO World Heritage monuments.
 - *Conclusion:*
   - Prehistoric caves offer direct evidence of early human life, art, tools and cultural beginnings before the age of texts.
 
@@ -160,19 +160,19 @@
 - *Intro:*
   - Early tools evolved from simple stone flakes to polished implements, reflecting human adaptation, skill and social change.
 - *Body:*
-  - Oldowan choppers: Simple pebble tools show earliest stone technology.
-  - Acheulean handaxes: Bifacial tools indicate improved shaping and planning.
-  - Mousterian flakes: More refined blades suggest better control and efficiency.
-  - Microliths: Small geometric blades for composite tools show specialised hunting.
-  - Scrapers: Used for hide processing and food preparation.
-  - Burins: Engraving tools point to art and symbolic behavior.
-  - Polished axes: Neolithic celts show the shift to agriculture and forest clearance.
-  - Grinding stones: Demonstrate grain processing and settled life.
-  - Bone tools: Points and needles show sewing and craft.
-  - Fishing gear: Fish hooks indicate exploitation of water resources.
-  - Pottery tools: Clay modelling tools show ceramic innovation.
-  - Copper tools: Early metallurgy marks a transition beyond stone.
-  - Significance: Tools reflect cognitive growth, subsistence change and social organisation.
+  - **Oldowan choppers**: Simple pebble tools show earliest stone technology.
+  - **Acheulean handaxes**: Bifacial tools indicate improved shaping and planning.
+  - **Mousterian flakes**: More refined blades suggest better control and efficiency.
+  - **Microliths**: Small geometric blades for composite tools show specialised hunting.
+  - **Scrapers**: Used for hide processing and food preparation.
+  - **Burins**: Engraving tools point to art and symbolic behavior.
+  - **Polished axes**: Neolithic celts show the shift to agriculture and forest clearance.
+  - **Grinding stones**: Demonstrate grain processing and settled life.
+  - **Bone tools**: Points and needles show sewing and craft.
+  - **Fishing gear**: Fish hooks indicate exploitation of water resources.
+  - **Pottery tools**: Clay modelling tools show ceramic innovation.
+  - **Copper tools**: Early metallurgy marks a transition beyond stone.
+  - **Significance**: Tools reflect cognitive growth, subsistence change and social organisation.
 - *Conclusion:*
   - The evolution of tools signifies increasing human intelligence, environmental adaptation and the move toward settled civilisation.
 
@@ -180,18 +180,18 @@
 - *Intro:*
   - The discovery of the Indus Valley Civilization inspired pride and anti-colonial sentiment by proving India’s ancient indigenous greatness.
 - *Body:*
-  - National pride: Harappan cities showed advanced urban culture long before European arrival.
-  - Historical continuity: Discoveries reinforced India’s continuous civilisation narrative.
-  - Anti-colonial argument: Leaders used Harappa to counter colonial claims of Indian inferiority.
-  - Cultural self-respect: Indigenous achievements in town planning and crafts boosted self-esteem.
-  - Archaeological nationalism: Scholars like R.D. Banerji highlighted India’s past glory.
-  - Education: The findings became part of nationalist school curricula.
-  - Political rhetoric: Freedom fighters invoked ancient urbanism as proof of Indian capability.
-  - Gandhian context: Revival of indigenous culture gained strength from ancient heritage.
-  - Unity: The IVC’s vast geography symbolised a shared subcontinental past.
-  - Empirical evidence: Archaeology gave Indians scientific proof of a sophisticated past.
-  - Symbol: The Great Bath and seals became icons of civilisation for nationalists.
-  - Cultural revival: The discovery encouraged revival of local crafts and history.
+  - **National pride**: Harappan cities showed advanced urban culture long before European arrival.
+  - **Historical continuity**: Discoveries reinforced India’s continuous civilisation narrative.
+  - **Anti-colonial argument**: Leaders used Harappa to counter colonial claims of Indian inferiority.
+  - **Cultural self-respect**: Indigenous achievements in town planning and crafts boosted self-esteem.
+  - **Archaeological nationalism**: Scholars like R.D. Banerji highlighted India’s past glory.
+  - **Education**: The findings became part of nationalist school curricula.
+  - **Political rhetoric**: Freedom fighters invoked ancient urbanism as proof of Indian capability.
+  - **Gandhian context**: Revival of indigenous culture gained strength from ancient heritage.
+  - **Unity**: The IVC’s vast geography symbolised a shared subcontinental past.
+  - **Empirical evidence**: Archaeology gave Indians scientific proof of a sophisticated past.
+  - **Symbol**: The Great Bath and seals became icons of civilisation for nationalists.
+  - **Cultural revival**: The discovery encouraged revival of local crafts and history.
 - *Conclusion:*
   - Harappan discovery motivated freedom struggle by offering a proud ancient identity and scientific proof of India’s civilisation.
 
@@ -199,19 +199,19 @@
 - *Intro:*
   - The Indus Valley Civilization exhibits socio-cultural features of urban planning, craft specialisation, religion and community life.
 - *Body:*
-  - Urban planning: Cities like Mohenjo-daro show planned streets and civic order.
-  - Social equality: Uniform house sizes suggest less drastic social inequality.
-  - Craft specialisation: Bead-making and pottery reflect skilled artisans.
-  - Trade ethos: Weights and seals indicate organised commerce.
-  - Religious life: Terracotta figurines and sacred trees hint at ritual beliefs.
-  - Bathing culture: The Great Bath suggests communal purity practices.
-  - Script: Seals carry a yet-undeciphered script linked to administration.
-  - Diet: Millet, barley and cattle remains show agricultural diversity.
-  - Housing: Courtyard houses reveal family and domestic patterns.
-  - Water use: Wells and drains reflect concern for hygiene.
-  - Gender roles: Female figurines and jewelry show gendered craft and adornment.
-  - Symbols: Unicorn and animal motifs on seals reflect shared iconography.
-  - Regional unity: Similar artefacts across sites suggest cultural cohesion.
+  - **Urban planning**: Cities like Mohenjo-daro show planned streets and civic order.
+  - **Social equality**: Uniform house sizes suggest less drastic social inequality.
+  - **Craft specialisation**: Bead-making and pottery reflect skilled artisans.
+  - **Trade ethos**: Weights and seals indicate organised commerce.
+  - **Religious life**: Terracotta figurines and sacred trees hint at ritual beliefs.
+  - **Bathing culture**: The Great Bath suggests communal purity practices.
+  - **Script**: Seals carry a yet-undeciphered script linked to administration.
+  - **Diet**: Millet, barley and cattle remains show agricultural diversity.
+  - **Housing**: Courtyard houses reveal family and domestic patterns.
+  - **Water use**: Wells and drains reflect concern for hygiene.
+  - **Gender roles**: Female figurines and jewelry show gendered craft and adornment.
+  - **Symbols**: Unicorn and animal motifs on seals reflect shared iconography.
+  - **Regional unity**: Similar artefacts across sites suggest cultural cohesion.
 - *Conclusion:*
   - IVC society combined urban coordination, craft expertise and ritual practices, pointing to an organised and culturally rich civilisation.
 
@@ -219,19 +219,19 @@
 - *Intro:*
   - Harappan tools reveal advanced craft, agriculture and trade technology used in one of the earliest urban civilisations.
 - *Body:*
-  - Copper tools: Axes, chisels and knives show early metallurgy.
-  - Bronze implements: Mirrors and vessels reflect alloy use.
-  - Stone blades: Flint blades and scrapers were common domestic tools.
-  - Bead drills: Highly polished drills show precision workmanship.
-  - Pottery tools: Slips, burnishers and ring stands aided ceramic production.
-  - Weights: Standardised stone weights ensured fair trade.
-  - Seals: Steatite seals served administrative and commercial purposes.
-  - Agricultural tools: Sickles and hoes enabled crop harvesting.
-  - Weaving devices: Spindle whorls show textile production.
-  - Carpentry tools: Adzes and saws indicate woodwork.
-  - Jewelry tools: Gold and faience tools show ornament craft.
-  - Water tools: Pipes and wells illustrate hydraulic engineering.
-  - Significance: Tools demonstrate technical skill, specialised labour and urban economy.
+  - **Copper tools**: Axes, chisels and knives show early metallurgy.
+  - **Bronze implements**: Mirrors and vessels reflect alloy use.
+  - **Stone blades**: Flint blades and scrapers were common domestic tools.
+  - **Bead drills**: Highly polished drills show precision workmanship.
+  - **Pottery tools**: Slips, burnishers and ring stands aided ceramic production.
+  - **Weights**: Standardised stone weights ensured fair trade.
+  - **Seals**: Steatite seals served administrative and commercial purposes.
+  - **Agricultural tools**: Sickles and hoes enabled crop harvesting.
+  - **Weaving devices**: Spindle whorls show textile production.
+  - **Carpentry tools**: Adzes and saws indicate woodwork.
+  - **Jewelry tools**: Gold and faience tools show ornament craft.
+  - **Water tools**: Pipes and wells illustrate hydraulic engineering.
+  - **Significance**: Tools demonstrate technical skill, specialised labour and urban economy.
 - *Conclusion:*
   - Harappan tools signify a sophisticated economy based on metallurgy, craft specialisation and organised urban life.
 
@@ -239,19 +239,19 @@
 - *Intro:*
   - Harappan cities are special for their planned layout, sanitation, public buildings, standardisation and civic organisation.
 - *Body:*
-  - Grid plan: Streets at right angles reveal planned urban design.
-  - Citadel: Raised citadel platforms housed public structures and defence.
-  - Lower town: Residential areas were separated from the citadel.
-  - Drainage: Covered drains show advanced sanitation systems.
-  - Wells: Private and public wells provided water supply.
-  - Great Bath: Public bath at Mohenjo-daro indicates ritual or social use.
-  - Standard bricks: Uniform bricks show centralised standards.
-  - Granaries: Large granaries imply organised food storage.
-  - Seals: Administrative seals show record-keeping and trade.
-  - Weights: Standard weights indicate regulated commerce.
-  - Fortifications: City walls provided protection and control.
-  - Street names: Planned streets allowed efficient movement.
-  - Public buildings: Assembly halls and warehouses suggest civic life.
+  - **Grid plan**: Streets at right angles reveal planned urban design.
+  - **Citadel**: Raised citadel platforms housed public structures and defence.
+  - **Lower town**: Residential areas were separated from the citadel.
+  - **Drainage**: Covered drains show advanced sanitation systems.
+  - **Wells**: Private and public wells provided water supply.
+  - **Great Bath**: Public bath at Mohenjo-daro indicates ritual or social use.
+  - **Standard bricks**: Uniform bricks show centralised standards.
+  - **Granaries**: Large granaries imply organised food storage.
+  - **Seals**: Administrative seals show record-keeping and trade.
+  - **Weights**: Standard weights indicate regulated commerce.
+  - **Fortifications**: City walls provided protection and control.
+  - **Street names**: Planned streets allowed efficient movement.
+  - **Public buildings**: Assembly halls and warehouses suggest civic life.
 - *Conclusion:*
   - Harappan cities reflect a high degree of planning, sanitation and social organisation in early urban India.
 
@@ -259,19 +259,19 @@
 - *Intro:*
   - Harappan water management was advanced, combining wells, drains, reservoirs, baths and rainwater collection.
 - *Body:*
-  - Wells: Every house had access to wells, ensuring safe water.
-  - Drains: Covered drains removed wastewater from streets.
-  - Great Bath: A large public tank indicates ritual bathing and hygiene.
-  - Reservoirs: Dholavira’s reservoirs stored rainwater for dry periods.
-  - Stepwells: Stepped tanks maintained water levels and access.
-  - Sewage: Waste water systems separated sewage from clean water.
-  - Rainwater harvesting: Structures captured monsoon rain.
-  - Water-tight bricks: Special bricks prevented leakage in tanks.
-  - Water channels: Pipes and conduits distributed water.
-  - Urban hygiene: Regular water supply supported cleanliness.
-  - Drain maintenance: Access points allowed cleaning and repair.
-  - Public access: Common water structures served community needs.
-  - Planning: Water systems were integral to city layout.
+  - **Wells**: Every house had access to wells, ensuring safe water.
+  - **Drains**: Covered drains removed wastewater from streets.
+  - **Great Bath**: A large public tank indicates ritual bathing and hygiene.
+  - **Reservoirs**: Dholavira’s reservoirs stored rainwater for dry periods.
+  - **Stepwells**: Stepped tanks maintained water levels and access.
+  - **Sewage**: Waste water systems separated sewage from clean water.
+  - **Rainwater harvesting**: Structures captured monsoon rain.
+  - **Water-tight bricks**: Special bricks prevented leakage in tanks.
+  - **Water channels**: Pipes and conduits distributed water.
+  - **Urban hygiene**: Regular water supply supported cleanliness.
+  - **Drain maintenance**: Access points allowed cleaning and repair.
+  - **Public access**: Common water structures served community needs.
+  - **Planning**: Water systems were integral to city layout.
 - *Conclusion:*
   - Harappan water management shows remarkable engineering and concern for hygiene, public health and urban planning.
 
@@ -279,19 +279,19 @@
 - *Intro:*
   - Indus trade and commerce were vibrant, with organised markets, foreign exchange, craft goods and standardised systems.
 - *Body:*
-  - Internal trade: Cities traded grain, pottery and metals across the region.
-  - Foreign trade: Harappans traded with Mesopotamia, Oman and Central Asia.
-  - Seals: Seals authenticated goods and controlled commerce.
-  - Standard weights: Uniform weights ensured fair exchange.
-  - Beads: Carnelian and faience beads were major export items.
-  - Metalwork: Copper and bronze tools were traded widely.
-  - Textiles: Evidence of spindle whorls suggests cloth production for trade.
-  - Maritime links: Dockyards at Lothal indicate sea trade.
-  - Agrarian surplus: Grain storage supported market exchange.
-  - Urban markets: Towns had specialised craft and trade zones.
-  - Trade routes: Land and river routes connected Harappan centres.
-  - Workshop evidence: Kilns and workshops show organised manufacture.
-  - Economic literacy: Writing on seals suggests record-keeping.
+  - **Internal trade**: Cities traded grain, pottery and metals across the region.
+  - **Foreign trade**: Harappans traded with Mesopotamia, Oman and Central Asia.
+  - **Seals**: Seals authenticated goods and controlled commerce.
+  - **Standard weights**: Uniform weights ensured fair exchange.
+  - **Beads**: Carnelian and faience beads were major export items.
+  - **Metalwork**: Copper and bronze tools were traded widely.
+  - **Textiles**: Evidence of spindle whorls suggests cloth production for trade.
+  - **Maritime links**: Dockyards at Lothal indicate sea trade.
+  - **Agrarian surplus**: Grain storage supported market exchange.
+  - **Urban markets**: Towns had specialised craft and trade zones.
+  - **Trade routes**: Land and river routes connected Harappan centres.
+  - **Workshop evidence**: Kilns and workshops show organised manufacture.
+  - **Economic literacy**: Writing on seals suggests record-keeping.
 - *Conclusion:*
   - Harappan commerce combined internal markets with overseas trade, making it an early economic powerhouse.
 
@@ -299,19 +299,19 @@
 - *Intro:*
   - Indus seals are varied, reflecting administration, trade, religion and iconography of the Harappan civilisation.
 - *Body:*
-  - Square seals: Most common shape with animal motifs and script.
-  - Unicorn seals: Feature a single-horned animal symbolising identity or power.
-  - Animal motifs: Bulls, elephants, rhinoceros and tigers appear on seals.
-  - Inscription: Short script sequences may record names or officials.
-  - Steatite seals: Carved in soft stone and fired for durability.
-  - Miniature seals: Smaller seals likely used for private goods.
-  - Cylinder seals: Rare cylinder shapes suggest special use.
-  - Human figures: Some seals depict deities or priest-like figures.
-  - Religious symbols: Trees and composite animals hint at sacred iconography.
-  - Seal rings: Evidence of ownership and administrative control.
-  - Punch-marked designs: Show early symbolic communication.
-  - Trade marks: Seals likely marked trade consignments.
-  - Standardisation: Similar seals across sites indicate shared culture.
+  - **Square seals**: Most common shape with animal motifs and script.
+  - **Unicorn seals**: Feature a single-horned animal symbolising identity or power.
+  - **Animal motifs**: Bulls, elephants, rhinoceros and tigers appear on seals.
+  - **Inscription**: Short script sequences may record names or officials.
+  - **Steatite seals**: Carved in soft stone and fired for durability.
+  - **Miniature seals**: Smaller seals likely used for private goods.
+  - **Cylinder seals**: Rare cylinder shapes suggest special use.
+  - **Human figures**: Some seals depict deities or priest-like figures.
+  - **Religious symbols**: Trees and composite animals hint at sacred iconography.
+  - **Seal rings**: Evidence of ownership and administrative control.
+  - **Punch-marked designs**: Show early symbolic communication.
+  - **Trade marks**: Seals likely marked trade consignments.
+  - **Standardisation**: Similar seals across sites indicate shared culture.
 - *Conclusion:*
   - Harappan seals are diverse administrative and religious objects that reflect a connected and organised civilisation.
 
@@ -319,20 +319,20 @@
 - *Intro:*
   - Harappan civilization qualifies as Bronze Age because bronze use was widespread in tools, ornaments, seals and ritual objects.
 - *Body:*
-  - Metal use: Copper and bronze tools appear in household and craft contexts.
-  - Bronze alloys: Artifacts show deliberate alloying of copper with tin.
-  - Tools: Bronze chisels, axes and fishhooks demonstrate practical use.
-  - Sculptures: The Dancing Girl from Mohenjo-daro and bronze figurines show artistic bronze casting.
-  - Ornaments: Bronze bangles and mirrors indicate metallurgical skill.
-  - Seals: Metal seal impressions and tools confirm bronze workshop activity.
-  - Architecture: Bronze tools aided construction of bricks and wells.
-  - Trade: Bronze objects were traded within and beyond the region.
-  - Craft specialisation: Metalworkers formed a specialised artisan class.
-  - Chronology: Contemporary Mesopotamia and Egypt are also Bronze Age societies.
-  - Technology: Bronze use marks a stage beyond stone tool economies.
-  - Legacy: Bronze artifacts indicate a mature and technologically advanced society.
-  - Distribution: Bronze finds at Harappa, Mohenjo-daro and Dholavira show widespread use.
-  - Cultural meaning: Bronze objects appear in ritual and daily life.
+  - **Metal use**: Copper and bronze tools appear in household and craft contexts.
+  - **Bronze alloys**: Artifacts show deliberate alloying of copper with tin.
+  - **Tools**: Bronze chisels, axes and fishhooks demonstrate practical use.
+  - **Sculptures**: The Dancing Girl from Mohenjo-daro and bronze figurines show artistic bronze casting.
+  - **Ornaments**: Bronze bangles and mirrors indicate metallurgical skill.
+  - **Seals**: Metal seal impressions and tools confirm bronze workshop activity.
+  - **Architecture**: Bronze tools aided construction of bricks and wells.
+  - **Trade**: Bronze objects were traded within and beyond the region.
+  - **Craft specialisation**: Metalworkers formed a specialised artisan class.
+  - **Chronology**: Contemporary Mesopotamia and Egypt are also Bronze Age societies.
+  - **Technology**: Bronze use marks a stage beyond stone tool economies.
+  - **Legacy**: Bronze artifacts indicate a mature and technologically advanced society.
+  - **Distribution**: Bronze finds at Harappa, Mohenjo-daro and Dholavira show widespread use.
+  - **Cultural meaning**: Bronze objects appear in ritual and daily life.
 - *Conclusion:*
   - Harappan culture is Bronze Age because bronze production and use were integral to its economy and material culture.
 
@@ -340,19 +340,19 @@
 - *Intro:*
   - Vedic social values are partially reflected today through family, ritual, caste and spiritual ideas, while many aspects have changed.
 - *Body:*
-  - Family: Joint family ideals remain in many Indian households.
-  - Ritual: Yajna and puja continue in religious practice.
-  - Caste: Caste identity persists despite legal equality.
-  - Dharma: Duty and ethics still shape social behavior.
-  - Language: Sanskrit phrases survive in rituals and education.
-  - Food habits: Vegetarianism and sacred cow reverence echo Vedic values.
-  - Education: Guru-shishya respect persists in traditional settings.
-  - Festivals: Vedic seasonal rituals underpin many festivals.
-  - Social hierarchy: Some notions of status linger in society.
-  - Gender roles: Patriarchal attitudes reflect Vedic norms in parts of India.
-  - Spirituality: Meditation and yoga draw on Vedic ideas.
-  - Legal reform: Smritis influenced later social laws, though modern law has moved beyond them.
-  - Adaptation: Vedic values are reinterpreted to fit modern pluralism.
+  - **Family**: Joint family ideals remain in many Indian households.
+  - **Ritual**: Yajna and puja continue in religious practice.
+  - **Caste**: Caste identity persists despite legal equality.
+  - **Dharma**: Duty and ethics still shape social behavior.
+  - **Language**: Sanskrit phrases survive in rituals and education.
+  - **Food habits**: Vegetarianism and sacred cow reverence echo Vedic values.
+  - **Education**: Guru-shishya respect persists in traditional settings.
+  - **Festivals**: Vedic seasonal rituals underpin many festivals.
+  - **Social hierarchy**: Some notions of status linger in society.
+  - **Gender roles**: Patriarchal attitudes reflect Vedic norms in parts of India.
+  - **Spirituality**: Meditation and yoga draw on Vedic ideas.
+  - **Legal reform**: Smritis influenced later social laws, though modern law has moved beyond them.
+  - **Adaptation**: Vedic values are reinterpreted to fit modern pluralism.
 - *Conclusion:*
   - Vedic values remain visible in rituals and social ideas, but are selectively adapted to India’s modern, plural society.
 
@@ -360,19 +360,19 @@
 - *Intro:*
   - Vedic literature contains scientific elements in astronomy, phonetics, medicine and ritual mathematics, though it is not purely scientific.
 - *Body:*
-  - Astronomy: Vedic texts record nakshatras and solstices for calendar reckoning.
-  - Mathematics: Altars in Sulba Sutras use geometric constructions.
-  - Phonetics: Sanskrit grammar and intonation show scientific attention to sound.
-  - Medicine: Atharva Veda contains herbal remedies and health knowledge.
-  - Metallurgy: References to metals and alloys appear in later Vedic texts.
-  - Agriculture: Seasonal rituals reflect knowledge of crops and weather.
-  - Timekeeping: Seasons and lunar months are precisely noted.
-  - Psychology: Concepts of mind and consciousness appear in Upanishads.
-  - Ritual science: Yajna prescriptions demonstrate experimental precision.
-  - Observation: Vedic seers observed nature and cosmic order.
-  - Cosmology: Ideas of earth and sky show early scientific thinking.
-  - Limitations: Vedic works also include myth and theology.
-  - Influence: Vedic ideas shaped later Indian scientific tradition.
+  - **Astronomy**: Vedic texts record nakshatras and solstices for calendar reckoning.
+  - **Mathematics**: Altars in Sulba Sutras use geometric constructions.
+  - **Phonetics**: Sanskrit grammar and intonation show scientific attention to sound.
+  - **Medicine**: Atharva Veda contains herbal remedies and health knowledge.
+  - **Metallurgy**: References to metals and alloys appear in later Vedic texts.
+  - **Agriculture**: Seasonal rituals reflect knowledge of crops and weather.
+  - **Timekeeping**: Seasons and lunar months are precisely noted.
+  - **Psychology**: Concepts of mind and consciousness appear in Upanishads.
+  - **Ritual science**: Yajna prescriptions demonstrate experimental precision.
+  - **Observation**: Vedic seers observed nature and cosmic order.
+  - **Cosmology**: Ideas of earth and sky show early scientific thinking.
+  - **Limitations**: Vedic works also include myth and theology.
+  - **Influence**: Vedic ideas shaped later Indian scientific tradition.
 - *Conclusion:*
   - Vedic literature contains scientific insight in ritual, astronomy and language, but it remains a blend of science, religion and philosophy.
 
@@ -380,19 +380,19 @@
 - *Intro:*
   - Patliputra emerged as a powerful centre because of its strategic location, political patronage, economic resources and imperial capital status.
 - *Body:*
-  - Location: At the confluence of Ganga and Son, it controlled river routes.
-  - Access: Rivers linked it to Magadha, the Gangetic plain and trade networks.
-  - Capital: Mauryan rulers made it their imperial centre.
-  - Fortification: Udayagiri fort and embankments provided defence.
-  - Administration: Centralised bureaucracy and royal courts were based there.
-  - Trade: Riverine commerce and markets brought wealth.
-  - Agriculture: Fertile land around the Ganga supported sustenance.
-  - Diplomacy: Megasthenes described royal administration in Patliputra.
-  - Culture: It hosted scholars, assembly halls and religious debate.
-  - Imperial authority: Ashoka and Chandragupta consolidated power there.
-  - Connectivity: Roads and rivers linked it to eastern and western India.
-  - Political stability: Magadha’s military strength secured the city.
-  - Legacy: Pataliputra remained important under Mauryas, Shungas and Guptas.
+  - **Location**: At the confluence of Ganga and Son, it controlled river routes.
+  - **Access**: Rivers linked it to Magadha, the Gangetic plain and trade networks.
+  - **Capital**: Mauryan rulers made it their imperial centre.
+  - **Fortification**: Udayagiri fort and embankments provided defence.
+  - **Administration**: Centralised bureaucracy and royal courts were based there.
+  - **Trade**: Riverine commerce and markets brought wealth.
+  - **Agriculture**: Fertile land around the Ganga supported sustenance.
+  - **Diplomacy**: Megasthenes described royal administration in Patliputra.
+  - **Culture**: It hosted scholars, assembly halls and religious debate.
+  - **Imperial authority**: Ashoka and Chandragupta consolidated power there.
+  - **Connectivity**: Roads and rivers linked it to eastern and western India.
+  - **Political stability**: Magadha’s military strength secured the city.
+  - **Legacy**: Pataliputra remained important under Mauryas, Shungas and Guptas.
 - *Conclusion:*
   - Patliputra became powerful due to its strategic riverside location, imperial capital role and centralised political and economic organisation.
 
@@ -400,19 +400,19 @@
 - *Intro:*
   - Buddhism and Jainism rose in response to ritualism, caste rigidity and the search for ethical and inward-focused spiritual paths.
 - *Body:*
-  - Reaction: Both opposed Brahmanical ritualism and animal sacrifice.
-  - Caste: They rejected caste hierarchy and promoted spiritual equality.
-  - Ethics: Non-violence and compassion became central doctrines.
-  - Renunciation: Monastic life offered an alternative to household ritual.
-  - Urbanisation: Towns and trade centres supported new religious communities.
-  - Merchants: Traders and artisans found their egalitarian messages appealing.
-  - Royal patronage: Kings like Bimbisara and Ajatashatru supported both movements.
-  - Sramana movement: They were part of a broader tradition of ascetics.
-  - Philosophy: Buddha’s Middle Path and Mahavira’s austerity attracted followers.
-  - Social mobility: Lay and monastic paths opened spiritual access beyond birth.
-  - Education: Monasteries became centres of learning and debate.
-  - Missionary zeal: Both religions spread through preaching and conversion.
-  - Legacy: Stupas, caves and texts show their rapid growth.
+  - **Reaction**: Both opposed Brahmanical ritualism and animal sacrifice.
+  - **Caste**: They rejected caste hierarchy and promoted spiritual equality.
+  - **Ethics**: Non-violence and compassion became central doctrines.
+  - **Renunciation**: Monastic life offered an alternative to household ritual.
+  - **Urbanisation**: Towns and trade centres supported new religious communities.
+  - **Merchants**: Traders and artisans found their egalitarian messages appealing.
+  - **Royal patronage**: Kings like Bimbisara and Ajatashatru supported both movements.
+  - **Sramana movement**: They were part of a broader tradition of ascetics.
+  - **Philosophy**: Buddha’s Middle Path and Mahavira’s austerity attracted followers.
+  - **Social mobility**: Lay and monastic paths opened spiritual access beyond birth.
+  - **Education**: Monasteries became centres of learning and debate.
+  - **Missionary zeal**: Both religions spread through preaching and conversion.
+  - **Legacy**: Stupas, caves and texts show their rapid growth.
 - *Conclusion:*
   - Buddhism and Jainism rose because they offered ethical reform, social equality and a practical spiritual path in ancient India.
 
@@ -421,22 +421,22 @@
   - Jainism and Buddhism both sought liberation, but their methods, metaphysics and practices differed while their aim remained similar.
 - *Body:*
   - Differences in path:
-    - Self: Jainism taught an eternal soul (jiva); Buddhism denied any permanent self (anatta).
-    - Asceticism: Jainism emphasised strict asceticism, as in Mahavira’s severe practices.
-    - Middle Path: Buddhism rejected extreme austerity and advocated moderation.
-    - Non-violence: Jainism stressed absolute ahimsa in food and action, while Buddhism balanced compassion with practical conduct.
-    - Karma: Jainism viewed karma as physical particles; Buddhism saw it as intentional action and mental formation.
-    - Dependent origination: Buddhism taught pratityasamutpada, interdependent causes; Jainism focused on individual karmic purification.
-    - Monastic discipline: Jain monks wore white robes or went nude; Buddhist monks wore saffron robes and followed the Vinaya.
-    - Ritual: Jainism kept more ritual purity rules and strict vows; early Buddhism was simpler in external rituals.
-    - Scripture: Jain Agamas differ from Buddhist Tripitaka in content, language and doctrinal emphasis.
+    - **Self**: Jainism taught an eternal soul (jiva); Buddhism denied any permanent self (anatta).
+    - **Asceticism**: Jainism emphasised strict asceticism, as in Mahavira’s severe practices.
+    - **Middle Path**: Buddhism rejected extreme austerity and advocated moderation.
+    - **Non-violence**: Jainism stressed absolute ahimsa in food and action, while Buddhism balanced compassion with practical conduct.
+    - **Karma**: Jainism viewed karma as physical particles; Buddhism saw it as intentional action and mental formation.
+    - **Dependent origination**: Buddhism taught pratityasamutpada, interdependent causes; Jainism focused on individual karmic purification.
+    - **Monastic discipline**: Jain monks wore white robes or went nude; Buddhist monks wore saffron robes and followed the Vinaya.
+    - **Ritual**: Jainism kept more ritual purity rules and strict vows; early Buddhism was simpler in external rituals.
+    - **Scripture**: Jain Agamas differ from Buddhist Tripitaka in content, language and doctrinal emphasis.
   - Same destination:
-    - Goal: Both aimed at release; Jainism sought kevala jnana, Buddhism sought nirvana.
-    - Ethics: Both stressed moral discipline, truthfulness and non-violence as essential to liberation.
-    - Lay support: Both valued lay followers and householders as supporters of the sangha.
-    - Spiritual effort: Both required self-effort, ethical living and inner transformation.
-    - Renunciation: Both offered paths that moved beyond household attachment toward spiritual freedom.
-    - Philosophy: Jainism accepted multiple viewpoints (anekantavada), while Buddhism focused on the Four Noble Truths, yet both aimed to overcome ignorance.
+    - **Goal**: Both aimed at release; Jainism sought kevala jnana, Buddhism sought nirvana.
+    - **Ethics**: Both stressed moral discipline, truthfulness and non-violence as essential to liberation.
+    - **Lay support**: Both valued lay followers and householders as supporters of the sangha.
+    - **Spiritual effort**: Both required self-effort, ethical living and inner transformation.
+    - **Renunciation**: Both offered paths that moved beyond household attachment toward spiritual freedom.
+    - **Philosophy**: Jainism accepted multiple viewpoints (anekantavada), while Buddhism focused on the Four Noble Truths, yet both aimed to overcome ignorance.
 - *Conclusion:*
   - They differed in doctrine and practice, but both traditions led to the same spiritual goal by combining morality, discipline and insight.
 
@@ -444,20 +444,20 @@
 - *Intro:*
   - Jainism and Buddhism transformed society through ethical reform, social equality, education, art and new patterns of patronage.
 - *Body:*
-  - Non-violence: Both promoted ahimsa, reducing animal sacrifice and influencing vegetarian practice.
-  - Equality: They challenged caste privilege by opening spiritual paths to all.
-  - Education: Buddhist monasteries like Nalanda became learning centres.
-  - Art: Buddhist stupas and Jain temples inspired sculpture and architecture.
-  - Pilgrimage: Sites such as Sarnath and Shravana Belgola became centres of devotion.
-  - Writing: Buddhist and Jain texts enriched Pali, Prakrit and Sanskrit literature.
-  - Patronage: Kings like Ashoka and Kharavela supported monasteries and temples.
-  - Commerce: Jain merchant communities promoted trade ethics and networked towns.
-  - Women: Both traditions offered new roles for women as nuns and lay devotees.
-  - Law: Ethical codes influenced social norms and royal policies.
-  - Urban culture: Monasteries and temples stimulated urban growth.
-  - Medicine: Buddhist and Jain monasteries preserved medical and ethical knowledge.
-  - Social reform: They softened rigid social practices and promoted compassion.
-  - Cultural memory: Their monuments and festivals remain part of India’s cultural landscape.
+  - **Non-violence**: Both promoted ahimsa, reducing animal sacrifice and influencing vegetarian practice.
+  - **Equality**: They challenged caste privilege by opening spiritual paths to all.
+  - **Education**: Buddhist monasteries like Nalanda became learning centres.
+  - **Art**: Buddhist stupas and Jain temples inspired sculpture and architecture.
+  - **Pilgrimage**: Sites such as Sarnath and Shravana Belgola became centres of devotion.
+  - **Writing**: Buddhist and Jain texts enriched Pali, Prakrit and Sanskrit literature.
+  - **Patronage**: Kings like Ashoka and Kharavela supported monasteries and temples.
+  - **Commerce**: Jain merchant communities promoted trade ethics and networked towns.
+  - **Women**: Both traditions offered new roles for women as nuns and lay devotees.
+  - **Law**: Ethical codes influenced social norms and royal policies.
+  - **Urban culture**: Monasteries and temples stimulated urban growth.
+  - **Medicine**: Buddhist and Jain monasteries preserved medical and ethical knowledge.
+  - **Social reform**: They softened rigid social practices and promoted compassion.
+  - **Cultural memory**: Their monuments and festivals remain part of India’s cultural landscape.
 - *Conclusion:*
   - Jainism and Buddhism reshaped ancient society by promoting non-violence, equality, learning and enduring cultural institutions.
 
@@ -465,20 +465,20 @@
 - *Intro:*
   - Rulers adopted Jainism and Buddhism because these faiths offered moral legitimacy, social stability and alternative statecraft.
 - *Body:*
-  - Legitimacy: New religions legitimised rulers by linking them to dharma.
-  - Ethics: Ahimsa and compassion enhanced royal image among subjects.
-  - Popular support: Egalitarian teachings attracted urban merchants and peasants.
-  - Political unity: Shared faith helped unify diverse populations.
-  - Patronage: Support for monasteries brought economic and cultural rewards.
-  - Ashoka: His conversion to Buddhism after Kalinga created a model of righteous kingship.
-  - Chandragupta: Jain tradition influenced his later renunciation under Bhadrabahu.
-  - Trade: Merchants backed these religions, benefiting rulers through networked commerce.
-  - Administrative reform: Buddhist ethics supported welfare and justice policies.
-  - Cultural shift: The decline of Vedic ritualism left room for new spiritual paths.
-  - Cosmopolitanism: Buddhist missions and Jain sanghas connected rulers to wider cultural worlds.
-  - Social peace: Non-violent religions reduced internal conflict.
-  - Ideology: Rulers used religion to project moral and political authority.
-  - Legacy: Adoption of these faiths ensured dynastic remembrance through monuments.
+  - **Legitimacy**: New religions legitimised rulers by linking them to dharma.
+  - **Ethics**: Ahimsa and compassion enhanced royal image among subjects.
+  - **Popular support**: Egalitarian teachings attracted urban merchants and peasants.
+  - **Political unity**: Shared faith helped unify diverse populations.
+  - **Patronage**: Support for monasteries brought economic and cultural rewards.
+  - **Ashoka**: His conversion to Buddhism after Kalinga created a model of righteous kingship.
+  - **Chandragupta**: Jain tradition influenced his later renunciation under Bhadrabahu.
+  - **Trade**: Merchants backed these religions, benefiting rulers through networked commerce.
+  - **Administrative reform**: Buddhist ethics supported welfare and justice policies.
+  - **Cultural shift**: The decline of Vedic ritualism left room for new spiritual paths.
+  - **Cosmopolitanism**: Buddhist missions and Jain sanghas connected rulers to wider cultural worlds.
+  - **Social peace**: Non-violent religions reduced internal conflict.
+  - **Ideology**: Rulers used religion to project moral and political authority.
+  - **Legacy**: Adoption of these faiths ensured dynastic remembrance through monuments.
 - *Conclusion:*
   - Rulers embraced Jainism and Buddhism because their moral teachings and social appeal strengthened authority and promoted stability.
 
@@ -486,25 +486,26 @@
 - *Intro:*
   - Buddhist literature comprises a vast collection of texts focused on ethical living and monastic rules, differing from Vedic literature in language, origin, and philosophical intent.
 - *Body:*
-  - Language: Buddhist texts used Pali and Prakrit to reach the masses, unlike the archaic Vedic Sanskrit. Example: The Tipitaka is primarily composed in Pali.
-  - Authorship: It is considered historical and human-centric rather than divine or revealed (Shruti). Example: The Sutta Pitaka records the actual sermons of the Buddha.
-  - Philosophy: It advocates 'Anatta' (non-self), contrasting with the Vedic focus on 'Atman' (the eternal soul). Example: The Diamond Sutra explains the concept of emptiness.
-  - Objective: The focus is on ending suffering (Nirvana) through the Middle Path rather than through ritual sacrifice. Example: The Four Noble Truths.
-  - Organization: Literature is organized into three 'baskets' or Pitakas, differing from the Vedic Samhita-Brahmana structure. Example: Vinaya Pitaka for monastic discipline.
-  - Social inclusivity: It was accessible to all social groups, rejecting the Vedic priestly monopoly on sacred knowledge. Example: The Therigatha contains poems by Buddhist nuns.
-  - Transmission: Preserved through communal chanting in councils rather than family-based Brahminical lineages. Example: The First Buddhist Council at Rajgriha.
-  - Subject Matter: Focuses heavily on psychology and ethics rather than cosmic deities and nature worship. Example: Abhidhamma Pitaka’s philosophical analysis.
-  - Narrative Style: Uses parables and birth stories to teach morals, unlike Vedic hymns of praise to gods. Example: Jataka tales describe the Buddha’s previous lives.
-  - Historical Context: Emerged during the period of second urbanization, whereas Vedas reflect a rural, pastoral society. Example: Textual descriptions of cities like Shravasti and Vaishali.
-  - Chronology: Composed much later than the early Vedic period, marking a transition to written traditions. Example: The Mahavamsa records later historical events in Sri Lanka.
-  - Sectarian diversity: Developed into distinct canons like Mahayana and Hinayana, unlike the unified Vedic orthodox tradition. Example: The Lotus Sutra of Mahayana Buddhism.
-  - Logical enquiry: Encouraged questioning and personal experience over dogmatic adherence to ritual. Example: The Kalama Sutta urges followers to test teachings.
-  - Biographical focus: Centralized around the life and personality of a single historical figure. Example: The Buddhacharita by Ashvaghosa.
-  - Royal interaction: Records dialogues between monks and kings, reflecting urban political shifts. Example: Milindapanha records debates between Nagasena and King Menander.
-  - Global reach: Became international literature via trade routes, while Vedic literature remained culturally localized. Example: The existence of Tibetan and Chinese Buddhist canons.
-  - Rule-based living: Provides detailed codes of conduct for monastic life, which are absent in the Vedas. Example: The Patimokkha rules for monks.
-  - Dialectical approach: Uses a question-answer format to deconstruct concepts, unlike declarative Vedic mantras. Example: The Digha Nikaya contains long discourses and debates.
-  - Metaphysics: Replaces the 'Purusha' cosmic man theory with 'Pratityasamutpada' (dependent origination). Example: The Twelve Links of Causation.
-  - Art inspiration: Buddhist literature directly inspired massive sculptural and mural projects, unlike the non-iconic Vedic period. Example: Textual themes depicted in Ajanta cave paintings.
+  - ![tripitaka](./artifacts/tripitaka.png)
+  - **Language**: Buddhist texts used Pali and Prakrit to reach the masses, unlike the archaic Vedic Sanskrit. Example: The Tipitaka is primarily composed in Pali.
+  - **Authorship**: It is considered historical and human-centric rather than divine or revealed (Shruti). Example: The Sutta Pitaka records the actual sermons of the Buddha.
+  - **Philosophy**: It advocates 'Anatta' (non-self), contrasting with the Vedic focus on 'Atman' (the eternal soul). Example: The Diamond Sutra explains the concept of emptiness.
+  - **Objective**: The focus is on ending suffering (Nirvana) through the Middle Path rather than through ritual sacrifice. Example: The Four Noble Truths.
+  - **Organization**: Literature is organized into three 'baskets' or Pitakas, differing from the Vedic Samhita-Brahmana structure. Example: Vinaya Pitaka for monastic discipline.
+  - **Social inclusivity**: It was accessible to all social groups, rejecting the Vedic priestly monopoly on sacred knowledge. Example: The Therigatha contains poems by Buddhist nuns.
+  - **Transmission**: Preserved through communal chanting in councils rather than family-based Brahminical lineages. Example: The First Buddhist Council at Rajgriha.
+  - **Subject Matter**: Focuses heavily on psychology and ethics rather than cosmic deities and nature worship. Example: Abhidhamma Pitaka’s philosophical analysis.
+  - **Narrative Style**: Uses parables and birth stories to teach morals, unlike Vedic hymns of praise to gods. Example: Jataka tales describe the Buddha’s previous lives.
+  - **Historical Context**: Emerged during the period of second urbanization, whereas Vedas reflect a rural, pastoral society. Example: Textual descriptions of cities like Shravasti and Vaishali.
+  - **Chronology**: Composed much later than the early Vedic period, marking a transition to written traditions. Example: The Mahavamsa records later historical events in Sri Lanka.
+  - **Sectarian diversity**: Developed into distinct canons like Mahayana and Hinayana, unlike the unified Vedic orthodox tradition. Example: The Lotus Sutra of Mahayana Buddhism.
+  - **Logical enquiry**: Encouraged questioning and personal experience over dogmatic adherence to ritual. Example: The Kalama Sutta urges followers to test teachings.
+  - **Biographical focus**: Centralized around the life and personality of a single historical figure. Example: The Buddhacharita by Ashvaghosa.
+  - **Royal interaction**: Records dialogues between monks and kings, reflecting urban political shifts. Example: Milindapanha records debates between Nagasena and King Menander.
+  - **Global reach**: Became international literature via trade routes, while Vedic literature remained culturally localized. Example: The existence of Tibetan and Chinese Buddhist canons.
+  - **Rule-based living**: Provides detailed codes of conduct for monastic life, which are absent in the Vedas. Example: The Patimokkha rules for monks.
+  - **Dialectical approach**: Uses a question-answer format to deconstruct concepts, unlike declarative Vedic mantras. Example: The Digha Nikaya contains long discourses and debates.
+  - **Metaphysics**: Replaces the 'Purusha' cosmic man theory with 'Pratityasamutpada' (dependent origination). Example: The Twelve Links of Causation.
+  - **Art inspiration**: Buddhist literature directly inspired massive sculptural and mural projects, unlike the non-iconic Vedic period. Example: Textual themes depicted in Ajanta cave paintings.
 - *Conclusion:*
   - Buddhist literature represents an ethical and social shift that challenged Vedic orthodoxy through its inclusive language, logic, and rejection of ritualism.

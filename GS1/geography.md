@@ -3,15 +3,15 @@
   - A landslide is a natural disaster that occurs when a mass of earth or rock suddenly moves downhill under the influence of gravity. It is common in many regions around the world, including the Himalayan region and the Western Ghats of India.
   - ![landslides](artifacts/landslides.webp)
 - *Body:*
-  - Causes of landslides in the Himalayan region:
-    - Geological causes: The Himalayan region is a seismically active zone due to the collision of the Indian and Eurasian tectonic plates. This collision has resulted in the formation of steep slopes and unstable rock formations, making the region highly susceptible to landslides. E.g Assam. Earthquakes in the region also result in landslides.
-    - Climatic causes: The Himalayan region experiences heavy rainfall during the monsoon season, which can saturate the soil and rock formations, leading to landslides. The region is also prone to flash floods, which can trigger landslides by eroding the soil and destabilizing slopes. E.g The 2013 Uttarakhand landslides were triggered by heavy rainfall and cloudbursts, causing flash floods and landslides that killed over 5,000 people and damaged infrastructure in the region.
-    - Human causes: Deforestation, mining activities, and road construction can weaken the soil and rock formations, making the slopes more vulnerable to landslides. E.g Mining in Uttarakhand
-  - Causes of landslides in the Western Ghats:
-    - Geographical causes: The Western Ghats are characterized by steep slopes and high rainfall, which can lead to the erosion of the soil and rock formations, causing landslides.
-    - Climatic causes: The region experiences heavy rainfall during the monsoon season, which can saturate the soil and rock formations, making them more prone to landslides.
-    - Human causes: Human activities such as deforestation, construction of buildings and roads, and mining can weaken the soil and rock formations, making the slopes more vulnerable to landslides.
-    - In August 2021, Kerala witnessed landslides in the hilly district of Idukki due to heavy rainfall, which caused severe damage to property and claimed several lives.
-    - In July 2021, the Mahad region of Maharashtra was hit by landslides triggered by heavy rainfall, leading to the loss of several lives and damaging infrastructure in the area.
+  - **Causes of landslides in the Himalayan region**:
+    - **Geological causes**: The Himalayan region is a seismically active zone due to the collision of the Indian and Eurasian tectonic plates. This collision has resulted in the formation of steep slopes and unstable rock formations, making the region highly susceptible to landslides. E.g Assam. Earthquakes in the region also result in landslides.
+    - **Climatic causes**: The Himalayan region experiences heavy rainfall during the monsoon season, which can saturate the soil and rock formations, leading to landslides. The region is also prone to flash floods, which can trigger landslides by eroding the soil and destabilizing slopes. E.g The 2013 Uttarakhand landslides were triggered by heavy rainfall and cloudbursts, causing flash floods and landslides that killed over 5,000 people and damaged infrastructure in the region.
+    - **Human causes**: Deforestation, mining activities, and road construction can weaken the soil and rock formations, making the slopes more vulnerable to landslides. E.g Mining in Uttarakhand
+  - **Causes of landslides in the Western Ghats**:
+    - **Geographical causes**: The Western Ghats are characterized by steep slopes and high rainfall, which can lead to the erosion of the soil and rock formations, causing landslides.
+    - **Climatic causes**: The region experiences heavy rainfall during the monsoon season, which can saturate the soil and rock formations, making them more prone to landslides.
+    - **Human causes**: Human activities such as deforestation, construction of buildings and roads, and mining can weaken the soil and rock formations, making the slopes more vulnerable to landslides.
+    - **In August 2021**, Kerala witnessed landslides in the hilly district of Idukki due to heavy rainfall, which caused severe damage to property and claimed several lives.
+    - **In July 2021**, the Mahad region of Maharashtra was hit by landslides triggered by heavy rainfall, leading to the loss of several lives and damaging infrastructure in the area.
 - *Conclusion:*
   - Landslides are caused by a combination of geological, climatic, and human factors. The causes of landslides in the Himalayan region and the Western Ghats are different due to their distinct geographical and geological features.

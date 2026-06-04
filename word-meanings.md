@@ -25,3 +25,13 @@
 - Etymological is an adjective that describes anything relating to the origin and historical development of words
 - Ignorance is the lack of knowledge, education, or awareness about a specific subject or fact
 - transit: the act of being moved or carried from one place to another
+- To inhibit means to hold back, restrain, or prevent an action, process, or feeling
+- Hellenistic refers to the period of ancient Greek history and culture from the death of Alexander the Great in 323BC to the rise of the Roman Empire in 31BC. It is characterized by the spread and mixing of Greek ideas, language, and art with local customs across the Mediterranean and Near East.
+- The satrapy system was a highly successful decentralized provincial governance model used extensively in ancient Persian empires 
+- phalanx: A historical, tightly packed rectangular mass formation of infantry armed with spears or pikes.
+- Siegecraft refers to the military science, strategies, and technologies used to besiege, isolate, and capture heavily fortified strongholds or citie
+- A tetradrachm was a prominent, high-value ancient Greek silver coin worth four drachmae. Weighing around 17 grams, it served as a primary international currency, large-transaction medium, and tool for political propaganda throughout the Mediterranean and Hellenistic world for centuries
+- motifs: a picture or pattern on something
+- canon is the official list of sacred, divinely inspired texts recognized by a particular religious community as authoritative and binding. Derived from the Greek word kanōn (meaning a "measuring rod" or "rule"), it dictates the exact measure of what constitutes their sacred scripture
+- Laxity refers to the state or quality of being loose, slack, or not sufficiently strict. It spans both behavioral and physical contexts, describing everything from careless oversight to physiological looseness
+- Posthumous (pronounced "pohs-THOO-muhs") is an adjective that means occurring, awarded, or appearing after the death of the originator.
