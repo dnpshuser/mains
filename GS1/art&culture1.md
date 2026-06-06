@@ -439,3 +439,4 @@
   - **Narrative Panels**: Also produced reliefs depicting Jataka stories, but with simpler compositions than Amravati. Example: Reliefs on railing pillars.
 - *Conclusion:*
   - The Mathura School provided the foundational iconography for Indian religious art, establishing the aesthetic standards that define Indian divinity to this day.
+

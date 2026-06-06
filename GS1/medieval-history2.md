@@ -1,23 +1,28 @@
+<style>
+  :root {
+    --key-color: #1a73e8;
+  }
+</style>
+
 ### Q32. It is not Qutub ud din Aibak, but Iltutmish is the real founder of Slave Dynasty. Elaborate.
 - *Intro:*
   - Iltutmish is regarded as the true founder of the Slave Dynasty because he converted a fragile Turkish regime into a stable Sultanate.
 - *Body:*
-  - He succeeded Aibak in 1211 CE and survived early succession crises, establishing personal legitimacy.
-  - Iltutmish secured Indian recognition by receiving investiture from the Abbasid Caliph in 1229 CE.
-  - He reorganized the executive and introduced permanent offices such as wazir, diwan-i-arz and qazi.
-  - He popularised the Iqta system, assigning revenue rights to military officers for state service.
-  - Iltutmish issued silver tanka and copper jital, standardising coinage across the Sultanate.
-  - He enlarged the Qutb complex at Delhi and completed the Quwwat-ul-Islam mosque, making Delhi the capital.
-  - His reign saw the construction of the Hauz-i-Shamsi reservoir and other public works.
-  - He defeated independent chiefs in Punjab, Bengal, Rajasthan and Haryana to expand imperial control.
-  - Iltutmish subdued the Ghurid nobility and ended the challenge from Taj al-Din Yildiz and other Turkish rivals.
-  - He set up a royal household with strong central authority and curbed the power of the chahalgani (forty nobles).
-  - He settled problems of succession by choosing his talented daughter Razia as heir, showing administrative foresight.
-  - His reign brought administrative cohesion after Aibak’s brief and militaristic rule.
-  - Iltutmish strengthened the military by recruiting mamluk slaves and trained cavalry units.
-  - He promoted Islam through establishment of mosques, madrasas and religious charities, which enhanced state legitimacy.
-  - He initiated diplomatic relations with Central Asia and the Abbasid caliphate, adding international prestige.
-  - His reforms ensured that the Slave Dynasty became a lasting imperial house rather than a temporary warlord regime.
+  - <span style="color:var(--key-color)">**Administrative Legitimacy**</span>: Secured formal recognition from the Abbasid Caliphate. Example: Receipt of the Mansur in 1229 CE.
+  - <span style="color:var(--key-color)">**Executive Organization**</span>: Introduced permanent governing offices. Example: Offices of Wazir and Qazi.
+  - <span style="color:var(--key-color)">**Monetary System**</span>: Standardized coinage across the Sultanate. Example: Introduction of Silver Tanka and Copper Jital.
+  - <span style="color:var(--key-color)">**Iqta System**</span>: Linked revenue collection to military service. Example: Assignment of land to army officers.
+  - <span style="color:var(--key-color)">**Centralized Nobility**</span>: Created a loyal group of administrators. Example: The Chahalgani (Corps of Forty).
+  - <span style="color:var(--key-color)">**Capital Selection**</span>: Shifted the focus to Delhi as the imperial seat. Example: Building the Hauz-i-Shamsi.
+  - <span style="color:var(--key-color)">**Territorial Expansion**</span>: Consistently defeated rivals to secure borders. Example: Defeat of Yildiz and Qabacha.
+  - <span style="color:var(--key-color)">**Architectural Patronage**</span>: Completed monuments started by Aibak. Example: Completion of the Qutub Minar.
+  - <span style="color:var(--key-color)">**Military Recruitment**</span>: Focused on disciplined slave troops. Example: Use of Mamluk soldiers.
+  - <span style="color:var(--key-color)">**Succession Planning**</span>: Broke tradition by choosing a female heir for stability. Example: Nomination of Razia Sultan.
+  - <span style="color:var(--key-color)">**Administrative Cohesion**</span>: Brought stability after brief and militaristic rule. Example: Reforms in provincial administration.
+  - <span style="color:var(--key-color)">**Frontier Security**</span>: Strengthened the northwest to guard against Mongols. Example: Strategic forts in Punjab.
+  - <span style="color:var(--key-color)">**Islamic Promotion**</span>: Enhanced state legitimacy through religious institutions. Example: Building of mosques and madrasas.
+  - <span style="color:var(--key-color)">**Diplomatic Relations**</span>: Initiated ties with Central Asian powers. Example: Contact with the Khwarazmian empire.
+  - <span style="color:var(--key-color)">**Judicial Framework**</span>: Established a system of justice in the capital. Example: Chain of justice outside the palace.
 - *Conclusion:*
   - While Aibak began the dynasty, Iltutmish built its durable structure and is therefore rightly called the real founder of the Slave Dynasty.
 
@@ -25,22 +30,16 @@
 - *Intro:*
   - Alauddin Khilji used military innovation, financial discipline and ruthless politics to bring much of India under Delhi Sultanate control.
 - *Body:*
-  - He became Sultan in 1296 CE and immediately strengthened central authority over nobles.
-  - He created a powerful standing army with local recruits, mounted archers and disciplined cavalry.
-  - Price control and market regulation reduced cost of maintaining a large army and prevented corruption.
-  - He instituted the famous market reforms and the Dagh system to track soldiers and horses.
-  - His conquest of Gujarat and Malwa secured wealth and naval access.
-  - He captured Ranthambore, Chittor, Devagiri, Warangal and other major forts.
-  - His general Malik Kafur led southern campaigns, reaching Madurai and collecting tribute.
-  - He used intelligence networks, spies and police to suppress rebellion quickly.
-  - He enforced strict control over nobles by banning private negotiations with provincial governors.
-  - He reorganised revenue administration to ensure regular funding of campaigns.
-  - He commanded by example, leading expeditions against the Mongols and Rajputs.
-  - He defeated the Mongol invasion of 1306 CE, securing the northwest border.
-  - His capture of the Deccan states expanded the Sultanate’s influence beyond the Gangetic plain.
-  - He enforced direct rule in conquered territories rather than loose suzerainty.
-  - He used harsh punishments for dissent, which deterred revolts and made conquest rapid.
-  - His reign combined war, diplomacy and administrative restructuring to extend Sultanate control swiftly.
+  - <span style="color:var(--key-color)">**Standing Army**</span>: Created a powerful force with mounted archers. Example: High recruitment of local and Central Asian soldiers.
+  - <span style="color:var(--key-color)">**Market Reforms**</span>: Controlled prices to maintain a large military. Example: Regulation of grain and cloth prices in Delhi.
+  - <span style="color:var(--key-color)">**Military Discipline**</span>: Introduced systems to track soldiers and horses. Example: The Dagh (branding) and Chehra (descriptive roll).
+  - <span style="color:var(--key-color)">**Strategic Conquests**</span>: Secured wealthy regions for naval and financial access. Example: Conquest of Gujarat and Malwa.
+  - <span style="color:var(--key-color)">**Fort Capture**</span>: Took over major strategic strongholds in Rajasthan. Example: Ranthambore and Chittor.
+  - <span style="color:var(--key-color)">**Southern Campaigns**</span>: Expanded influence into the far south. Example: Malik Kafur reaching Madurai.
+  - <span style="color:var(--key-color)">**Intelligence Network**</span>: Used spies to suppress rebellions instantly. Example: Barids (intelligence officers) reporting on nobles.
+  - <span style="color:var(--key-color)">**Revenue Restructuring**</span>: Reorganized administration for campaign funding. Example: Abolishing small iqtas for direct state control.
+  - <span style="color:var(--key-color)">**Border Defense**</span>: Successfully repelled external threats. Example: Defeating the Mongol invasion of 1306 CE.
+  - <span style="color:var(--key-color)">**Direct Rule**</span>: Enforced immediate Sultanate authority in conquered lands. Example: Conversion of Deccan states into tributaries.
 - *Conclusion:*
   - Alauddin’s military ambition, centralisation of authority and economic reforms together explain how he conquered most of the Indian subcontinent in a short span.
 
@@ -48,22 +47,16 @@
 - *Intro:*
   - Arab and Mongol invasions were two major external shocks in medieval India with distinct causes and long-term effects.
 - *Body:*
-  - Arab invasions began in the early 8th century, initiated by Muhammad bin Qasim in Sindh (711 CE).
-  - The Arabs established Muslim rule in Sindh, bringing Islam to northwestern India.
-  - Arab conquest opened new maritime and overland trade links with the Islamic world.
-  - It introduced Arabic administrative practices and legal ideas into Indian frontier regions.
-  - Arab rule in Sindh also brought canal irrigation and new crops to the Indus plains.
-  - The Mongol invasions began in the 13th century and threatened the Delhi Sultanate repeatedly.
-  - Genghis Khan’s successors pushed through Central Asia, causing refugees and new military pressures on India.
-  - The Mongol raids into Punjab and Sindh forced Delhi rulers to invest heavily in fortifications and frontier defence.
-  - Mongol danger led to the strengthening of cavalry and the recruitment of Central Asian troops.
-  - Both invasions accelerated the Islamisation of the subcontinent by bringing more Muslim elites and merchants.
-  - Mongol contact also imported Persianate culture, art and administrative models into India.
-  - The invasions disrupted local economies temporarily but also stimulated trade adaptation and military innovation.
-  - Arab and Mongol incursions weakened the hold of regional hill chiefs and helped the rise of centralised states.
-  - The Mongol threat gave Awadh, Bengal and other regions greater incentive to seek protection from Delhi.
-  - Cultural impact included the blending of Indo-Islamic art, architecture and language.
-  - The memory of both invasions shaped medieval Indian political consciousness and frontier policy.
+  - <span style="color:var(--key-color)">**Initial Incursions**</span>: Initiated by Muhammad bin Qasim in the 8th century. Example: Conquest of Sindh in 711 CE.
+  - <span style="color:var(--key-color)">**Trade Routes**</span>: Opened maritime and overland links with the West. Example: Increased trade via the Arabian Sea.
+  - <span style="color:var(--key-color)">**Administrative Impact**</span>: Introduced new legal and governing ideas to the frontier. Example: Arabic administrative practices in Sindh.
+  - <span style="color:var(--key-color)">**Agricultural Innovation**</span>: Brought new crops and irrigation techniques to India. Example: Canal irrigation in the Indus plains.
+  - <span style="color:var(--key-color)">**Mongol Pressure**</span>: Threatened the Sultanate repeatedly throughout the 13th century. Example: Raids into Punjab and Sindh.
+  - <span style="color:var(--key-color)">**Military Defensive**</span>: Forced Sultanate rulers to invest in fortresses. Example: Balban’s fortification of the northwestern frontier.
+  - <span style="color:var(--key-color)">**Cavalry Strengthening**</span>: Led to the recruitment of specialized Central Asian troops. Example: Use of mounted archers against Mongol hordes.
+  - <span style="color:var(--key-color)">**Cultural Synthesis**</span>: Blended Indo-Islamic art and language styles. Example: Introduction of Persianate administrative models.
+  - <span style="color:var(--key-color)">**Centralization Impulse**</span>: Threats encouraged regional states to seek protection. Example: Bengal and Awadh aligning with Delhi.
+  - <span style="color:var(--key-color)">**Demographic Shift**</span>: Brought more Muslim elites and merchants to the interior. Example: Growth of urban Islamic centers in the north.
 - *Conclusion:*
   - Arab invasion brought the first permanent Islamic foothold and trade links, while Mongol invasion transformed military, political and cultural life in medieval India.
 
@@ -71,22 +64,16 @@
 - *Intro:*
   - The Delhi Sultanate created a centralised medieval state with a mix of Islamic offices and local Indian institutions.
 - *Body:*
-  - The Sultan was the supreme political, military and religious authority.
-  - Major ministers included the wazir (chief minister), diwan-i-arz (military), and diwan-i-risalat (religious affairs).
-  - The Iqta system linked land revenue to military service, with nobles holding revenue assignments.
-  - Provincial administration was conducted through governors (amil) and military commanders.
-  - The Sultanate used the office of qazi to administer Islamic justice and settle civil cases.
-  - Shariat law applied to Muslims, while local customs and Hindu law continued for non-Muslims.
-  - The military was a state service, organised in cavalry, infantry and elephant corps.
-  - The use of slave soldiers (mamluks) and Turkish cavalry was important in early Sultanate governance.
-  - Revenue collection was centralised, with land surveys and crop assessments in many provinces.
-  - The postal system (dilkush) and intelligence network (secretariat) supported administration.
-  - The Sultanate maintained state monopolies on minting, salt and sometimes essential commodities.
-  - The office of diwan-i-kharaj managed land revenue and payments to jagirdars.
-  - Religious scholars, Sufis and ulema played advisory and legitimising roles in administration.
-  - The state maintained a court of nobles and a hierarchy of ranks linked to state service.
-  - Urban administration relied on officials such as kotwals for policing and market regulation.
-  - The Sultanate also used dharma-yuddha ideology and regal titles to legitimize conquest.
+  - <span style="color:var(--key-color)">**Supreme Authority**</span>: The Sultan served as the ultimate political and military head. Example: Rule of Balban and Alauddin Khilji.
+  - <span style="color:var(--key-color)">**Central Ministries**</span>: Organized governance through specialized departments. Example: Wazir for finance and Diwan-i-Arz for military.
+  - <span style="color:var(--key-color)">**Iqta System**</span>: Linked land revenue rights to military service. Example: Assignment of land to Muktis or Walis.
+  - <span style="color:var(--key-color)">**Provincial Structure**</span>: Divided territory into Shiqs and Parganas. Example: Governors (Amils) overseeing local administration.
+  - <span style="color:var(--key-color)">**Judicial Offices**</span>: Administered justice through specialized legal experts. Example: The Qazi for Shariat law cases.
+  - <span style="color:var(--key-color)">**Military Organization**</span>: Maintained a state service of cavalry and elephants. Example: The use of royal Mamluk guards.
+  - <span style="color:var(--key-color)">**Revenue Centralization**</span>: Conducted land surveys to ensure regular tax income. Example: Land assessments under the Tughlaqs.
+  - <span style="color:var(--key-color)">**Intelligence Network**</span>: Supported administration with a rapid postal system. Example: The Barid-i-mamalik (head of intelligence).
+  - <span style="color:var(--key-color)">**State Monopolies**</span>: Controlled essential commodities to stabilize the economy. Example: Monopolies on salt and minting.
+  - <span style="color:var(--key-color)">**Urban Policing**</span>: Relied on local officials for market and street control. Example: The Kotwal in Sultanate cities.
 - *Conclusion:*
   - Delhi Sultanate administration combined Islamic governance, military revenue structures and local adaptations to rule a diverse medieval polity.
 
@@ -94,22 +81,16 @@
 - *Intro:*
   - The economy of the Delhi Sultanate was mainly agrarian but supported by trade, crafts and state revenue reforms.
 - *Body:*
-  - Agriculture formed the economic base and provided most of the state revenue.
-  - Land revenue was collected from peasants and assigned to iqta holders or state treasury.
-  - The Sultanate managed irrigation systems, canals and wells to improve agricultural output.
-  - Crop production included wheat, rice, barley, millet, sugarcane, cotton and pulses.
-  - Trade was important in towns, with Delhi, Multan, Lahore, and coastal ports as major centres.
-  - The state profited from trade duties, customs, market taxes and port levies.
-  - Urban guilds regulated crafts such as textiles, metalwork, carpentry and leather.
-  - Minting of silver tanka and copper jital stabilised currency for commerce.
-  - The Sultanate encouraged long-distance trade with Central Asia, Persia and Southeast Asia.
-  - Salt, textiles, spices, horses and precious metals were major traded commodities.
-  - Crafts and manufacturing were linked to court demand for luxury goods and military equipment.
-  - Forest products, hunting rights and pasture taxes generated additional revenue.
-  - The market reforms of Alauddin Khilji attempted to check hoarding and control prices.
-  - The Sultanate used state monopolies and price controls to support its military expenditures.
-  - Agricultural surplus supported urban growth and the maintenance of the army.
-  - The economy also depended on revenue from conquered provinces and tribute from client states.
+  - <span style="color:var(--key-color)">**Agrarian Base**</span>: Agriculture provided the primary source of state revenue. Example: Collection of Kharaj from peasants.
+  - <span style="color:var(--key-color)">**Irrigation Management**</span>: Managed canals and wells to boost productivity. Example: Feroz Shah Tughlaq’s canal projects.
+  - <span style="color:var(--key-color)">**Trade Centers**</span>: Developed major urban markets for exchange. Example: Delhi and Multan as trade hubs.
+  - <span style="color:var(--key-color)">**Monetary Stability**</span>: Introduced standardized coins for commerce. Example: Silver Tanka and Copper Jital.
+  - <span style="color:var(--key-color)">**Long-Distance Trade**</span>: Connected India with Central Asia and Persia. Example: Export of textiles and spices.
+  - <span style="color:var(--key-color)">**Urban Guilds**</span>: Regulated crafts like metalwork and leather. Example: Organized workshops for military equipment.
+  - <span style="color:var(--key-color)">**Market Regulation**</span>: Attempted to check hoarding and stabilize prices. Example: Alauddin Khilji’s market reforms.
+  - <span style="color:var(--key-color)">**State Monopolies**</span>: Controlled essential goods to fund military spending. Example: State control over salt and horses.
+  - <span style="color:var(--key-color)">**Industrial Growth**</span>: Court demand stimulated luxury manufacturing. Example: Karkhanas (royal workshops) in the capital.
+  - <span style="color:var(--key-color)">**Regional Tribute**</span>: Depended on wealth from conquered provinces. Example: Tributes from Deccan client states.
 - *Conclusion:*
   - The Delhi Sultanate economy balanced agrarian revenue, urban markets and long-distance trade to sustain a military-centered medieval state.
 
@@ -117,22 +98,16 @@
 - *Intro:*
   - Socio-cultural life under the Delhi Sultanate was marked by religious diversity, cultural exchange and the emergence of Indo-Islamic society.
 - *Body:*
-  - The Sultanate period saw the growth of cities as cosmopolitan centres of culture.
-  - Persian became the language of the court, administration and high culture.
-  - Urdu began to emerge as a synthesis of local dialects, Persian and Arabic.
-  - Sufi saints and khanqahs played a major role in popular spirituality and social cohesion.
-  - Bhakti saints in north India promoted devotional Hinduism and social reform.
-  - Festivals from both Islamic and Hindu traditions were celebrated in urban centres.
-  - Social life included strong guilds, bazaar culture and craft associations.
-  - Muslim and Hindu communities generally lived side by side, with occasional communal conflict.
-  - The Sultanate saw the spread of Islamic education through madrasas.
-  - Persian literature, historiography and poetry flourished under Sultanate patronage.
-  - Women in elite households influenced culture through patronage and piety, even though public roles were limited.
-  - Social mobility existed for military slaves, artisans and merchants who rose in state service.
-  - New architectural styles reshaped the urban landscape with mosques, tombs and madrasas.
-  - Food habits changed with the introduction of new dishes, sugar-based sweets and Persian cuisine.
-  - Dress and etiquette among the elite began to reflect Persian-Islamic norms.
-  - The Sultanate contributed to a composite Indo-Islamic culture that blended traditions across communities.
+  - <span style="color:var(--key-color)">**Cosmopolitan Cities**</span>: Urban areas grew as major centers of cultural exchange. Example: Development of Delhi as a cultural hub.
+  - <span style="color:var(--key-color)">**Linguistic Synthesis**</span>: Blended Persian with local dialects to create new languages. Example: Emergence of early Urdu (Hindavi).
+  - <span style="color:var(--key-color)">**Popular Spirituality**</span>: Sufi saints and khanqahs promoted social cohesion. Example: The influence of the Chisti silsila.
+  - <span style="color:var(--key-color)">**Hindu Devotion**</span>: Bhakti saints in the north fostered social reform. Example: The teachings of Ramananda and Kabir.
+  - <span style="color:var(--key-color)">**Religious Festivals**</span>: Both traditions celebrated festivals in common urban spaces. Example: Public celebration of Eid and Diwali.
+  - <span style="color:var(--key-color)">**Islamic Education**</span>: Spread learning through the establishment of madrasas. Example: Support for scholars in the capital.
+  - <span style="color:var(--key-color)">**Social Mobility**</span>: Allowed military slaves and artisans to rise in service. Example: The rise of the "Slaves of the Slaves."
+  - <span style="color:var(--key-color)">**Cuisine and Etiquette**</span>: Introduced new food habits and Persian court norms. Example: Introduction of Persian-style dress and sweets.
+  - <span style="color:var(--key-color)">**Composite Identity**</span>: Blended traditions to form a distinct Indo-Islamic culture. Example: Shared architectural and musical traditions.
+  - <span style="color:var(--key-color)">**Artistic Patronage**</span>: Flourishing of Persian literature and historiography. Example: Court chronicles like the Tarikh-i-Firoz Shahi.
 - *Conclusion:*
   - Delhi Sultanate social and cultural life was dynamic, combining indigenous Indian customs with Islamic and Persian influences.
 
@@ -140,22 +115,16 @@
 - *Intro:*
   - Delhi Sultanate architecture laid the foundations of Indo-Islamic design in India.
 - *Body:*
-  - Use of arch and dome became prominent, especially from the Delhi Sultanate onwards.
-  - Early monuments showed corbelled arches before true voussoir arches were adopted.
-  - The Qutb Minar complex in Delhi is a principal example and is now a UNESCO World Heritage Site.
-  - The Quwwat-ul-Islam mosque used spolia from Hindu-Jain temples, blending traditions.
-  - Use of rubble masonry and battered walls was characteristic in many forts and tombs.
-  - Tughlaq architecture introduced massive sloping walls and austere surfaces.
-  - Lodi architecture developed more refined dome tombs and octagonal plans.
-  - Stone lattices (jali) and geometric ornament appeared in mosque screens.
-  - The Alai Darwaza at Qutb complex demonstrates early true arch and dome construction.
-  - Fortifications such as Tughlaqabad and Siri used concentric defence and large bastions.
-  - Tomb architecture included enclosed gardens, chhatris and vaulted halls.
-  - Use of inlaid marble and glazed tiles emerged in later Sultanate buildings.
-  - The Sultanate adapted indigenous forms like corbelled roofs into Islamic structures.
-  - Public works included tanks, city gates, bridges and market halls.
-  - Mosque plans generally included a courtyard, prayer hall and mihrab oriented towards Mecca.
-  - Sultanate architecture established a vocabulary later elaborated by the Mughals.
+  - <span style="color:var(--key-color)">**Arch and Dome**</span>: Introduced the arcuate system of construction. Example: The Alai Darwaza’s true arch.
+  - <span style="color:var(--key-color)">**UNESCO Monuments**</span>: Created world-renowned religious complexes. Example: The Qutub Minar complex.
+  - <span style="color:var(--key-color)">**Syncretic Building**</span>: Used spolia from existing temples in early mosques. Example: The Quwwat-ul-Islam mosque.
+  - <span style="color:var(--key-color)">**Rubble Masonry**</span>: Characterized by massive walls and battered surfaces. Example: Fortifications at Tughlaqabad.
+  - <span style="color:var(--key-color)">**Sloping Walls**</span>: A unique feature of Tughlaq design for strength. Example: The tomb of Ghiyasuddin Tughlaq.
+  - <span style="color:var(--key-color)">**Octagonal Plans**</span>: Introduced refined tomb designs during the Lodhi era. Example: The tomb of Sikandar Lodhi.
+  - <span style="color:var(--key-color)">**Ornamentation**</span>: Featured geometric patterns and stone lattices. Example: Jali work in later Sultanate mosques.
+  - <span style="color:var(--key-color)">**Concentric Defense**</span>: Built large fortified cities with bastions. Example: The city of Siri.
+  - <span style="color:var(--key-color)">**Hybrid Vocabulary**</span>: Adapted indigenous forms like chhatris into Islamic design. Example: Garden tombs with pillared pavilions.
+  - <span style="color:var(--key-color)">**Public Infrastructure**</span>: Constructed tanks, bridges, and city gates. Example: The Hauz-i-Shamsi reservoir.
 - *Conclusion:*
   - Delhi Sultanate architecture created a distinctive Indo-Islamic style with forts, mosques and tombs that shaped medieval Indian monumentality.
 
@@ -163,21 +132,16 @@
 - *Intro:*
   - Vijayanagara literature was rich, multilingual and deeply shaped by devotional, courtly and regional traditions.
 - *Body:*
-  - Telugu literature flourished under Vijayanagara patronage, producing court poetry and epics.
-  - The poet Pothana composed the Telugu Bhagavata Purana, a major devotional classic.
-  - Srinatha wrote popular devotional and court poetry, including the Palnati Vira Charitra.
-  - Kannada literature also saw important works by Haridasa poets and court scholars.
-  - Sanskrit remained prestigious, with works in philosophy, grammar and drama commissioned by kings.
-  - Krishnadevaraya’s court included the Ashtadiggajas, eight great poets in Telugu.
-  - The famous Telugu epic Amuktamalyada was composed by Krishnadevaraya.
-  - Bhakti literature in Kannada and Telugu popularized Dvaita and Vaishnava devotion.
-  - Annamacharya composed devotional songs to Lord Venkateswara.
-  - Literary patronage encouraged a synthesis of Sanskrit, Telugu and Kannada idioms.
-  - Court poetry celebrated kings, battles, temple grants and state rituals.
-  - Literature was used to legitimize rulers and record historical events.
-  - Temple institutions sponsored manuscript copying, commentaries and scholastic debate.
-  - Local vernaculars grew in prestige alongside classical Sanskrit.
-  - The empire’s literary culture influenced later Deccan and south Indian traditions.
+  - <span style="color:var(--key-color)">**Telugu Renaissance**</span>: Produced major courtly epics and devotional classics. Example: Pothana’s Telugu Bhagavata Purana.
+  - <span style="color:var(--key-color)">**Ashtadiggajas**</span>: The royal court supported eight legendary poets. Example: Allasani Peddana under Krishnadevaraya.
+  - <span style="color:var(--key-color)">**Royal Authorship**</span>: Kings themselves composed influential literary works. Example: Krishnadevaraya’s Amuktamalyada.
+  - <span style="color:var(--key-color)">**Kannada Haridasa**</span>: Supported devotional works by scholars and poets. Example: Compositions by Purandara Dasa.
+  - <span style="color:var(--key-color)">**Sanskrit Scholarship**</span>: Remained prestigious for grammar and philosophy. Example: Works commissioned for temple institutes.
+  - <span style="color:var(--key-color)">**Devotional Songs**</span>: Popularized Vaishnava devotion through music. Example: Annamacharya’s songs to Venkateswara.
+  - <span style="color:var(--key-color)">**Literary Synthesis**</span>: Encouraged a blend of classical and vernacular idioms. Example: Use of multiple languages in court poetry.
+  - <span style="color:var(--key-color)">**Historical Records**</span>: Used literature to celebrate battles and temple grants. Example: Royal panegyrics.
+  - <span style="color:var(--key-color)">**Manuscript Support**</span>: Temple institutions sponsored copying and scholarly debate. Example: Preservation of texts in religious centers.
+  - <span style="color:var(--key-color)">**Regional Prestige**</span>: Vernaculars grew alongside classical Sanskrit. Example: The elevation of Telugu to an imperial language.
 - *Conclusion:*
   - Vijayanagara’s literary achievements combined royal patronage, devotional fervour and multilingual creativity.
 
@@ -185,22 +149,16 @@
 - *Intro:*
   - The Vijayanagara Empire produced a vibrant art and architectural style that reflected ritual, military and royal grandeur.
 - *Body:*
-  - Hampi, the capital, is a UNESCO World Heritage Site and the best surviving example of Vijayanagara urban culture.
-  - Temples such as Vittala, Virupaksha and Hazara Rama exemplify monumental Dravidian architecture.
-  - The iconic stone chariot at Vittala temple is a masterpiece of sculptural art.
-  - Composite pillars with yali and kalyani motifs became standard in Vijayanagara halls.
-  - Lotus Mahal, Elephant Stables and Queen’s Bath show secular palace architecture.
-  - The architecture combined granite with carved frescoes and ornamental pillars.
-  - Sculpture was prolific, with reliefs of gods, dancers, animals and narrative scenes.
-  - Temple architecture included large mahamandapas, gopurams and prakara walls.
-  - Artisans produced fine bronze icons, stone reliefs and architectural sculpture.
-  - Court culture included music, dance, drama and temple rituals.
-  - Royal patronage supported classical Sanskrit drama as well as Telugu and Kannada literature.
-  - The empire’s festivals and rituals were elaborate and closely tied to temple art.
-  - Visual culture reflected both Vaishnava devotion and Shaiva traditions.
-  - The use of water tanks and stepwells enhanced palace and temple complexes.
-  - Military architecture such as fortified enclosures and bastions protected the capital.
-  - Vijayanagara culture influenced later South Indian kingdoms and temple architecture.
+  - <span style="color:var(--key-color)">**Urban UNESCO Sites**</span>: Hampi serves as a masterpiece of urban planning. Example: The Vitthala temple complex.
+  - <span style="color:var(--key-color)">**Monumental Dravidian**</span>: Perfected the stone temple design with grand halls. Example: The Virupaksha temple.
+  - <span style="color:var(--key-color)">**Sculptural Brilliance**</span>: Created iconic art pieces in stone. Example: The Stone Chariot at Vitthala.
+  - <span style="color:var(--key-color)">**Pillar Innovation**</span>: Developed composite pillars with Yali motifs. Example: The ornate halls of the Vitthala temple.
+  - <span style="color:var(--key-color)">**Secular Architecture**</span>: Built impressive palace structures and civic works. Example: The Lotus Mahal and Elephant Stables.
+  - <span style="color:var(--key-color)">**Bronze Art**</span>: Produced fine icons for religious and ritual use. Example: Bronze statues of Krishna and Shiva.
+  - <span style="color:var(--key-color)">**Relief Carving**</span>: Prolific carving of dancers and mythical narrative scenes. Example: Reliefs in the Hazara Rama temple.
+  - <span style="color:var(--key-color)">**Hydraulic Systems**</span>: Used water tanks and stepwells for temple complexes. Example: The Queen’s Bath.
+  - <span style="color:var(--key-color)">**Festival Rituals**</span>: Linked elaborate rituals with temple art and music. Example: The Mahanavami Dibba festivals.
+  - <span style="color:var(--key-color)">**Military Fortification**</span>: Protected the capital with massive bastions and walls. Example: The defensive enclosures of Hampi.
 - *Conclusion:*
   - Vijayanagara art and architecture combined religious majesty, courtly splendour and a distinctive Dravidian idiom.
 
@@ -208,21 +166,16 @@
 - *Intro:*
   - Travellers’ descriptions of Vijayanagara present the city as one of the richest and largest capitals of its time.
 - *Body:*
-  - Portuguese travellers Domingo Paes and Fernão Nunes wrote vivid accounts of Hampi in the 1520s.
-  - They described a splendid capital with broad streets, bustling markets and thousands of inhabitants.
-  - They recorded the enormous wealth of temples and palaces, calling Vijayanagara the richest city in the world.
-  - Abdur Razzaq, envoy of Shah Rukh of Persia, praised the discipline and organisation of the court.
-  - Niccolo de Conti and other western traders noted the city’s huge crowds, elephants and military power.
-  - Travellers admired the grand stone chariot, royal audience halls and wealthy merchants.
-  - They mentioned the famous bazaar, artisans, jewellers and foreign traders in the city.
-  - Accounts highlighted the prosperity of agriculture and irrigation feeding the capital.
-  - Visitors noted the emperor’s elaborate festivals and public ceremonies.
-  - They described the strong walls, gatehouses and fortifications around Hampi.
-  - Some travellers praised the religious tolerance and temple patronage of the Vijayanagara rulers.
-  - The presence of Ethiopians, Persians and Portuguese in the capital showed its cosmopolitan character.
-  - The accounts warned of the empire’s heavy taxation and strict discipline in wartime.
-  - The travellers’ impressions shaped later European ideas of South Indian splendour.
-  - Their records are key sources for historians of Vijayanagara.
+  - <span style="color:var(--key-color)">**Splendid Capital**</span>: Portrayed the city as a center of immense wealth. Example: Accounts by Domingo Paes calling it the richest city.
+  - <span style="color:var(--key-color)">**Court Discipline**</span>: Praised the organization and prestige of royal life. Example: Reports by the Persian envoy Abdur Razzaq.
+  - <span style="color:var(--key-color)">**Military Power**</span>: Noted the large crowds, elephants, and state strength. Example: Descriptions by Niccolò de' Conti.
+  - <span style="color:var(--key-color)">**Global Trade**</span>: Mentioned the presence of diverse foreign traders. Example: Portuguese, Persians, and Ethiopians in the bazaar.
+  - <span style="color:var(--key-color)">**Agricultural Prosperity**</span>: Highlighted the irrigation systems supporting the capital. Example: Reports on the productivity around Hampi.
+  - <span style="color:var(--key-color)">**Public Rituals**</span>: Observed elaborate festivals and imperial ceremonies. Example: Accounts of the Mahanavami festival.
+  - <span style="color:var(--key-color)">**Urban Planning**</span>: Described strong walls and grand gatehouses. Example: Detailed records of Hampi’s fortifications.
+  - <span style="color:var(--key-color)">**Artistic Admiration**</span>: Specifically praised architectural marvels. Example: Mention of the grand stone chariot.
+  - <span style="color:var(--key-color)">**Economic Stress**</span>: Warned of heavy taxation and wartime discipline. Example: Critical notes by some Western traders.
+  - <span style="color:var(--key-color)">**Religious Pluralism**</span>: Praised the tolerance shown by emperors. Example: Support for various temples and sects.
 - *Conclusion:*
   - Travellers’ accounts portray Vijayanagara as a wealthy, well-organised and culturally vibrant empire.
 
@@ -230,21 +183,16 @@
 - *Intro:*
   - Vijayanagara temple architecture represents the culmination of Dravidian temple design with a bold new grandeur.
 - *Body:*
-  - Temples were built with large granite blocks and richly carved surfaces.
-  - The Dravidian plan emphasised large open mandapas and high-pillared halls.
-  - Gopurams were tall and sculpturally decorated, marking temple entrances.
-  - Pillared halls often rested on elevated platforms with ornate yali brackets.
-  - Stone chariot structures became iconic symbols of Vijayanagara temple art.
-  - Sculptural reliefs depicted gods, goddesses, epic scenes and mythical creatures.
-  - The use of musical pillars in the Vittala temple showed architectural innovation.
-  - Temple complexes were integrated with tanks, courtyards and processional paths.
-  - Temple mandapas served both ritual and public functions, including music and dance.
-  - Ornamentation included lotus motifs, animal figures and rhythmic geometric patterns.
-  - Temple architecture reflected both Shaiva and Vaishnava devotion in the same complexes.
-  - Bronze and stone icons were installed within temple sanctums.
-  - The style preserved classical south Indian forms while increasing scale and ornament.
-  - Patronage by the royal family and wealthy merchants funded expansive temple building.
-  - The surviving ruins at Hampi illustrate the distinctive Vijayanagara temple vocabulary.
+  - <span style="color:var(--key-color)">**Granite Mastery**</span>: Used large blocks for durable and richly carved surfaces. Example: The Vittala temple walls.
+  - <span style="color:var(--key-color)">**Grand Halls**</span>: Emphasized massive open mandapas and pillared halls. Example: The 100-pillared halls.
+  - <span style="color:var(--key-color)">**Sculptural Entrances**</span>: Built tall, decorated Gopurams to mark complex boundaries. Example: Entrance to the Virupaksha temple.
+  - <span style="color:var(--key-color)">**Iconic Chariots**</span>: Created unique freestanding stone sculptures. Example: The stone chariot at the Vittala temple.
+  - <span style="color:var(--key-color)">**Musical Pillars**</span>: Introduced architectural innovation in pillar design. Example: The singing pillars of Hampi.
+  - <span style="color:var(--key-color)">**Relief Narratives**</span>: Carved epic scenes and mythical creatures onto walls. Example: Reliefs in the Hazara Rama temple.
+  - <span style="color:var(--key-color)">**Integrated Design**</span>: Combined tanks and courtyards within the temple layout. Example: The temple pushkarinis.
+  - <span style="color:var(--key-color)">**Ornate Brackets**</span>: Used Yali motifs on pillars for structural support. Example: Decorative brackets in temple halls.
+  - <span style="color:var(--key-color)">**Sectarian Synthesis**</span>: Accommodated Shaiva and Vaishnava shrines together. Example: The diverse temples of the capital.
+  - <span style="color:var(--key-color)">**Scale Increase**</span>: Expanded classical forms to a monumental imperial scale. Example: The grand scale of Hampi monuments.
 - *Conclusion:*
   - Vijayanagara temple architecture grew into a monumental Dravidian form, distinguished by massive pillared halls, elaborate sculpture and a majestic city-scale presence.
 
@@ -252,21 +200,16 @@
 - *Intro:*
   - The Gajapati rulers of Odisha made lasting contributions to temple architecture, sculpture and temple culture.
 - *Body:*
-  - They patronised the Jagannath temple at Puri, an important living pilgrimage centre.
-  - The Gajapatis supported the construction and renovation of temple complexes in Odisha.
-  - Their period saw the mature Kalinga temple style with rekha deul and jagamohana forms.
-  - Konark Sun Temple, completed under Narasimhadeva I, stands as a major architectural achievement.
-  - Gajapati temples are noted for their richly carved exterior walls and narrative panels.
-  - Sculptors produced elaborate stone images of deities, dancers and ornamentation.
-  - Temple art included elegant carvings of Vishnu, Shiva, Durga and local deities.
-  - Terracotta and bronze art also flourished under Gajapati patronage.
-  - The Gajapatis supported rituals, festivals and temple theatre at Puri and Konark.
-  - Their cultural patronage linked temple architecture with religious and civic life.
-  - Jagannath culture under the Gajapatis spread Odishan artistic aesthetics beyond the region.
-  - The temple economy supported artisans, guilds and local markets.
-  - The Gajapati monuments emphasise verticality, sculptural detail and harmonious proportions.
-  - Their buildings influenced later temple architecture in eastern India.
-  - Gajapati patronage preserved Odisha’s classical temple tradition during the late medieval period.
+  - <span style="color:var(--key-color)">**Jagannath Patronage**</span>: Supported the Puri temple as a major national center. Example: Expansion of the Puri Jagannath complex.
+  - <span style="color:var(--key-color)">**Kalinga Maturity**</span>: Perfected the regional temple style with towers. Example: Use of Rekha Deul and Jagamohana forms.
+  - <span style="color:var(--key-color)">**Architectural Achievement**</span>: Completed massive, world-renowned stone shrines. Example: The Sun Temple at Konark.
+  - <span style="color:var(--key-color)">**Narrative Walls**</span>: Adorned exterior walls with detailed stone reliefs. Example: Carvings of dancers and mythical figures.
+  - <span style="color:var(--key-color)">**Iconographic Range**</span>: Supported images of Vaishnava, Shaiva, and Shakti deities. Example: Stone carvings of Durga and Vishnu.
+  - <span style="color:var(--key-color)">**Terracotta and Bronze**</span>: Encouraged diverse artistic mediums for temple art. Example: Metal icons for ritual use.
+  - <span style="color:var(--key-color)">**Ritual Promotion**</span>: Backed festivals and theater at pilgrimage sites. Example: The Rath Yatra festivals.
+  - <span style="color:var(--key-color)">**Economic Stimulus**</span>: Supported local artisan guilds via temple building. Example: The temple-led economic system.
+  - <span style="color:var(--key-color)">**Classical Continuity**</span>: Preserved Odishan traditions through late medieval times. Example: Renovations of ancient shrines.
+  - <span style="color:var(--key-color)">**Vertical Emphasis**</span>: Focused on harmonious proportions and towering peaks. Example: The silhouette of the Puri temple.
 - *Conclusion:*
   - The Gajapatis made significant contributions by sustaining the Kalinga temple tradition and enriching Indian sacred art and architecture.
 
@@ -274,21 +217,16 @@
 - *Intro:*
   - Vijayanagara created administrative reforms that strengthened central rule while accommodating regional military elites.
 - *Body:*
-  - The empire used a monarchic system with the king as supreme authority and divine patron.
-  - It developed the nayankara system, granting land and military duties to nayakas.
-  - The nayankara system linked military service to revenue assignments in local territories.
-  - Provincial administration was divided into rajyas, nadu and kottams for easier management.
-  - Military commanders and local chiefs maintained garrisons and collected revenue.
-  - The empire maintained a strong network of forts under direct royal control.
-  - Central revenue officials ensured taxes were collected and remitted to the capital.
-  - The royal court included ministers for finance, military, justice and foreign affairs.
-  - The Amaram system allowed land grants for service while preserving royal ownership of land.
-  - The empire supported pilgrimage, temple grants and local village administration.
-  - Trade in ports such as Mangalore, Goa and ports on the Coromandel coast contributed to revenue.
-  - The administration incorporated Brahmanical advisors and used Sanskrit and local languages.
-  - Bureaucratic offices supervised irrigation, agriculture and land records.
-  - The state promoted a strong military-administrative elite that balanced loyalty and local autonomy.
-  - The administrative pattern influenced later Deccan states and Maratha governance.
+  - <span style="color:var(--key-color)">**Nayankara System**</span>: Linked military service to local land revenue grants. Example: Appointment of Nayakas as territorial heads.
+  - <span style="color:var(--key-color)">**Monarchic Authority**</span>: The king served as the ultimate divine patron. Example: The centralized rule of Krishnadevaraya.
+  - <span style="color:var(--key-color)">**Provincial Division**</span>: Divided the empire into Rajyas and Nadus for management. Example: Use of local governors to remit taxes.
+  - <span style="color:var(--key-color)">**Fortified Control**</span>: Maintained a massive network of state-owned forts. Example: Direct royal control over frontier outposts.
+  - <span style="color:var(--key-color)">**Amaram Grants**</span>: Provided land for service without surrendering royal ownership. Example: Revenue tracts assigned to military officers.
+  - <span style="color:var(--key-color)">**Maritime Revenue**</span>: Collected duties from coastal trade hubs. Example: Ports at Mangalore and Goa.
+  - <span style="color:var(--key-color)">**Scholarly Advisors**</span>: Integrated Brahmanical experts into the royal court. Example: Advisors using Sanskrit and Telugu.
+  - <span style="color:var(--key-color)">**Irrigation Oversight**</span>: Specialized offices managed agriculture and water records. Example: State-led tank and canal construction.
+  - <span style="color:var(--key-color)">**Judicial Offices**</span>: Provided ministers for justice and law. Example: The centralized royal secretariat.
+  - <span style="color:var(--key-color)">**Bureaucratic Continuity**</span>: Influenced later Deccan and Maratha governance styles. Example: The pattern of military-revenue administration.
 - *Conclusion:*
   - Vijayanagara’s administrative changes combined central authority with a military-revenue system that sustained a powerful medieval empire.
 
@@ -296,21 +234,16 @@
 - *Intro:*
   - Vijayanagara society was socially stratified yet culturally vibrant, with strong links to temples, trade and military life.
 - *Body:*
-  - The social order included kings, nobles, soldiers, merchants, artisans, peasants and priests.
-  - Temple institutions played a central role in economic, social and religious life.
-  - Brahmins held important positions as priests, scholars and grant recipients.
-  - Warriors and nayakas formed an influential military class with land assignments.
-  - Artisans and craftsmen were organised into guilds serving temples and royal projects.
-  - Merchants engaged in inland and maritime trade, bringing wealth to the capital.
-  - Peasants cultivated land under the Amaram system and paid revenue to the state and temples.
-  - The empire had a strong tradition of patronage for Sanskrit, Telugu and Kannada culture.
-  - Women in elite families influenced court ritual, patronage and temple donations.
-  - Village communities retained customary rights and local self-government in many regions.
-  - Social mobility existed for talented soldiers, traders and administrators.
-  - Religious life included Vaishnava and Shaiva devotion, alongside local folk cults.
-  - Festivals and temple rituals structured the social calendar.
-  - Urban society in Hampi was cosmopolitan, with foreign traders and diverse communities.
-  - The empire’s society was shaped by both indigenous traditions and contacts with foreign merchants.
+  - <span style="color:var(--key-color)">**Temple Hubs**</span>: Religious institutions served as central economic centers. Example: Temples acting as major landowners and employers.
+  - <span style="color:var(--key-color)">**Scholarly Elite**</span>: Brahmins held prestigious roles as priests and advisors. Example: Large grants given to religious scholars.
+  - <span style="color:var(--key-color)">**Military Class**</span>: Nayakas formed a powerful landholding warrior elite. Example: Influence of the military-administrative ranks.
+  - <span style="color:var(--key-color)">**Artisan Guilds**</span>: Organized craftsmen served both temples and the state. Example: Weaver and blacksmith associations.
+  - <span style="color:var(--key-color)">**Agrarian Labor**</span>: Peasants worked land under the revenue systems. Example: Payments made to local temple trusts.
+  - <span style="color:var(--key-color)">**Elite Women**</span>: Women in royal circles influenced culture and piety. Example: Donations and patronage by queens.
+  - <span style="color:var(--key-color)">**Social Mobility**</span>: Allowed talented individuals to rise through state service. Example: Merchants becoming administrative heads.
+  - <span style="color:var(--key-color)">**Urban Cosmopolitanism**</span>: Hampi housed diverse international communities. Example: Presence of Persian and Portuguese residents.
+  - <span style="color:var(--key-color)">**Religious Synthesis**</span>: Blended high bhakti with local folk traditions. Example: Coexistence of Vaishnava and local cults.
+  - <span style="color:var(--key-color)">**Village Autonomy**</span>: Communities retained some customary self-government. Example: Local village council decision-making.
 - *Conclusion:*
   - Vijayanagara society was a complex balance of caste, temple economy, military organization and cultural patronage.
 
@@ -318,21 +251,16 @@
 - *Intro:*
   - Trade and commerce were major pillars of Vijayanagara prosperity, supporting its army and monumental cities.
 - *Body:*
-  - Inland trade in grains, textiles, horses, metals and forest products was well-developed.
-  - Coastal trade connected the empire with the Arabian Sea, Red Sea and Indian Ocean markets.
-  - Ports such as Mangalore, Goa and Cannanore were important maritime gateways.
-  - The empire exported spices, pearls, textiles and precious stones.
-  - It imported horses, metals, luxury fabrics and foreign goods.
-  - The bazaar at Hampi was famous for its variety of goods and bustling commerce.
-  - Merchant guilds such as the Ayyavole and Manigramam operated across South India.
-  - Trade revenue provided funds for temples, forts and royal expenditure.
-  - The empire supported artisans and weavers through state patronage.
-  - Markets were regulated through taxation, tolls and customs duties.
-  - The state controlled strategic routes and secured caravanserais.
-  - The presence of Portuguese and Arab traders added foreign exchange.
-  - Inland waterways and irrigation facilitated transport of agricultural produce.
-  - Trade also stimulated urbanization of towns around temples and markets.
-  - Vijayanagara’s economic strength rested on a combination of agrarian surplus and commercial exchange.
+  - <span style="color:var(--key-color)">**Maritime Gateways**</span>: Connected the empire to global ocean markets. Example: Ports at Mangalore and Cannanore.
+  - <span style="color:var(--key-color)">**Global Exports**</span>: Traded high-value goods like spices and pearls. Example: Textile exports to Southeast Asia.
+  - <span style="color:var(--key-color)">**Strategic Imports**</span>: Brought in horses and luxury metals from abroad. Example: Import of Arabian horses.
+  - <span style="color:var(--key-color)">**Merchant Guilds**</span>: Powerful associations operated across the south. Example: The Ayyavole and Manigramam guilds.
+  - <span style="color:var(--key-color)">**Imperial Bazaars**</span>: Hampi housed world-famous markets for varied goods. Example: Busy markets described by foreign travelers.
+  - <span style="color:var(--key-color)">**Tax Regulation**</span>: Controlled commerce through tolls and customs duties. Example: Revenue from town marketplace taxes.
+  - <span style="color:var(--key-color)">**Craft Support**</span>: Backed weavers and artisans through state patronage. Example: Development of specialized weaving centers.
+  - <span style="color:var(--key-color)">**Caravan Security**</span>: Protected strategic land routes and resting places. Example: Building of caravanserais for traders.
+  - <span style="color:var(--key-color)">**Foreign Exchange**</span>: Engaged directly with Portuguese and Arab merchants. Example: Use of international coins in commerce.
+  - <span style="color:var(--key-color)">**Hydraulic Transport**</span>: Used waterways to move agricultural produce to markets. Example: Transport of grain to urban centers.
 - *Conclusion:*
   - Trade and commerce were critical to Vijayanagara’s wealth, linking its agricultural base with regional and overseas markets.
 
@@ -340,21 +268,16 @@
 - *Intro:*
   - The Bahmani Sultanate introduced an Indo-Persian Deccan style that blended Persian forms with local Indian materials.
 - *Body:*
-  - It built monumental mosques, tombs and madrasas at **Gulbarga and Bidar**.
-  - **Bahmani architecture** featured large domes, arches, minarets and courtyards.
-  - The **Haft Gumbaz** tombs of Bidar display graceful Persianate tomb design.
-  - The **Jama Masjid** at Gulbarga is noted for its large central dome and enclosed prayer hall.
-  - The **Bahmani capital** at Bidar developed distinctive tile work and painted decoration.
-  - **Palace architecture** included octagonal pavilions, arcaded halls and Persian gardens.
-  - The **Bahmani court** supported calligraphy, illuminated manuscripts and Persian poetry.
-  - **Their architecture** used local basalt and granite, shaped into Persian forms.
-  - The **Deccan style** blended Persian arches with Indian decorative motifs.
-  - **Bahmani art** reflected the cosmopolitan character of the Deccan court.
-  - The **state** patronized scholars, artists and architects from Iran and Central Asia.
-  - **Courtyard gardens** with water channels influenced later Deccan Sultanate palaces.
-  - **Bahmani book culture** helped spread Persianate learning in the Deccan.
-  - The **architectural legacy** endured in the later Bijapur and Golconda sultanates.
-  - **Bahmani monuments** are important examples of medieval Indo-Islamic art in the Deccan.
+  - <span style="color:var(--key-color)">**Indo-Persian Style**</span>: Blended Persian structural forms with local materials. Example: Architecture at Gulbarga and Bidar.
+  - <span style="color:var(--key-color)">**Graceful Tombs**</span>: Built monumental funeral structures with large domes. Example: The Haft Gumbaz at Bidar.
+  - <span style="color:var(--key-color)">**Enclosed Mosques**</span>: Introduced unique mosque plans for the Deccan. Example: The Jama Masjid at Gulbarga.
+  - <span style="color:var(--key-color)">**Palace Layouts**</span>: Included arcaded halls and Persian-style gardens. Example: Octagonal pavilions in Bidar.
+  - <span style="color:var(--key-color)">**Surface Decoration**</span>: Developed distinctive tile work and painted interiors. Example: Persianate tile art in the capital.
+  - <span style="color:var(--key-color)">**Basalt Masonry**</span>: Used local hard stone shaped into elegant arches. Example: Use of granite and basalt for mosques.
+  - <span style="color:var(--key-color)">**Book Culture**</span>: Supported calligraphy and illuminated manuscripts. Example: Production of Persianate court books.
+  - <span style="color:var(--key-color)">**Garden Design**</span>: Built courtyard gardens with innovative water channels. Example: Gardens in Bahmani palace complexes.
+  - <span style="color:var(--key-color)">**Cosmopolitan Art**</span>: Reflected influence from Iran and Central Asia. Example: Work by foreign architects in the Deccan.
+  - <span style="color:var(--key-color)">**Architectural Legacy**</span>: Influenced later Bijapur and Golconda styles. Example: Evolution of the Deccan Sultanate arch.
 - *Conclusion:*
   - The Bahmani Sultanate’s art and architecture established a distinctive Deccan idiom that fused Persian elegance with Indian craftsmanship.
 
@@ -362,21 +285,16 @@
 - *Intro:*
   - The Bahmani administration combined Persian bureaucratic forms with local Deccan structures.
 - *Body:*
-  - The Sultan was the absolute head of state and commander of the army.
-  - The vizier (wazir) managed finance and administration.
-  - The amil governed provinces (tarafs) and collected revenue.
-  - Revenue was based on land taxes, customs and trade duties.
-  - The state appointed military governors to secure frontier areas.
-  - The administration distinguished between Afaqs (Persian nobles) and Deccanis (local Muslim elites).
-  - The judiciary included qadis to administer Islamic law.
-  - Letters, documents and state papers were written in Persian.
-  - The Bahmanis maintained a standing army of cavalry, infantry and artillery.
-  - Minting and coinage were controlled by the central treasury.
-  - The administration supervised irrigation, land settlement and revenue surveys.
-  - The state relied on a network of forts for territorial control.
-  - Military and civil officials were often granted revenue farms or jagirs.
-  - The royal court had an elaborate protocol of ranks and titles.
-  - The administration experienced recurring factionalism between foreign and local elites.
+  - <span style="color:var(--key-color)">**Absolute Head**</span>: The Sultan served as the ultimate political and military authority. Example: The centralized rule from Bidar.
+  - <span style="color:var(--key-color)">**Wazir Office**</span>: Managed the state’s finance and daily administration. Example: The role of the chief minister.
+  - <span style="color:var(--key-color)">**Provincial Tarafs**</span>: Divided the realm into provinces governed by Amils. Example: Use of tarafs for revenue collection.
+  - <span style="color:var(--key-color)">**Noble Factions**</span>: Distinguished between foreign (Afaqs) and local (Deccanis) elites. Example: The recurring court factionalism.
+  - <span style="color:var(--key-color)">**Islamic Judiciary**</span>: Appointed Qadis to administer justice and law. Example: Legal rulings based on Persianate models.
+  - <span style="color:var(--key-color)">**Standing Army**</span>: Maintained specialized cavalry and artillery units. Example: Recruitment of foreign military experts.
+  - <span style="color:var(--key-color)">**Fortified Network**</span>: Relied on strongholds for territorial and frontier control. Example: Strategic forts across the Deccan.
+  - <span style="color:var(--key-color)">**Revenue Jagirs**</span>: Granted revenue farms to civil and military officials. Example: Land assignments for administrative service.
+  - <span style="color:var(--key-color)">**Official Persian**</span>: Used Persian for all diplomatic and state records. Example: Royal decrees and administrative papers.
+  - <span style="color:var(--key-color)">**Irrigation Surveys**</span>: Supervised land settlement and water management. Example: State revenue surveys.
 - *Conclusion:*
   - The Bahmani Sultanate’s administration was a Perso-Islamic model adapted for the Deccan, balancing central control with provincial governance.
 
@@ -384,21 +302,16 @@
 - *Intro:*
   - Akbar overcame early political challenges through military skill, diplomacy and administrative innovation.
 - *Body:*
-  - He faced rebellion from Afghan chiefs and Rajput and Muslim nobles after his accession.
-  - He defeated Hemu’s forces at the Battle of Panipat in 1556 and secured Delhi.
-  - He subdued local rebellions in Gwalior, Mewar and Malwa through military campaigns.
-  - He incorporated defeated nobles into his administration instead of eliminating them.
-  - He forged marital alliances with Rajput houses of Amber, Bikaner and Jodhpur.
-  - He reorganized the empire into subas (provinces) with military and civil governors.
-  - He introduced the mansabdari system to regularize military and bureaucratic service.
-  - He consolidated revenue assessment through the Todar Mal bandobast.
-  - He built a strong capital at Agra and fortified key frontier towns.
-  - He established intelligence networks and posted loyal officers across the empire.
-  - He promoted religious tolerance to win support from Hindu and Muslim subjects.
-  - He standardized coinage and revenue collection for reliable finance.
-  - He created a professional army loyal to the emperor rather than to local lords.
-  - He patronized culture and architecture to project imperial authority.
-  - He centralized decision-making while allowing local autonomy under competent administrators.
+  - <span style="color:var(--key-color)">**Military Victory**</span>: Secured the heartland through decisive battles. Example: Defeat of Hemu at Panipat (1556).
+  - <span style="color:var(--key-color)">**Strategic Alliances**</span>: Used marriage to bind Rajput houses to the state. Example: Matrimonial ties with Amber.
+  - <span style="color:var(--key-color)">**Inclusion Policy**</span>: Integrated defeated nobles into the imperial administration. Example: High posts for Rajput and Afghan chiefs.
+  - <span style="color:var(--key-color)">**Provincial Subas**</span>: Reorganized the empire into administrative provinces. Example: Use of subahdars for regional rule.
+  - <span style="color:var(--key-color)">**Mansabdari System**</span>: Regularized military and bureaucratic rank. Example: Graded hierarchy of imperial officials.
+  - <span style="color:var(--key-color)">**Revenue Settlement**</span>: Consolidated finance through systematic assessment. Example: The Todar Mal bandobast.
+  - <span style="color:var(--key-color)">**Frontier Fortification**</span>: Built strongholds to secure key borders. Example: Fortification of Agra and Lahore.
+  - <span style="color:var(--key-color)">**Intelligence Network**</span>: Established loyal officer posts across the realm. Example: Constant reporting to the central court.
+  - <span style="color:var(--key-color)">**Religious Tolerance**</span>: Won support from diverse subjects via inclusion. Example: Policy of Sulh-i-Kul.
+  - <span style="color:var(--key-color)">**Imperial Standard**</span>: Standardized coinage for economic stability. Example: Reliable silver and copper currency.
 - *Conclusion:*
   - Akbar solved his early problems by combining military victory, administrative reform and inclusive politics to consolidate Mughal power.
 
@@ -406,21 +319,16 @@
 - *Intro:*
   - Akbar used diplomacy, alliances and religious moderation to establish peaceful relations with neighbouring states.
 - *Body:*
-  - He formed matrimonial alliances with Rajput rulers, binding them to the Mughal cause.
-  - He granted high military and administrative posts to Rajput chiefs.
-  - He adopted Sulh-i-Kul, a policy of universal tolerance towards all religions.
-  - He abolished the jizya tax on non-Muslims in 1564.
-  - He welcomed Hindu and Jain scholars to his court, fostering goodwill.
-  - He respected local customs and traditions in conquered territories.
-  - He negotiated with regional rulers like the Deccan sultans and Bengal Nawabs.
-  - He maintained strong garrisons on borders to deter aggression while avoiding constant war.
-  - He used gifts, embassies and trade incentives to cultivate friendly relations.
-  - He employed Afghan and Persian nobles as mediators in frontier diplomacy.
-  - He allowed defeated rulers to retain some autonomy as tributaries.
-  - He supported pilgrimage and religious institutions across regions.
-  - He extended trade privileges to neighbouring states to create mutual interest.
-  - He pursued partial accommodation with the Rajputs to prevent northwestern instability.
-  - He chose military action selectively, preferring settlement where possible.
+  - <span style="color:var(--key-color)">**Matrimonial Ties**</span>: Bound Rajput rulers to the state cause via marriage. Example: Alliance with the Kachwahas of Amber.
+  - <span style="color:var(--key-color)">**Universal Tolerance**</span>: Adopted a policy of "Sulh-i-Kul" to reduce friction. Example: Acceptance of all religious sects at court.
+  - <span style="color:var(--key-color)">**Tax Abolition**</span>: Removed discriminatory taxes on non-Muslims. Example: Abolition of Jizya in 1564.
+  - <span style="color:var(--key-color)">**Scholarly Welcome**</span>: Hosted Hindu and Jain experts to foster goodwill. Example: Discussions at the Ibadat Khana.
+  - <span style="color:var(--key-color)">**Local Respect**</span>: Honored regional traditions in newly conquered lands. Example: Respecting Rajput social customs.
+  - <span style="color:var(--key-color)">**Diplomatic Negotiation**</span>: Used embassies to deal with Deccan and Bengal rulers. Example: Sending envoys to regional Nawabs.
+  - <span style="color:var(--key-color)">**Border Garrisons**</span>: Deterred aggression while avoiding unnecessary wars. Example: Maintaining strong frontier outposts.
+  - <span style="color:var(--key-color)">**Trade Incentives**</span>: Created mutual interest through commercial privileges. Example: Extending trade rights to neighbors.
+  - <span style="color:var(--key-color)">**Mediation Role**</span>: Used diverse nobles as mediators in diplomacy. Example: Afghan nobles helping in frontier settlements.
+  - <span style="color:var(--key-color)">**Selective Action**</span>: Chose military force only when settlement failed. Example: Strategic patience with the Rajputs.
 - *Conclusion:*
   - Akbar’s policies of inclusion, alliance and pragmatic diplomacy helped him maintain peaceful relations with neighbouring kingdoms.
 
@@ -428,21 +336,16 @@
 - *Intro:*
   - The Mansabdari and Jagirdari systems were core institutions of Mughal administration linking military service with revenue assignment.
 - *Body:*
-  - Mansab means rank; a mansabdar held a position in the imperial hierarchy.
-  - Mansabs were measured in zat (personal rank) and sawar (number of cavalry to maintain).
-  - Mansabdars were appointed by the emperor and were transferable across provinces.
-  - A mansabdar’s salary was paid in cash or by grant of a jagir.
-  - Jagirdari assigned the right to collect revenue from a specified territory.
-  - Jagirdars were responsible for collecting revenue and maintaining horsemen.
-  - Jagirs were not hereditary and could be transferred or withdrawn by the emperor.
-  - The Mansabdari system ensured a direct link between service and reward.
-  - The Jagirdari system provided the financial base for the mansabdars.
-  - A jagir could be of different types, such as khalsa jagir or assignment jagir.
-  - The system helped centralize control by making nobles dependent on imperial favor.
-  - It reduced the power of regional landlords by preventing permanent land ownership.
-  - The system also placed financial and military duties on mansabdars.
-  - Officials were regularly inspected to check the accuracy of revenue accounts.
-  - The system became the backbone of Mughal military and administrative organization.
+  - <span style="color:var(--key-color)">**Graded Ranking**</span>: Measured status in personal rank (Zat) and cavalry (Sawar). Example: Graded hierarchy of imperial officials.
+  - <span style="color:var(--key-color)">**Royal Appointment**</span>: Rank was granted by the emperor and remained transferable. Example: Transfer of mansabdars across provinces.
+  - <span style="color:var(--key-color)">**Revenue Assignment**</span>: Granted the right to collect tax from specific lands. Example: Assignment of a Jagir as salary.
+  - <span style="color:var(--key-color)">**Military Obligation**</span>: Jagirdars maintained horsemen for the state army. Example: Fixed number of sawars per rank.
+  - <span style="color:var(--key-color)">**Non-Hereditary Nature**</span>: Jagirs were not permanent and could be withdrawn. Example: Royal control over land tenure.
+  - <span style="color:var(--key-color)">**Centralized Dependency**</span>: Made nobles dependent on royal favor for wealth. Example: Reduced power of independent landlords.
+  - <span style="color:var(--key-color)">**Administrative Backbone**</span>: Formed the core of Mughal governance. Example: Integration of military and civil service.
+  - <span style="color:var(--key-color)">**Jagir Types**</span>: Included both khalsa (state) and assignment grants. Example: Diverse land management categories.
+  - <span style="color:var(--key-color)">**Regular Inspection**</span>: Checked accounts and horse health to prevent fraud. Example: Verification of descriptive rolls (Chehra).
+  - <span style="color:var(--key-color)">**Service-Reward Link**</span>: Ensured a direct connection between performance and pay. Example: Promotions based on military success.
 - *Conclusion:*
   - Mansabdari and Jagirdari together created a flexible imperial structure that linked rank, revenue and military obligation under Mughal rule.
 
@@ -450,21 +353,16 @@
 - *Intro:*
   - Mughal painting developed into a distinctive Indo-Persian school under imperial patronage.
 - *Body:*
-  - It began under Babur and Humayun with Persian influence and illustrated manuscripts.
-  - Humayun brought Persian artists like Mir Sayyid Ali and Khwaja Abdus Samad to his court.
-  - Akbar founded the imperial atelier and sponsored manuscripts such as Akbarnama and Razmnama.
-  - The Mughal style combined Persian delicacy with Indian colour and realism.
-  - Artists like Basawan, Farrukh Beg, and Daswanth created narrative and portrait paintings.
-  - Painting workshops produced illustrations of history, court life, hunting scenes and religious stories.
-  - Akbar’s court encouraged close observation of nature and human expression.
-  - Jahangir increased realism, especially in portraiture, animal studies and botanical art.
-  - Ustad Mansur became famous for accurate natural history paintings of birds and animals.
-  - Shah Jahan’s period favored elegant court scenes, architecture and refined colour palettes.
-  - Miniature painting was linked to manuscripts, albums (muraqqa) and royal gifts.
-  - Mughal painting influenced Rajput and Deccan schools in later centuries.
-  - Persian calligraphy and ornamental borders were integral to Mughal paintings.
-  - The art also recorded political events, diplomatic ceremonies and festivals.
-  - Mughal painting brought a synthesis of Persian, Indian and Central Asian aesthetics.
+  - <span style="color:var(--key-color)">**Persian Roots**</span>: Began with the arrival of master artists from Iran. Example: Influence of Mir Sayyid Ali under Humayun.
+  - <span style="color:var(--key-color)">**Imperial Atelier**</span>: Founded a royal workshop for manuscript illustration. Example: Production of the Akbarnama and Razmnama.
+  - <span style="color:var(--key-color)">**Style Synthesis**</span>: Combined Persian delicacy with Indian color and realism. Example: Hybrid paintings in the early Mughal court.
+  - <span style="color:var(--key-color)">**Narrative Focus**</span>: Illustrated history, court life, and religious epics. Example: Multi-scene panels in royal manuscripts.
+  - <span style="color:var(--key-color)">**Natural Realism**</span>: Encouraged close study of nature and expression. Example: Botanical and animal studies under Jahangir.
+  - <span style="color:var(--key-color)">**Portrait Mastery**</span>: Developed sensitive and realistic individual likenesses. Example: Imperial and courtier portraits.
+  - <span style="color:var(--key-color)">**Scientific Art**</span>: Produced accurate natural history illustrations. Example: Works of Ustad Mansur on birds.
+  - <span style="color:var(--key-color)">**Miniature Tradition**</span>: Linked to royal albums (Muraqqas) and gifts. Example: Fine miniature painting for the elite.
+  - <span style="color:var(--key-color)">**Calligraphic Integration**</span>: Used Persian script as an integral part of the art. Example: Ornamental borders in Mughal albums.
+  - <span style="color:var(--key-color)">**Widespread Influence**</span>: Shaped later Rajput and Deccan painting schools. Example: Spread of Mughal aesthetics to regional courts.
 - *Conclusion:*
   - Mughal painting evolved from Persian origins into a mature, courtly art that combined realism, elegance and cultural synthesis.
 
@@ -472,21 +370,16 @@
 - *Intro:*
   - Jahangir’s reign is remembered for refined painting, natural history art and elegant architectural patronage.
 - *Body:*
-  - Jahangir patronised portraiture, making royal likenesses a central genre.
-  - His court artists created sensitive studies of nobles, princes and everyday life.
-  - He encouraged natural history painting, especially by Ustad Mansur.
-  - Jahangir’s memoir Tuzk-i-Jahangiri contains references to artists and commissions.
-  - He ordered the construction of the tomb of his beloved wife Nur Jahan, an example of Mughal funerary style.
-  - Jahangir rebuilt and decorated gardens such as the Shalimar Bagh in Kashmir.
-  - His reign saw refinement of decorative arts, carpets and textiles.
-  - Murals and book illustrations from his period show Persianate refinement and realistic detail.
-  - He patronised calligraphy and illuminated manuscripts in his workshops.
-  - Court painting under Jahangir often combined landscape, portrait and animal studies.
-  - His architectural projects emphasised gardens, pavilions and pleasure palaces.
-  - Jahangir also supported restorations of mosques and Sufi shrines.
-  - His reign formed a bridge between Akbar’s pluralism and Shah Jahan’s architectural magnificence.
-  - Jahangir promoted a cultured aesthetic in court life, including jewellery and refined furnishings.
-  - He fostered artistic exchange with Persian and European artists.
+  - <span style="color:var(--key-color)">**Portraiture Focus**</span>: Made realistic royal likenesses a central court genre. Example: Individualized portraits of princes.
+  - <span style="color:var(--key-color)">**Natural History**</span>: Encouraged accurate scientific studies of flora and fauna. Example: Works by the master Ustad Mansur.
+  - <span style="color:var(--key-color)">**Garden Landscapes**</span>: Decorated and rebuilt grand pleasure gardens. Example: The Shalimar Bagh in Kashmir.
+  - <span style="color:var(--key-color)">**Funerary Style**</span>: Built elegant tombs reflecting refined Mughal taste. Example: The tomb complex for Nur Jahan.
+  - <span style="color:var(--key-color)">**Decorative Arts**</span>: Refined the production of carpets and courtly textiles. Example: Intricate patterns in royal furnishings.
+  - <span style="color:var(--key-color)">**Murals and Books**</span>: Integrated realistic detail into book illustrations. Example: Memoirs in the Tuzk-i-Jahangiri.
+  - <span style="color:var(--key-color)">**Shrine Support**</span>: Backed the restoration of mosques and Sufi centers. Example: Royal support for spiritual shrines.
+  - <span style="color:var(--key-color)">**Aesthetic Balance**</span>: Promoted a cultured court aesthetic with fine jewelry. Example: Refined furnishings in the palace.
+  - <span style="color:var(--key-color)">**Exchange Hub**</span>: Fostered contact with Persian and European artists. Example: Integration of Western perspective techniques.
+  - <span style="color:var(--key-color)">**Pavilion Design**</span>: Focused on light architectural forms and pleasure palaces. Example: Royal pavilions in gardens.
 - *Conclusion:*
   - Jahangir’s art and architecture are marked by elegance, realism and courtly sophistication.
 
@@ -494,21 +387,16 @@
 - *Intro:*
   - Shah Jahan ushered in a golden age of Mughal architecture and patronised art of great refinement.
 - *Body:*
-  - The Taj Mahal, built as Mumtaz Mahal’s mausoleum, is his architectural masterpiece.
-  - The Red Fort in Delhi became the imperial residence and a symbol of Mughal power.
-  - Jahangir’s tomb in Lahore and Shahdara complex reflect his interest in funerary architecture.
-  - The Jama Masjid of Delhi is a major congregational mosque from his reign.
-  - Shalimar Bagh in Lahore demonstrates his love of Persian-style gardens.
-  - He built the Moti Masjid in the Red Fort and the Moti Masjid at Agra.
-  - Shah Jahan introduced extensive use of white marble, red sandstone and pietra dura inlay.
-  - His architecture emphasised symmetry, axial planning and refined ornament.
-  - Palace architecture included Diwan-i-Aam, Diwan-i-Khas and ornate private chambers.
-  - His buildings featured intricate floral motifs, calligraphy and geometric patterns.
-  - Mughal urban design under Shah Jahan combined gardens, water channels and formal spaces.
-  - Court art produced luxurious manuscripts, miniature paintings and decorative arts.
-  - He patronised artists who worked on court portraits, court scenes and royal albums.
-  - Shah Jahan’s reign saw the highest level of craftsmanship in stone carving and inlay.
-  - His monuments projected imperial authority through beauty and monumental scale.
+  - <span style="color:var(--key-color)">**Marble Funerary**</span>: Built world-renowned masterpieces of marble. Example: The Taj Mahal at Agra.
+  - <span style="color:var(--key-color)">**Imperial Citadels**</span>: Constructed grand palaces as symbols of state power. Example: The Red Fort in Delhi.
+  - <span style="color:var(--key-color)">**Congregational Mosques**</span>: Commissioned massive spaces for public worship. Example: The Jama Masjid of Delhi.
+  - <span style="color:var(--key-color)">**Pietra Dura Inlay**</span>: Used semi-precious stone designs on white surfaces. Example: Interior walls of royal tombs.
+  - <span style="color:var(--key-color)">**Axial Symmetry**</span>: Emphasized perfect balance and formal planning. Example: Layout of the Shalimar Bagh in Lahore.
+  - <span style="color:var(--key-color)">**Palace Halls**</span>: Built specialized chambers for public and private audiences. Example: Diwan-i-Khas in the Red Fort.
+  - <span style="color:var(--key-color)">**Floral Motifs**</span>: Featured intricate stone carvings and geometric patterns. Example: Decorative motifs on mosque walls.
+  - <span style="color:var(--key-color)">**Urban Design**</span>: Combined formal gardens with urban waterways. Example: The layout of Shahjahanabad.
+  - <span style="color:var(--key-color)">**Luxury Art**</span>: Produced opulent manuscripts and decorative court crafts. Example: Fine stone carving and royal albums.
+  - <span style="color:var(--key-color)">**Monumental Scale**</span>: Projected authority through sheer beauty and size. Example: Grand scale of imperial monuments.
 - *Conclusion:*
   - Shah Jahan’s art and architecture are defined by aesthetic perfection, monumental harmony and the use of premium materials.
 
@@ -516,21 +404,16 @@
 - *Intro:*
   - Mughal society and culture were shaped by a fusion of Persianate, Indian and Central Asian influences.
 - *Body:*
-  - The Mughal court modelled Persian etiquette, language and dress.
-  - Persian was the language of administration, literature and high culture.
-  - Urdu emerged as a living lingua franca blending Persian, Arabic and vernacular Hindi.
-  - Court culture patronised poetry, music, painting and architecture.
-  - Mughal society included Muslims, Hindus, Jains, Sikhs and Christians.
-  - Religious pluralism under Akbar encouraged cultural exchange and tolerance.
-  - Sufism and Bhakti movements influenced popular belief and devotional practice.
-  - New food habits, including refined cuisine and sweet dishes, developed in the court.
-  - Courtly fashion adopted Persian robes, turbans and jewellery, while local dress remained common elsewhere.
-  - Education was valued among elites, with madrasas and maktabs teaching Persian, Arabic and religious sciences.
-  - Social life revolved around imperial festivals, royal hunts and public audiences.
-  - The Mughal empire supported a vibrant artisan class in textiles, metalwork, ceramics and jewellery.
-  - Women of the royal household influenced politics, culture and charity.
-  - Urban centres such as Agra, Delhi and Lahore were cosmopolitan cultural hubs.
-  - The Mughals encouraged literary composition in Persian, Sanskrit, Urdu and regional languages.
+  - <span style="color:var(--key-color)">**Persian Influence**</span>: Modeled court life on Persian etiquette and language. Example: Use of Persian in all administration.
+  - <span style="color:var(--key-color)">**Linguistic Blend**</span>: Developed a living lingua franca for common use. Example: Emergence of Urdu from Hindi and Persian.
+  - <span style="color:var(--key-color)">**Religious Pluralism**</span>: Encouraged tolerance among diverse faith groups. Example: Participation of multiple sects in festivals.
+  - <span style="color:var(--key-color)">**Devotional Synthesis**</span>: Blended Sufi and Bhakti ideas in popular belief. Example: Influence of mystic poetry.
+  - <span style="color:var(--key-color)">**Refined Cuisine**</span>: Introduced new food habits and sweets to India. Example: Development of royal Mughal cuisine.
+  - <span style="color:var(--key-color)">**Fashion Norms**</span>: Adopted Persian robes and turbans as elite attire. Example: Use of opulent courtly jewelry.
+  - <span style="color:var(--key-color)">**Valued Education**</span>: Supported madrasas for learning various sciences. Example: Elite study of Arabic and logic.
+  - <span style="color:var(--key-color)">**Public Audiences**</span>: Centered social life on festivals and royal hunts. Example: Public appearances (Jharokha Darshan).
+  - <span style="color:var(--key-color)">**Artisan Class**</span>: Supported a vibrant community of metalworkers and weavers. Example: Growth of textile and ceramic centers.
+  - <span style="color:var(--key-color)">**Cosmopolitan Hubs**</span>: Developed cities as centers of international culture. Example: Agra and Lahore as cultural capitals.
 - *Conclusion:*
   - Mughal society and culture were rich and composite, blending diverse traditions into an enduring Indo-Islamic civilisation.
 
@@ -538,21 +421,16 @@
 - *Intro:*
   - Shah Jahan’s reign is called the Golden Age because it produced the finest Mughal monuments and a coherent architectural style.
 - *Body:*
-  - The Taj Mahal represented the peak of Mughal funerary architecture.
-  - The Red Fort established a grand imperial palace city in Delhi.
-  - The Jama Masjid created one of the largest mosque ensembles in India.
-  - Agricultural and economic stability provided resources for monumental building.
-  - Uniform use of white marble and red sandstone defined the aesthetic.
-  - Pietra dura inlay and calligraphic decoration reached new perfection.
-  - Symmetry and axial planning became hallmarks of Mughal design.
-  - Shah Jahan patronised architects who perfected gardens and water features.
-  - Palace architecture blended ceremonial and private spaces elegantly.
-  - The period produced enduring civic monuments and garden complexes.
-  - Stone carving and decorative arts were executed with exceptional craftsmanship.
-  - The emperor’s direct involvement ensured cohesive architectural vision.
-  - The buildings projected imperial power through beauty and order.
-  - Shah Jahan’s monuments influenced later Rajput and Deccan architecture.
-  - The period is remembered as the high point of Mughal decorative arts.
+  - <span style="color:var(--key-color)">**Funerary Perfection**</span>: Achieved the peak of memorial design in stone. Example: The Taj Mahal’s white marble tower.
+  - <span style="color:var(--key-color)">**Imperial Citadels**</span>: Built organized palace cities with grand walls. Example: The Red Fort in Delhi.
+  - <span style="color:var(--key-color)">**Mosque Ensembles**</span>: Created massive religious spaces for the public. Example: The Jama Masjid of Delhi.
+  - <span style="color:var(--key-color)">**Economic Stability**</span>: Used state wealth to fund massive stone projects. Example: Continuous building throughout the reign.
+  - <span style="color:var(--key-color)">**Aesthetic Uniformity**</span>: Used white marble and red sandstone consistently. Example: The unified aesthetic of Agra and Delhi.
+  - <span style="color:var(--key-color)">**Ornamental Mastery**</span>: Perfected stone inlay and calligraphy. Example: Pietra dura work on royal tombs.
+  - <span style="color:var(--key-color)">**Axial Balance**</span>: Defined the era through perfect symmetry. Example: Planning of imperial garden complexes.
+  - <span style="color:var(--key-color)">**Water Integration**</span>: Improved the use of canals and water features. Example: Fountains and channels in the Shalimar Bagh.
+  - <span style="color:var(--key-color)">**Stone Craftsmanship**</span>: Reached an exceptional level of technical mastery. Example: Fine stone carving in palace halls.
+  - <span style="color:var(--key-color)">**Imperial Influence**</span>: Shaped later Rajput and Deccan building styles. Example: Spread of Mughal architectural models.
 - *Conclusion:*
   - Shah Jahan’s reign is called the Golden Age of Mughal architecture because it achieved unrivalled monumental beauty and technical mastery.
 
@@ -560,21 +438,16 @@
 - *Intro:*
   - Indo-Islamic culture emerged from sustained contact between Islamic and Indian traditions over centuries.
 - *Body:*
-  - Persian and Arabic language merged with local dialects to create Urdu and enriched Indian vocabulary.
-  - Islamic architecture incorporated Indian stone carving, temple plans and decorative motifs.
-  - Sufi saints and Bhakti mystics facilitated religious exchange and shared devotion.
-  - Court art combined Persian miniatures with Indian colour, flora and figural realism.
-  - Mughal cuisine blended Central Asian, Persian and Indian ingredients and techniques.
-  - Dress styles fused Persian robes with Indian textiles and jewelry.
-  - Administrative institutions adapted Persian chancery practices to Indian conditions.
-  - Music saw fusion in qawwali, khayal, dhrupad and courtly singing.
-  - Festivals and social ceremonies began to share cultural elements across communities.
-  - Literature in Persian, Urdu, Sanskrit and regional languages reflected shared concepts.
-  - Monumental architecture such as the Taj and Qutb Minar symbolised the fusion.
-  - Hindu motifs like lotus and bells appeared in mosque decoration.
-  - Muslim rulers adopted Indian titles, customs and court rituals.
-  - Indian artisans learned Persian crafts while preserving local building techniques.
-  - The mingling produced a composite culture that shaped India’s medieval identity.
+  - <span style="color:var(--key-color)">**Linguistic Merge**</span>: Combined foreign and local tongues into new languages. Example: Growth of Urdu and Persian vocabulary.
+  - <span style="color:var(--key-color)">**Architectural Fusion**</span>: Integrated Indian carving with Islamic structural forms. Example: Use of lotus motifs in mosques.
+  - <span style="color:var(--key-color)">**Mystic Exchange**</span>: Blended Sufi and Bhakti ideas in popular spirituality. Example: Shared devotion across communities.
+  - <span style="color:var(--key-color)">**Artistic Synthesis**</span>: Combined Persian miniatures with Indian realism. Example: Floral and faunal studies in court art.
+  - <span style="color:var(--key-color)">**Culinary Blend**</span>: Fused Central Asian techniques with Indian ingredients. Example: Development of composite Mughal cuisine.
+  - <span style="color:var(--key-color)">**Fashion Fusion**</span>: Mixed Persian robes with Indian silk and gems. Example: Hybrid dress styles in the court.
+  - <span style="color:var(--key-color)">**Musical Fusion**</span>: Produced new genres through combined traditions. Example: Qawwali and Khayal music.
+  - <span style="color:var(--key-color)">**Shared Festivals**</span>: Celebrated ceremonies across religious boundaries. Example: Public participation in varied social rituals.
+  - <span style="color:var(--key-color)">**Literary Concepts**</span>: Reflected shared philosophical ideas in multiple scripts. Example: Bilingual literature and poems.
+  - <span style="color:var(--key-color)">**Adopted Customs**</span>: Muslim rulers integrated local titles and court rites. Example: Use of Indian-style royal ceremonies.
 - *Conclusion:*
   - Indo-Islamic culture mingled through architecture, language, religion and everyday life, creating a blended medieval Indian civilisation.
 
@@ -582,21 +455,16 @@
 - *Intro:*
   - Shivaji laid the foundations of the Maratha state through military innovation, administration and regional mobilisation.
 - *Body:*
-  - He was born in 1630 and established himself as a regional chief in the western Deccan.
-  - Shivaji captured Torna fort in 1646, beginning the rise of his power.
-  - He used guerrilla warfare and hit-and-run tactics suited to the Western Ghats.
-  - He built a network of forts including Raigad, Rajgad and Sinhagad.
-  - He organised a compact cavalry and local militia for fast raids.
-  - He challenged the Bijapur Sultanate and asserted independence after 1659.
-  - Shivaji raided Surat and coastal ports to secure revenue and weaken Adil Shahi power.
-  - He promoted Marathi language and local customs in his administration.
-  - He adopted the Sanskrit title Chhatrapati in 1674 after coronation at Raigad.
-  - He developed the Ashta Pradhan council to govern his emergent state.
-  - He created the concept of Swarajya (self-rule) as a political ideal.
-  - Shivaji established a strong navy under Kanhoji Angre and coastal defences.
-  - He built a revenue and land system suited to the Deccan terrain.
-  - He secured allegiance from local chiefs and Maratha clans.
-  - His policies laid the institutional basis for the later Maratha Confederacy.
+  - <span style="color:var(--key-color)">**Regional Strongholds**</span>: Built a network of strategic hill forts. Example: Control over Raigad and Sinhagad.
+  - <span style="color:var(--key-color)">**Guerrilla Tactics**</span>: Used hit-and-run warfare suited to the Deccan terrain. Example: Quick raids against Bijapur forces.
+  - <span style="color:var(--key-color)">**Military Mobilization**</span>: Organized a compact cavalry for rapid deployment. Example: Use of local Maratha militia.
+  - <span style="color:var(--key-color)">**Political Independence**</span>: Successfully challenged dominant Sultanates for power. Example: Victory after 1659 campaigns.
+  - <span style="color:var(--key-color)">**Revenue Security**</span>: Raided wealthy ports to fund the emergent state. Example: Famous raids on Surat.
+  - <span style="color:var(--key-color)">**Cultural Promotion**</span>: Backed the Marathi language in administration. Example: Use of local customs in the court.
+  - <span style="color:var(--key-color)">**Sovereign Title**</span>: Assumed the rank of Chhatrapati to claim legitimacy. Example: Coronation at Raigad in 1674.
+  - <span style="color:var(--key-color)">**Ashta Pradhan**</span>: Developed a specialized council for governance. Example: The eight-minister administrative model.
+  - <span style="color:var(--key-color)">**Swarajya Ideal**</span>: Created a political vision of independent self-rule. Example: Unifying local clans under a common cause.
+  - <span style="color:var(--key-color)">**Naval Power**</span>: Established coastal defenses and a strong navy. Example: Command of Kanhoji Angre.
 - *Conclusion:*
   - Shivaji’s role was central in transforming a collection of hill chiefs into a sovereign Maratha polity.
 
@@ -604,20 +472,15 @@
 - *Intro:*
   - Shivaji’s administration was efficient, military-oriented and rooted in Marathi-Princely tradition.
 - *Body:*
-  - He established the Ashta Pradhan council of eight ministers.
-  - Key ministers included the Peshwa, Amatya, Sachiv, Sumant, Senapati, Nyayadhish, Panditrao and Majumdar.
-  - The Peshwa handled general administration, while the Amatya managed finance.
-  - The Senapati commanded the military and the navy.
-  - The Nyayadhish oversaw justice and legal matters.
-  - The administration used Marathi and Sanskrit in official records.
-  - Shivaji introduced the Chauth and Sardeshmukhi taxes on tributary territories.
-  - He maintained strict control over forts, land revenue and military organisation.
-  - The Paik system recruited soldiers from local villages.
-  - He appointed Karkuns and Deshmukhs to supervise revenue collection and local policing.
-  - His administration emphasised quick decision-making and accountability.
-  - He protected peasants from excessive exaction by nobles.
-  - The king’s household included a well-regulated royal court and secretariat.
-  - Shivaji encouraged temple rebuildings and patronised local religious institutions.
-  - He maintained diplomatic relations with Mughals, Bijapur and southern powers.
+  - <span style="color:var(--key-color)">**Ministerial Council**</span>: Established the eight-head Ashta Pradhan system. Example: Specialized roles for Peshwa and Amatya.
+  - <span style="color:var(--key-color)">**Financial Management**</span>: Used the Amatya to oversee state accounts. Example: Centralized revenue tracking.
+  - <span style="color:var(--key-color)">**Tributary Taxes**</span>: Introduced Chauth and Sardeshmukhi for territorial revenue. Example: Levies on neighboring regions.
+  - <span style="color:var(--key-color)">**Judicial Oversight**</span>: Provided specialized offices for law and justice. Example: The role of the Nyayadhish.
+  - <span style="color:var(--key-color)">**Local Recruitment**</span>: Used the Paik system to hire soldiers from villages. Example: Creating a rural-based infantry.
+  - <span style="color:var(--key-color)">**Administrative Marathi**</span>: Used local scripts for official state records. Example: Bilingual Sanskrit and Marathi documents.
+  - <span style="color:var(--key-color)">**Fort Discipline**</span>: Maintained strict central control over hill strongholds. Example: Direct oversight of fort garrisons.
+  - <span style="color:var(--key-color)">**Peasant Protection**</span>: Guarded rural labor against exploitation by nobles. Example: Fixed revenue rates for farmers.
+  - <span style="color:var(--key-color)">**Diplomatic Secretariat**</span>: Managed relations with diverse regional powers. Example: Active diplomacy with Bijapur and Mughals.
+  - <span style="color:var(--key-color)">**Religious Patronage**</span>: Rebuilt temples and supported regional shrines. Example: Grants to local religious institutions.
 - *Conclusion:*
   - Shivaji’s administration combined military strength, disciplined bureaucracy and regional autonomy to govern the emerging Maratha state.

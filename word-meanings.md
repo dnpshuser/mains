@@ -35,3 +35,11 @@
 - canon is the official list of sacred, divinely inspired texts recognized by a particular religious community as authoritative and binding. Derived from the Greek word kanōn (meaning a "measuring rod" or "rule"), it dictates the exact measure of what constitutes their sacred scripture
 - Laxity refers to the state or quality of being loose, slack, or not sufficiently strict. It spans both behavioral and physical contexts, describing everything from careless oversight to physiological looseness
 - Posthumous (pronounced "pohs-THOO-muhs") is an adjective that means occurring, awarded, or appearing after the death of the originator.
+- atop: on or at the top of
+- A plinth is a heavy base or platform used to support a statue, pillar, or column
+- fierce: angry, aggressive and frightening
+- precursor: a person or thing that comes before somebody/something similar, especially something that develops from it or is influenced by it
+- culminating: reach to a final result
+- proliferate: to increase quickly in number
+- Conceit primarily refers to an attitude of excessive pride or vanity, where someone holds an overly high opinion of themselves, their abilities, or their worth
+- morbid: showing interest in unpleasant things, for example disease and death
