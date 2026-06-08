@@ -43,3 +43,33 @@
 - proliferate: to increase quickly in number
 - Conceit primarily refers to an attitude of excessive pride or vanity, where someone holds an overly high opinion of themselves, their abilities, or their worth
 - morbid: showing interest in unpleasant things, for example disease and death
+- A cradle is a small bed for an infant
+- Grandeur refers to the quality of being impressive, magnificent, or awe-inspiring in appearance, style, or scale
+- A façade refers to the exterior face or front of a building. 
+- shrine: a place that is important to a particular person or group of people for religious reasons or because it is connected with a special person
+- ornate: covered with a lot of small complicated designs as decoration
+- A panegyric is a formal public speech, written tribute, or poem delivered in high praise of a person, group, or thing
+- Lexicography: the theory or practice of writing dictionaries
+- cleavable. adjective. capable of being cleaved. divisible. capable of being or liable to be divided or separated.
+- premier generally means the very best, first in importance, or most significant
+- benevolent: kind, friendly and helpful to others
+- Transit: the act of being moved or carried from one place to another
+- Braking is the process of slowing or stopping a moving object, typically by converting its kinetic energy into thermal energy (heat) through friction
+- fleet : a group of vehicles (especially taxis, buses or aircraft) that are travelling together or owned by one person
+- Reinforcing means the act of making something stronger, more stable, or more convincing.
+- Isostatic (adjective) refers to the state of gravitational and hydrostatic equilibrium. It is most commonly used in geology and geophysics to describe how the Earth's rigid outer crust (lithosphere) "floats" on the denser, flexible mantle beneath it
+- An accretionary wedge (or accretionary prism) is a geological feature that forms at convergent plate boundaries. It is a large, wedge-shaped mass of sediment and rock that accumulates when material is scraped off the top of a subducting oceanic plate and added (accreted) to the overriding plate
+- A wedge is a triangular-shaped object or tool with one thick end and a pointed, sloping edge
+
+
+
+
+
+
+
+
+
+
+
+
+
