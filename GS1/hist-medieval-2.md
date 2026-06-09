@@ -24,16 +24,19 @@
 - *Intro:*
   - Alauddin Khilji used military innovation, financial discipline and ruthless politics to bring much of India under Delhi Sultanate control.
 - *Body:*
-  - $\color{#7be382}{\textsf{\textbf{Standing Army}}}$: Created a powerful force with mounted archers. Example: High recruitment of local and Central Asian soldiers.
-  - $\color{#7be382}{\textsf{\textbf{Market Reforms}}}$: Controlled prices to maintain a large military. Example: Regulation of grain and cloth prices in Delhi.
-  - $\color{#7be382}{\textsf{\textbf{Military Discipline}}}$: Introduced systems to track soldiers and horses. Example: The Dagh (branding) and Chehra (descriptive roll).
-  - $\color{#7be382}{\textsf{\textbf{Strategic Conquests}}}$: Secured wealthy regions for naval and financial access. Example: Conquest of Gujarat and Malwa.
-  - $\color{#7be382}{\textsf{\textbf{Fort Capture}}}$: Took over major strategic strongholds in Rajasthan. Example: Ranthambore and Chittor.
-  - $\color{#7be382}{\textsf{\textbf{Southern Campaigns}}}$: Expanded influence into the far south. Example: Malik Kafur reaching Madurai.
-  - $\color{#7be382}{\textsf{\textbf{Intelligence Network}}}$: Used spies to suppress rebellions instantly. Example: Barids (intelligence officers) reporting on nobles.
-  - $\color{#7be382}{\textsf{\textbf{Revenue Restructuring}}}$: Reorganized administration for campaign funding. Example: Abolishing small iqtas for direct state control.
-  - $\color{#7be382}{\textsf{\textbf{Border Defense}}}$: Successfully repelled external threats. Example: Defeating the Mongol invasion of 1306 CE.
-  - $\color{#7be382}{\textsf{\textbf{Direct Rule}}}$: Enforced immediate Sultanate authority in conquered lands. Example: Conversion of Deccan states into tributaries.
+  - $\color{#7be382}{\textsf{\textbf{Standing Army}}}$: Maintained a permanent, state-paid army to ensure rapid response — *Example: Paying soldiers in cash (Naqadi).*
+  - $\color{#7be382}{\textsf{\textbf{Market Reforms}}}$: Implemented strict price controls to ensure low living costs for soldiers — *Example: Fixing the price of wheat at 7.5 jitals per maund.*
+  - $\color{#7be382}{\textsf{\textbf{Military Branding}}}$: Introduced systems to prevent corruption and the substitution of horses — *Example: The Dagh (branding) and Chehra (descriptive roll) systems.*
+  - $\color{#7be382}{\textsf{\textbf{Gujarat Conquest}}}$: Secured the wealthy port of Gujarat to control sea trade — *Example: Ulugh Khan and Nusrat Khan’s campaign in 1299.*
+  - $\color{#7be382}{\textsf{\textbf{Rajasthan Siegecraft}}}$: Captured the most powerful hill forts of the Rajputs — *Example: Siege of Ranthambore (1301) and Chittor (1303).*
+  - $\color{#7be382}{\textsf{\textbf{Deccan Expeditions}}}$: Used his general Malik Kafur to loot and vassalize the South — *Example: Capture of Warangal and Devagiri.*
+  - $\color{#7be382}{\textsf{\textbf{Intelligence Network}}}$: Deployed 'Munhians' (secret spies) to monitor every noble — *Example: Spies reporting conversations in the bazaar.*
+  - $\color{#7be382}{\textsf{\textbf{Land Revenue Reform}}}$: Increased tax to 50% and abolished hereditary middlemen — *Example: Abolishing the rights of Khuts and Muqaddams.*
+  - $\color{#7be382}{\textsf{\textbf{Mongol Repulsion}}}$: Modernized his frontier defenses to stop Mongol raids — *Example: Building the city-fort of Siri.*
+  - $\color{#7be382}{\textsf{\textbf{Centralization of Power}}}$: Banned social gatherings and marriages among nobles without permission — *Example: Decrees to prevent political conspiracies.*
+  - $\color{#7be382}{\textsf{\textbf{State Monopolies}}}$: Established royal warehouses to store grain for emergencies — *Example: Grain storage in the city for famine prevention.*
+  - $\color{#7be382}{\textsf{\textbf{Mobile Artillery}}}$: Improved the use of catapults and war machines during sieges — *Example: Use of Manjaniqs against fort walls.*
+  - $\color{#7be382}{\textsf{\textbf{Terror Tactics}}}$: Used extreme punishment to ensure total obedience — *Example: Public executions of rebellious Mongol converts (New Muslims).*
 - *Conclusion:*
   - Alauddin’s military ambition, centralisation of authority and economic reforms together explain how he conquered most of the Indian subcontinent in a short span.
 

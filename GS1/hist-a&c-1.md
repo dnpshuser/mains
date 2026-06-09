@@ -339,10 +339,10 @@
   - **Bulbous Domes**: Introduction of the Persian-style onion-shaped double dome. Example: The dome of the Humayun’s Tomb.
   - **White Marble**: Transition from red sandstone to extensive use of fine Makrana marble. Example: The Moti Masjid at Agra.
   - **Grand Gateways**: Massive, ornamental entrance gates to forts and mosques. Example: The Buland Darwaza at Fatehpur Sikri.
-  - **Red Sandstone & Marble Contrast**: Beautiful use of red and white stone together for visual impact. Example: The Tomb of Akbar at Sikandra.
+  - **Red Sandstone and Marble Contrast**: Beautiful use of red and white stone together for visual impact. Example: The Tomb of Akbar at Sikandra.
   - **Minarets**: Four slender towers at the corners of a structure to provide balance. Example: The minarets of the Taj Mahal.
   - **Jharokhas**: Overhanging enclosed balconies used by emperors for public appearances. Example: Seen in the Red Fort, Delhi.
-  - **Diwan-i-Aam & Diwan-i-Khas**: Specialized halls for public and private audiences with the King. Example: The pillared halls in the Red Fort.
+  - **Diwan-i-Aam and Diwan-i-Khas**: Specialized halls for public and private audiences with the King. Example: The pillared halls in the Red Fort.
   - **Purnaghat Design**: Use of the "overflowing vase" motif on pillars, showing Indian influence. Example: The pillars in Fatehpur Sikri.
   - **Extensive Jaali Work**: Very fine, lace-like marble screens. Example: The screens in the Tomb of Salim Chishti.
   - **Symmetry**: Rigorous adherence to bilateral symmetry in planning and execution. Example: The layout of the Shalimar Bagh.
@@ -405,7 +405,7 @@
   - **Dynamic Poses**: Figures are shown in action, with twisted bodies and sense of movement (Tribhanga). Example: Dancing scenes in the reliefs.
   - **Crowded Compositions**: Panels are filled with numerous figures, animals, and architectural details. Example: Scenes of royal processions.
   - **Feminine Grace**: Women are depicted with slender, graceful forms and elaborate hairstyles. Example: The female figures at Nagarjunakonda.
-  - **Symbolic & Anthropomorphic**: Shows both the early symbolic (Empty throne, Feet) and later human forms of Buddha. Example: Transition seen in later Satavahana reliefs.
+  - **Symbolic and Anthropomorphic**: Shows both the early symbolic (Empty throne, Feet) and later human forms of Buddha. Example: Transition seen in later Satavahana reliefs.
   - **Indigenous Style**: Less influenced by foreign (Greek/Persian) styles compared to Gandhara. Example: The distinct Indian facial features and clothing.
   - **Satavahana Patronage**: Supported by the Satavahana and later Ikshvaku dynasties. Example: The inscriptions of Gautamiputra Satakarni’s era.
   - **Relief Work**: Almost all art is in the form of deep relief panels rather than free-standing statues. Example: The railing (Vedika) of the Amravati Stupa.

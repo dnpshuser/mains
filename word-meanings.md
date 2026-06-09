@@ -60,7 +60,8 @@
 - Isostatic (adjective) refers to the state of gravitational and hydrostatic equilibrium. It is most commonly used in geology and geophysics to describe how the Earth's rigid outer crust (lithosphere) "floats" on the denser, flexible mantle beneath it
 - An accretionary wedge (or accretionary prism) is a geological feature that forms at convergent plate boundaries. It is a large, wedge-shaped mass of sediment and rock that accumulates when material is scraped off the top of a subducting oceanic plate and added (accreted) to the overriding plate
 - A wedge is a triangular-shaped object or tool with one thick end and a pointed, sloping edge
-
+- A deterrent is something that discourages or prevents someone from taking an action
+- Gubernatorial is an adjective meaning relating to a state governor
 
 
 

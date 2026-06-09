@@ -12,7 +12,7 @@
   - $\color{#7be382}{\text{\textbf{Epicenter Location}}}$: Comparing arrival times of P and S waves at multiple stations — *Example: Triangulation method used by the USGS.*
   - $\color{#7be382}{\text{\textbf{Magnitude Determination}}}$: Wave amplitude helps calculate the energy released — *Example: Measurement on the Richter Scale.*
   - $\color{#7be382}{\text{\textbf{Focal Mechanism}}}$: Analyzing the first motion of waves to determine fault type — *Example: Identifying thrust vs. strike-slip faulting.*
-  - $\color{#7be382}{\text{\textbf{Surface Waves (L \& R)}}}$: Slowest waves traveling along the crust causing maximum damage — *Example: Destructive force in the 2023 Turkey-Syria quake.*
+  - $\color{#7be382}{\text{\textbf{Surface Waves (L and R)}}}$: Slowest waves traveling along the crust causing maximum damage — *Example: Destructive force in the 2023 Turkey-Syria quake.*
   - $\color{#7be382}{\text{\textbf{Lithosphere Mapping}}}$: Surface wave dispersion helps map crustal thickness — *Example: Identifying thick Himalayan crust.*
   - $\color{#7be382}{\text{\textbf{Seismic Tomography}}}$: 3D modeling of mantle structures — *Example: Visualizing subducting slabs under the Andes.*
 - *Conclusion:*
@@ -73,7 +73,7 @@
 ### Q5. Discuss on global distribution of earthquakes.
 - *Intro:*
   - Earthquakes are not randomly distributed; they primarily occur along tectonic plate boundaries where internal energy is released.
-  - ![eq-dist](./artifacts\earthquake&volcano-distribution.png)
+  - ![alt text](artifacts/earthquake&volcano-distribution.png)
 - *Body:*
   - $\color{#7be382}{\text{\textbf{Circum-Pacific Belt}}}$: Also known as the "Ring of Fire," accounts for 81% of quakes — *Example: High activity in Japan and Chile.*
   - $\color{#7be382}{\text{\textbf{Alpide Belt}}}$: Extends from the Alps through the Himalayas to Indonesia — *Example: The 2015 Nepal earthquake.*

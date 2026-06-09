@@ -3,26 +3,26 @@
   - The Pallavas of Kanchipuram were pioneering patrons who shaped early medieval south Indian art, architecture, culture and Sanskrit literature.
 - *Body:*
   - **Architecture**
-    - $\color{#7be382}{\textsf{\textbf{Rock-cut Architecture}}}$: Pioneered early Dravidian temple forms in hard rock. Example: Mandagapattu cave temples.
-    - $\color{#7be382}{\textsf{\textbf{Mahendra Style}}}$: Introduced massive pillars and rectangular shrines. Example: The caves at Mahabalipuram.
-    - $\color{#7be382}{\textsf{\textbf{Monolithic Rathas}}}$: Constructed unique chariot-like shrines from single boulders. Example: Pancha Rathas.
-    - $\color{#7be382}{\textsf{\textbf{Structural Stone}}}$: Built the earliest permanent stone temple complexes in South India. Example: Shore Temple at Mahabalipuram.
-    - $\color{#7be382}{\textsf{\textbf{Dravidian Vocabulary}}}$: Introduced key elements like vimanas and mandapas. Example: The Kanchipuram Kailasanatha temple.
-    - $\color{#7be382}{\textsf{\textbf{Town Planning}}}$: Developed advanced temple-centric urban layouts. Example: The capital city of Kanchipuram.
+    - $\color{#7be382}{\textsf{\textbf{Rock-cut Architecture}}}$: Pioneered early Dravidian temple forms in hard rock — *Example: Mandagapattu cave temples.*
+    - $\color{#7be382}{\textsf{\textbf{Mahendra Style}}}$: Introduced massive pillars and rectangular shrines — *Example: The caves at Mahabalipuram.*
+    - $\color{#7be382}{\textsf{\textbf{Monolithic Rathas}}}$: Constructed unique chariot-like shrines from single boulders — *Example: Pancha Rathas.*
+    - $\color{#7be382}{\textsf{\textbf{Structural Stone}}}$: Built the earliest permanent stone temple complexes in South India — *Example: Shore Temple at Mahabalipuram.*
+    - $\color{#7be382}{\textsf{\textbf{Dravidian Vocabulary}}}$: Introduced key elements like vimanas and mandapas — *Example: The Kanchipuram Kailasanatha temple.*
+    - $\color{#7be382}{\textsf{\textbf{Town Planning}}}$: Developed advanced temple-centric urban layouts — *Example: The capital city of Kanchipuram.*
   - **Art**
-    - $\color{#7be382}{\textsf{\textbf{Bas Reliefs}}}$: Created dynamic narrative panels on rock faces. Example: "Descent of the Ganges" at Mahabalipuram.
-    - $\color{#7be382}{\textsf{\textbf{Iconography}}}$: Refined standard forms for major deities. Example: Somaskanda panels featuring Shiva and Parvati.
-    - $\color{#7be382}{\textsf{\textbf{Dynastic Emblems}}}$: Used royal symbols on state artifacts. Example: Nandi and Tiger motifs on Pallava coins.
-    - $\color{#7be382}{\textsf{\textbf{Figurative Realism}}}$: Developed graceful figures with dynamic movement. Example: Sculptures in the Vaikuntha Perumal temple.
+    - $\color{#7be382}{\textsf{\textbf{Bas Reliefs}}}$: Created dynamic narrative panels on rock faces — *Example: "Descent of the Ganges" at Mahabalipuram.*
+    - $\color{#7be382}{\textsf{\textbf{Iconography}}}$: Refined standard forms for major deities — *Example: Somaskanda panels featuring Shiva and Parvati.*
+    - $\color{#7be382}{\textsf{\textbf{Dynastic Emblems}}}$: Used royal symbols on state artifacts — *Example: Nandi and Tiger motifs on Pallava coins.*
+    - $\color{#7be382}{\textsf{\textbf{Figurative Realism}}}$: Developed graceful figures with dynamic movement — *Example: Sculptures in the Vaikuntha Perumal temple.*
   - **Culture**
-    - $\color{#7be382}{\textsf{\textbf{Ghatikas}}}$: Established temples and monasteries as centers for Vedic learning. Example: The Ghatika of Kanchipuram.
-    - $\color{#7be382}{\textsf{\textbf{Maritime Links}}}$: Facilitated cultural transmission across the seas. Example: Trade links with Southeast Asia via Mamallapuram.
-    - $\color{#7be382}{\textsf{\textbf{Cultural Synthesis}}}$: Blended local Tamil traditions with Sanskrit scholarship. Example: Inclusion of Northern elements in court rituals.
+    - $\color{#7be382}{\textsf{\textbf{Ghatikas}}}$: Established temples and monasteries as centers for Vedic learning — *Example: The Ghatika of Kanchipuram.*
+    - $\color{#7be382}{\textsf{\textbf{Maritime Links}}}$: Facilitated cultural transmission across the seas — *Example: Trade links with Southeast Asia via Mamallapuram.*
+    - $\color{#7be382}{\textsf{\textbf{Cultural Synthesis}}}$: Blended local Tamil traditions with Sanskrit scholarship — *Example: Inclusion of Northern elements in court rituals.*
   - **Literature**
-    - $\color{#7be382}{\textsf{\textbf{Royal Patronage}}}$: Supported renowned poets in multiple languages. Example: Bharavi and Dandin in the Pallava court.
-    - $\color{#7be382}{\textsf{\textbf{Bhakti Lyrics}}}$: Saw the growth of early devotional poetry. Example: Hymns of the Alvars and Nayanars.
-    - $\color{#7be382}{\textsf{\textbf{Sanskrit Drama}}}$: Produced significant royal literature. Example: Mahendravarman I's "Mattavilasa Prahasana."
-    - $\color{#7be382}{\textsf{\textbf{Multilingual Epigraphy}}}$: Recorded administrative deeds in diverse scripts. Example: Bilingual Tamil and Sanskrit inscriptions.
+    - $\color{#7be382}{\textsf{\textbf{Royal Patronage}}}$: Supported renowned poets in multiple languages — *Example: Bharavi and Dandin in the Pallava court.*
+    - $\color{#7be382}{\textsf{\textbf{Bhakti Lyrics}}}$: Saw the growth of early devotional poetry — *Example: Hymns of the Alvars and Nayanars.*
+    - $\color{#7be382}{\textsf{\textbf{Sanskrit Drama}}}$: Produced significant royal literature — *Example: Mahendravarman I's "Mattavilasa Prahasana."*
+    - $\color{#7be382}{\textsf{\textbf{Multilingual Epigraphy}}}$: Recorded administrative deeds in diverse scripts — *Example: Bilingual Tamil and Sanskrit inscriptions.*
 - *Conclusion:*
   - The Pallavas made lasting contributions by establishing foundational Dravidian architecture, fostering literary activity and promoting Kanchipuram as a major cultural capital.
 
@@ -223,7 +223,7 @@
     - <span style="color:var(--key-color)">**Defensive Features**</span>: Utilized massive bastions and strategic gateways. Example: Chauhan fortification styles.
     - <span style="color:var(--key-color)">**Civic Waterworks**</span>: Integrated stepwells and tanks into urban fort designs. Example: Water reservoirs in Ranthambore.
     - <span style="color:var(--key-color)">**Sacred Patronage**</span>: Supported early Hindu and Jain shrines. Example: Shrines in the Ajmer region.
-  - <span style="color:var(--key-color)">**Culture & Literature**</span>
+  - <span style="color:var(--key-color)">**Culture and Literature**</span>
     - <span style="color:var(--key-color)">**Administrative Hubs**</span>: Developed cities as major regional cultural centers. Example: Medieval Ajmer.
     - <span style="color:var(--key-color)">**Chivalric Values**</span>: Promoted martial traditions and Rajput warrior codes. Example: Courtly culture of the Chauhans.
     - <span style="color:var(--key-color)">**Historical Bards**</span>: Supported poets who recorded the dynasty’s history. Example: Works of court bards.
@@ -240,7 +240,7 @@
     - <span style="color:var(--key-color)">**Syncretic Shrines**</span>: Built temples that combined regional styles. Example: Teli ka Mandir.
     - <span style="color:var(--key-color)">**Style Blending**</span>: Integrated Northern and Southern forms in temple design. Example: Saas Bahu temples.
     - <span style="color:var(--key-color)">**Urban Hydraulics**</span>: Constructed reservoirs and stepwells for fort resilience. Example: Water structures in Gwalior.
-  - <span style="color:var(--key-color)">**Art & Culture**</span>
+  - <span style="color:var(--key-color)">**Art and Culture**</span>
     - <span style="color:var(--key-color)">**Ornamentation**</span>: Decorated shrines with intricate carvings and niches. Example: Shikhara details in Tomar temples.
     - <span style="color:var(--key-color)">**Literary Support**</span>: Nurtured Sanskrit and regional languages in the court. Example: Support for scholars in Gwalior.
     - <span style="color:var(--key-color)">**Ceremonial Spaces**</span>: Built developed residential and administrative palaces. Example: Palace ruins at Gwalior.
@@ -262,7 +262,7 @@
     - $\color{#7be382}{\textsf{\textbf{Erotic Panels}}}$: Created famous sculptures representing cosmic unity. Example: Mithuna figures at Khajuraho.
     - $\color{#7be382}{\textsf{\textbf{Ornamental Bands}}}$: Adorned walls with celestial nymphs and dancers. Example: Sculptural bands on temple exteriors.
     - $\color{#7be382}{\textsf{\textbf{High-Relief}}}$: Focused on movement and grace in stone carving. Example: Dynamic poses of deities.
-  - $\color{#7be382}{\textsf{\textbf{Culture & Literature}}}$
+  - $\color{#7be382}{\textsf{\textbf{Culture and Literature}}}$
     - $\color{#7be382}{\textsf{\textbf{Artistic Centers}}}$: Turned regional hubs into centers of religious excellence. Example: Khajuraho as a pilgrimage site.
     - $\color{#7be382}{\textsf{\textbf{Scholarly Support}}}$: Supported Sanskrit poets and historical recording. Example: Detailed Chandella inscriptions.
 - *Conclusion:*
@@ -278,7 +278,7 @@
   - **Art**
     - $\color{#7be382}{\textsf{\textbf{Sculptural Continuity}}}$: Preserved Eastern traditions of stone and clay art. Example: Terracotta ornamentation.
     - $\color{#7be382}{\textsf{\textbf{Sectarian Icons}}}$: Supported refined imagery for Shaiva and Vaishnava cults. Example: Deity icons of the Sena period.
-  - $\color{#7be382}{\textsf{\textbf{Culture & Literature}}}$
+  - $\color{#7be382}{\textsf{\textbf{Culture and Literature}}}$
     - $\color{#7be382}{\textsf{\textbf{Classical Orthodoxy}}}$: Emphasized Brahmanical rituals and social order. Example: Support for traditional priesthoods.
     - $\color{#7be382}{\textsf{\textbf{Sanskrit Learning}}}$: Provided strong patronage for high literature. Example: Support for courtly poets.
     - $\color{#7be382}{\textsf{\textbf{Genealogical Records}}}$: Documented history and genealogy through royal grants. Example: Sena inscriptions.
@@ -295,7 +295,7 @@
     - $\color{#7be382}{\textsf{\textbf{Maru-Gurjara Style}}}$: Developed a regional style with ornate gateways (toranas). Example: Solanki temple façades.
     - $\color{#7be382}{\textsf{\textbf{Hydraulic Engineering}}}$: Built massive dams and reservoirs for civic use. Example: Irrigation works in Gujarat.
     - $\color{#7be382}{\textsf{\textbf{Structural Elegance}}}$: Achieved extreme refinement in temple interiors. Example: Jain temples at Dilwara.
-  - $\color{#7be382}{\textsf{\textbf{Art & Culture}}}$
+  - $\color{#7be382}{\textsf{\textbf{Art and Culture}}}$
     - $\color{#7be382}{\textsf{\textbf{Floral Ornament}}}$: Adorned shrines with elaborate geometric and dancer motifs. Example: Intricate carvings in Solanki temples.
     - $\color{#7be382}{\textsf{\textbf{Maritime Exchange}}}$: Served as a major center for global trade. Example: Gujarat’s coastal commercial links.
     - $\color{#7be382}{\textsf{\textbf{Scholarly Patronage}}}$: Supported both Hindu and Jain court scholars. Example: Works of Hemachandra.
@@ -311,7 +311,7 @@
     - $\color{#7be382}{\textsf{\textbf{Hill Citadels}}}$: Built massive defensive strongholds on high terrain. Example: Forts at Chittorgarh and Mehrangarh.
     - $\color{#7be382}{\textsf{\textbf{Palatial Splendor}}}$: Developed residential architecture with balconies and courtyards. Example: Rajput palace layouts.
     - $\color{#7be382}{\textsf{\textbf{Civic Baolis}}}$: Constructed deep stepwells for water security in arid zones. Example: Stepwells of Rajasthan.
-  - $\color{#7be382}{\textsf{\textbf{Art & Culture}}}$
+  - $\color{#7be382}{\textsf{\textbf{Art and Culture}}}$
     - $\color{#7be382}{\textsf{\textbf{Miniature Schools}}}$: Fostered distinct regional painting traditions. Example: Mewar and Marwar schools.
     - $\color{#7be382}{\textsf{\textbf{Valor Frescoes}}}$: Decorated palaces with murals celebrating chivalry. Example: Wall paintings of Rajput heroes.
     - $\color{#7be382}{\textsf{\textbf{Hybrid Aesthetics}}}$: Blended traditional Hindu elements with Islamic decorative motifs over time. Example: Integration of diverse motifs in art.
@@ -330,7 +330,7 @@
     - $\color{#7be382}{\textsf{\textbf{Monumental Shrines}}}$: Built massive stone temples with large-scale components. Example: Bhojeshwar Shiva Temple.
     - $\color{#7be382}{\textsf{\textbf{Stellar Plans}}}$: Utilized innovative star-shaped architectural layouts. Example: Shrines at Udaipur.
     - $\color{#7be382}{\textsf{\textbf{Urban Defense}}}$: Fortified key cities with reservoirs and ramparts. Example: Defensive works at Dhar.
-  - $\color{#7be382}{\textsf{\textbf{Art & Culture}}}$
+  - $\color{#7be382}{\textsf{\textbf{Art and Culture}}}$
     - $\color{#7be382}{\textsf{\textbf{Detailed Carving}}}$: Decorated shrines with fine deity images and brackets. Example: Paramara sculptural art.
     - $\color{#7be382}{\textsf{\textbf{Scholarly Hubs}}}$: Turned capitals into centers of secular and sacred learning. Example: Dhar.
   - $\color{#7be382}{\textsf{\textbf{Literature}}}$
@@ -346,7 +346,7 @@
   - **Architecture**
     - $\color{#7be382}{\textsf{\textbf{Shrine Restoration}}}$: Rebuilt and expanded temples in sacred cities. Example: Shrines at Varanasi.
     - $\color{#7be382}{\textsf{\textbf{Strategic Defense}}}$: Strengthened fortifications in key riverine regions. Example: Defenses in the Doab.
-  - $\color{#7be382}{\textsf{\textbf{Art & Culture}}}$
+  - $\color{#7be382}{\textsf{\textbf{Art and Culture}}}$
     - $\color{#7be382}{\textsf{\textbf{Sacred Imagery}}}$: Supported traditional Hindu icons and imagery. Example: Religious art in Eastern UP.
     - $\color{#7be382}{\textsf{\textbf{Pilgrimage Centers}}}$: Promoted specific cities as pan-Indian religious hubs. Example: Prayaga and Varanasi.
   - $\color{#7be382}{\textsf{\textbf{Literature}}}$
@@ -380,10 +380,10 @@
     - $\color{#7be382}{\textsf{\textbf{Stone Masterpieces}}}$: Built iconic structures that defined regional architecture. Example: Sun Temple at Konark.
     - $\color{#7be382}{\textsf{\textbf{Pilgrimage Centers}}}$: Constructed major shrines that drew devotees nationwide. Example: Jagannath Temple at Puri.
     - $\color{#7be382}{\textsf{\textbf{Ritual Planning}}}$: Developed urban spaces centered around religious shrines. Example: Planned ritual cities.
-  - **Art & Iconography**
+  - **Art and Iconography**
     - $\color{#7be382}{\textsf{\textbf{Dynamic Reliefs}}}$: Decorated walls with figures showing movement. Example: Galloping horse sculptures.
     - $\color{#7be382}{\textsf{\textbf{Narrative Panels}}}$: Depicted scenes from Indian epics and local lore. Example: Carvings from the Ramayana.
-  - **Culture & Economy**
+  - **Culture and Economy**
     - $\color{#7be382}{\textsf{\textbf{Festival Traditions}}}$: Institutionalized massive annual religious processions. Example: The Rath Yatra.
     - $\color{#7be382}{\textsf{\textbf{Maritime Trade}}}$: Facilitated global exchange through regional ports. Example: Trade with Southeast Asia.
 - *Conclusion:*
@@ -401,7 +401,7 @@
     - $\color{#7be382}{\textsf{\textbf{Soapstone Carving}}}$: Utilized soft stone for extreme, jewel-like detail. Example: Chloritic schist sculptures.
     - $\color{#7be382}{\textsf{\textbf{Intricate Panels}}}$: Carved thousands of figures into temple walls. Example: Panels of dancers and deities.
     - $\color{#7be382}{\textsf{\textbf{Total Decoration}}}$: Adorned every available surface with sculptural richness. Example: Ornate bracket figures.
-  - **Culture & Literature**
+  - **Culture and Literature**
     - $\color{#7be382}{\textsf{\textbf{Vernacular Support}}}$: Patronized poetry and literature in the regional language. Example: Kannada literary works.
     - $\color{#7be382}{\textsf{\textbf{Artistic Legacy}}}$: Influenced later traditions across the South. Example: Impact on Vijayanagara style.
 - *Conclusion:*
@@ -415,7 +415,7 @@
     - $\color{#7be382}{\textsf{\textbf{Massive Forts}}}$: Built strong defensive walls and strategic reservoirs. Example: Warangal Fort.
     - $\color{#7be382}{\textsf{\textbf{Floating Bricks}}}$: Commissioned innovative shrines using lightweight materials. Example: Ramappa Temple.
     - $\color{#7be382}{\textsf{\textbf{Administrative Design}}}$: Developed fortified cities and ceremonial gateways. Example: Kakatiya toranas.
-  - **Art & Culture**
+  - **Art and Culture**
     - $\color{#7be382}{\textsf{\textbf{Elegance in Stone}}}$: Carved delicate dancing figures into shrine walls. Example: Stone friezes in temples.
     - $\color{#7be382}{\textsf{\textbf{Civic Hydraulics}}}$: Built massive tanks and irrigation canals for the public. Example: Ramappa Lake.
     - $\color{#7be382}{\textsf{\textbf{Regional Identity}}}$: Fostered a strong sense of local culture and literature. Example: Support for Telugu writers.
@@ -426,11 +426,11 @@
 - *Intro:*
   - The Yadavas of Devagiri contributed through temple sculpture, Marathi culture and the spread of regional political identity in the Deccan.
 - *Body:*
-  - **Architecture & Art**
+  - **Architecture and Art**
     - $\color{#7be382}{\textsf{\textbf{Deccan Shrines}}}$: Developed regional temple forms in the central hills. Example: Temples at Sinnar.
     - $\color{#7be382}{\textsf{\textbf{Hemadpanti Style}}}$: Featured characteristic pillars and joint-less masonry. Example: Yadava carved doorways.
     - $\color{#7be382}{\textsf{\textbf{Hill Bases}}}$: Established premier military and administrative strongholds. Example: Devagiri Fort.
-  - **Culture & Literature**
+  - **Culture and Literature**
     - $\color{#7be382}{\textsf{\textbf{Marathi Origins}}}$: Nurtured the early growth of the regional language. Example: Support for Marathi writers.
     - $\color{#7be382}{\textsf{\textbf{Sectarian Support}}}$: Sponsored both Shaiva and Vaishnava institutions. Example: Religious pluralism in the court.
     - $\color{#7be382}{\textsf{\textbf{Regional Identity}}}$: Shaped a distinct cultural consciousness for the Deccan. Example: Yadava stone inscriptions.
@@ -541,7 +541,7 @@
     - $\color{#7be382}{\textsf{\textbf{Marble Inlay}}}$: Used semi-precious stones to decorate white rock surfaces. Example: Pietra Dura technique.
     - $\color{#7be382}{\textsf{\textbf{Perfect Symmetry}}}$: Emphasized axial planning and balance in all structures. Example: Bilateral symmetry in gardens and buildings.
     - $\color{#7be382}{\textsf{\textbf{Design Innovation}}}$: Introduced bulbous domes and multi-foliated arches. Example: The domes of the Taj Mahal.
-  - **Gardens & Urbanism**
+  - **Gardens and Urbanism**
     - $\color{#7be382}{\textsf{\textbf{Planned Gardens}}}$: Developed intricate four-quadrant garden layouts. Example: Shalimar Bagh.
     - $\color{#7be382}{\textsf{\textbf{Urban Planning}}}$: Built entire capital cities with organized markets. Example: Shahjahanabad.
 - *Conclusion:*
