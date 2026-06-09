@@ -199,6 +199,9 @@
   - $\color{#7be382}{\textsf{\textbf{Social Reformer}}}$: Promoted girls' education and social upliftment among the Parsi community — *Example: Founding the 'Rast Goftar' newspaper.*
   - $\color{#7be382}{\textsf{\textbf{Indian Civil Service}}}$: Campaigned for simultaneous examinations in India to increase Indian representation — *Example: Fighting against the lowering of the age limit for ICS.*
   - $\color{#7be382}{\textsf{\textbf{Universal Brotherhood}}}$: Linked Indian struggles with global anti-imperial movements — *Example: Attending the International Socialist Congress in 1904.*
+  - $\color{#7be382}{\textsf{\textbf{Respected by all parties}}}$: 
+    - Tilak famously praised him as a *"radical among radicals"*, and acknowledged his pivotal role in openly endorsing the concept of "Swaraj" at the 1906 Calcutta Congress.
+    - Bal Gangadhar Tilak, respected Dadabhai Naoroji as a political mentor despite their ideological differences
 - *Conclusion:*
   - Naroji made Indian economic suffering visible internationally, boosting the demand for self-rule.
 
@@ -356,39 +359,5 @@
   - $\color{#7be382}{\textsf{\textbf{Land Revenue Reform}}}$: Attempted to limit state share of land revenue to protect peasants — *Example: Pushing for more humane collection during famines.*
 - *Conclusion:*
   - Lytton’s aggression provoked political resistance, while Ripon’s reforms aimed to placate Indians and build trust.
-
-### Q21. Reasons behind British conquest.
-- *Intro:*
-  - British conquest succeeded due to military advantage, economic control and skilful political manipulation.
-- *Body:*
-  - $\color{#7be382}{\textsf{\textbf{Naval Dominance}}}$: Control of the seas ensured reinforcements and isolated Indian rivals — *Example: Defeat of the French fleet in the Carnatic Wars.*
-  - $\color{#7be382}{\textsf{\textbf{Military Discipline}}}$: Superior drill and mobile field artillery gave them an edge in battle — *Example: Defeat of larger forces at Plassey and Buxar.*
-  - $\color{#7be382}{\textsf{\textbf{Financial Stability}}}$: The EIC could borrow huge sums from global markets and local bankers — *Example: Support from Indian merchant families.*
-  - $\color{#7be382}{\textsf{\textbf{Divide and Rule}}}$: Successfully played Indian powers against each other — *Example: Using the Marathas and Nizam against Tipu Sultan.*
-  - $\color{#7be382}{\textsf{\textbf{Political Diplomacy}}}$: Used treaties to hollow out Indian states from within — *Example: The Subsidiary Alliance system.*
-  - $\color{#7be382}{\textsf{\textbf{Legal Legitimacy}}}$: Used royal charters and Mughal farmans to provide a legal cover for conquest — *Example: Farrukhsiyar’s Farman of 1717.*
-  - $\color{#7be382}{\textsf{\textbf{Administrative Unity}}}$: A centralized chain of command under the Governor-General vs fragmented Indian rule — *Example: Coordination between Bombay, Madras, and Calcutta.*
-  - $\color{#7be382}{\textsf{\textbf{Spy Network}}}$: Maintained an excellent intelligence system to intercept rival communications — *Example: Intercepting letters between Maratha chiefs.*
-  - $\color{#7be382}{\textsf{\textbf{Economic Resilience}}}$: Control of Bengal provided a permanent revenue base for further wars — *Example: Using Bengal revenue to conquer Mysore.*
-  - $\color{#7be382}{\textsf{\textbf{Technological Edge}}}$: Superior weaponry, particularly the percussion-lock musket and canons — *Example: Use of the Enfield rifle.*
-- *Conclusion:*
-  - Conquest was not just military; it was a combined strategy of commerce, diplomacy and administration.
-
-### Q22. What were Administrative Changes During The British Conquest and The Role Of Governor Generals
-- *Intro:*
-  - Governor-Generals restructured administration to consolidate colonial rule through law, revenue and bureaucracy.
-- *Body:*
-  - $\color{#7be382}{\textsf{\textbf{Cornwallis Code}}}$: Separated revenue and judicial administration to check corruption — *Example: Establishment of the District Collector as the pivot of administration.*
-  - $\color{#7be382}{\textsf{\textbf{Permanent Settlement 1793}}}$: Fixed land revenue permanently to ensure a stable income — *Example: Recognition of Zamindars as owners of land.*
-  - $\color{#7be382}{\textsf{\textbf{Subsidiary Alliance}}}$: Wellesley centralised political control by making states dependent — *Example: Placement of British Residents in princely courts.*
-  - $\color{#7be382}{\textsf{\textbf{Civil Service Reform}}}$: Established a professional bureaucracy for imperial rule — *Example: Founding of Fort William College in 1800.*
-  - $\color{#7be382}{\textsf{\textbf{Modernization by Dalhousie}}}$: Built railways and telegraphs to integrate the colony — *Example: The first railway line from Bombay to Thane in 1853.*
-  - $\color{#7be382}{\textsf{\textbf{Judicial Hierarchy}}}$: Established a tiered system of courts from Munsifs to the Sadar Diwani Adalat — *Example: The Regulating Act of 1773 creating the Supreme Court.*
-  - $\color{#7be382}{\textsf{\textbf{Police Reorganization}}}$: Organized a regular police force with Thanas under Darogas — *Example: Reforms by Cornwallis to maintain law and order.*
-  - $\color{#7be382}{\textsf{\textbf{Educational Policy}}}$: Introduced English as the official language and medium of instruction — *Example: Macaulay’s Minute of 1835.*
-  - $\color{#7be382}{\textsf{\textbf{Ryotwari System}}}$: Established direct revenue settlements with individual cultivators — *Example: Implementation in Madras by Thomas Munro.*
-  - $\color{#7be382}{\textsf{\textbf{Financial Oversight}}}$: Creation of the Board of Revenue and centralized budgeting — *Example: Reforms under Warren Hastings.*
-- *Conclusion:*
-  - Governor-Generals transformed India’s administration into an efficient colonial state that served British interests.
 
 ### end

@@ -1,0 +1,439 @@
+### Q61. What caused the rise of extremism in India?
+- *Intro:*
+  - Extremism emerged as a dominant force in the Congress after 1905, reflecting the frustration of the youth with moderate methods.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Failure of Constitutionalism}}}$: Moderates failed to achieve any tangible power after 20 years of work — *Example: Disappointing results of the 1892 Council Act.*
+  - $\color{#7be382}{\textsf{\textbf{Famine and Plague}}}$: Inadequate British relief during 1896-1900 proved the Raj’s anti-people nature — *Example: Over 4.5 million deaths during the famine.*
+  - $\color{#7be382}{\textsf{\textbf{Curzon's Reactionary Rule}}}$: His arrogant policies directly challenged Indian sentiments — *Example: Partition of Bengal 1905.*
+  - $\color{#7be382}{\textsf{\textbf{Influence of Revivalism}}}$: Pride in Indian past made people less likely to beg for concessions — *Example: Vivekananda's call for strength and fearlessness.*
+  - $\color{#7be382}{\textsf{\textbf{Defeat of Europeans abroad}}}$: Shattered the psychological myth of European superiority — *Example: Ethiopia defeating Italy in 1896.*
+  - $\color{#7be382}{\textsf{\textbf{Growth of Education}}}$: Created a large class of unemployed youth who turned to politics — *Example: Surplus of graduates in Bengal.*
+  - $\color{#7be382}{\textsf{\textbf{Racial Discrimination}}}$: Continuous insults in public life and the army fueled anger — *Example: Discrimination against Indians in the Boer War.*
+  - $\color{#7be382}{\textsf{\textbf{International Movements}}}$: Revolutionary struggles in Ireland, Russia, and Egypt inspired Indians — *Example: Study of the Sinn Fein movement.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Destitution}}}$: Systematic poverty and the "Drain of Wealth" became widely understood — *Example: Tilak's popularization of economic critiques.*
+  - $\color{#7be382}{\textsf{\textbf{Dynamic Leadership}}}$: Lal-Bal-Pal provided a militant program that the youth could follow — *Example: Advocating for Boycott and Swadeshi.*
+  - $\color{#7be382}{\textsf{\textbf{Lack of Mass Contact by Moderates}}}$: The Moderates' methods were confined to the educated elite, failing to mobilize the broader population — *Example: Congress sessions were largely English-speaking affairs.*
+  - $\color{#7be382}{\textsf{\textbf{Impact of Vernacular Press}}}$: Nationalist newspapers in local languages spread extremist ideas widely — *Example: Tilak's 'Kesari' and 'Mahratta'.*
+  - $\color{#7be382}{\textsf{\textbf{Rise of Revolutionary Terrorism}}}$: The emergence of secret societies indicated a growing impatience with peaceful methods — *Example: Activities of the Chapekar Brothers.*
+  - $\color{#7be382}{\textsf{\textbf{Disillusionment with British Justice}}}$: The British legal system was seen as biased against Indians — *Example: The trial and conviction of Tilak for sedition.*
+  - $\color{#7be382}{\textsf{\textbf{Inspiration from History}}}$: Extremists drew inspiration from Indian historical figures and events — *Example: Tilak's use of Shivaji and Ganpati festivals for political mobilization.*
+- *Conclusion:*
+  - Extremism transformed the national movement from a "middle-class talk shop" into a powerful anti-colonial struggle.
+
+### Q62. What caused the rise of revolutionary activities post INC establishment?
+- *Intro:*
+  - Revolutionary terrorism was the response of the "radicalized youth" who found both Moderates and Extremists too slow for their liking.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Disillusionment with Extremism}}}$: After the Surat split, even extremist leaders were arrested, leaving a leadership vacuum — *Example: Tilak’s arrest and deportation to Mandalay.*
+  - $\color{#7be382}{\textsf{\textbf{Failure of Swadeshi Movement}}}$: The mass movement fizzled out by 1908 without achieving the annulment of partition — *Example: Suppression of anti-partition volunteers.*
+  - $\color{#7be382}{\textsf{\textbf{Government Repression}}}$: Brutal use of force against peaceful protesters drove them underground — *Example: Frequent lathi charges and the Rowlatt-type acts.*
+  - $\color{#7be382}{\textsf{\textbf{Psychological Satisfaction}}}$: Killing hated officials provided a sense of "instant justice" to oppressed youth — *Example: Assassination of Curzon Wyllie in London.*
+  - $\color{#7be382}{\textsf{\textbf{Influence of Secret Societies}}}$: Inspired by the Carbonari of Italy and Russian Nihilists — *Example: Formation of the Anushilan Samiti.*
+  - $\color{#7be382}{\textsf{\textbf{Religious Inspiration}}}$: Using religious symbolism to justify sacrifice for the motherland — *Example: Bankim Chandra’s 'Anandamath'.*
+  - $\color{#7be382}{\textsf{\textbf{The "Bomb" Narrative}}}$: Exposure to Western methods of bomb-making — *Example: Hemchandra Kanungo learning bomb-making in France.*
+  - $\color{#7be382}{\textsf{\textbf{Lack of Open Politics}}}$: Since the British banned most political assembly, youth felt "bullets" were the only language left — *Example: Gagging of the press via the 1910 Press Act.*
+  - $\color{#7be382}{\textsf{\textbf{Martyrdom Ideology}}}$: A belief that one’s death would "wake up" the sleeping masses — *Example: The execution of Khudiram Bose.*
+  - $\color{#7be382}{\textsf{\textbf{Exile of Leaders}}}$: Many leaders were forced to leave India, where they organized armed resistance — *Example: Ghadar Party in USA.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Hardship}}}$: Widespread poverty and unemployment among the educated youth fueled frustration — *Example: Lack of opportunities for graduates.*
+  - $\color{#7be382}{\textsf{\textbf{Racial Discrimination}}}$: Constant insults and humiliation by British officials — *Example: The Ilbert Bill controversy.*
+  - $\color{#7be382}{\textsf{\textbf{Inspiration from Abroad}}}$: Success of revolutionary movements in other countries — *Example: The Irish Republican Brotherhood.*
+  - $\color{#7be382}{\textsf{\textbf{Lack of Mass Base}}}$: The inability of the Congress to mobilize the masses effectively left a vacuum for radical action — *Example: Limited reach of moderate politics.*
+  - $\color{#7be382}{\textsf{\textbf{Desire for Immediate Action}}}$: A strong urge among the youth to achieve independence quickly, rather than through gradual reforms — *Example: The impatience with the slow pace of constitutional agitation.*
+- *Conclusion:*
+  - Revolutionaries provided the "physical force" component of nationalism, ensuring that the British never felt secure in India.
+
+### Q63. Give an account on revolutionary activities post INC establishment before 1st world war.
+- *Intro:*
+  - This phase was marked by individual heroics, secret societies, and the use of the "pistol and the bomb."
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Chapekar Brothers}}}$: Assassinated the hated Plague Commissioner Rand in Pune (1897) — *Example: The first major revolutionary act in modern India.*
+  - $\color{#7be382}{\textsf{\textbf{Anushilan Samiti}}}$: The premier secret society in Bengal for radicalizing youth — *Example: Founded by P. Mitra and others in 1902.*
+  - $\color{#7be382}{\textsf{\textbf{Alipore Bomb Case}}}$: The first major conspiracy trial involving Aurobindo Ghosh and Barindra Ghosh — *Example: Raids on the Manicktolla garden.*
+  - $\color{#7be382}{\textsf{\textbf{Assassination of Curzon Wyllie}}}$: Madan Lal Dhingra killed the British official in London (1909) — *Example: Internationalizing the Indian revolutionary cause.*
+  - $\color{#7be382}{\textsf{\textbf{Nasik Conspiracy Case}}}$: Anant Laxman Kanhere killed District Magistrate Jackson — *Example: Linked to Savarkar’s Abhinav Bharat.*
+  - $\color{#7be382}{\textsf{\textbf{Muzaffarpur Bomb Case}}}$: Prafulla Chaki and Khudiram Bose targeted Magistrate Kingsford — *Example: Khudiram Bose became a household name after his execution.*
+  - $\color{#7be382}{\textsf{\textbf{Aurobindo Ghosh’s Leadership}}}$: Provided the intellectual and spiritual basis for revolution — *Example: Writing for the journal 'Yugantar'.*
+  - $\color{#7be382}{\textsf{\textbf{Formation of Abhinav Bharat}}}$: Secret society in Maharashtra inspired by Mazzini’s Young Italy — *Example: Organized by V.D. Savarkar in 1904.*
+  - $\color{#7be382}{\textsf{\textbf{Delhi-Lahore Conspiracy Case}}}$: Attempted assassination of Viceroy Lord Hardinge by throwing a bomb (1912) — *Example: Masterminded by Rash Behari Bose.*
+  - $\color{#7be382}{\textsf{\textbf{Role of the Press}}}$: Daring papers spread the message of revolt despite censorship — *Example: 'Sandhya' and 'Bande Mataram'.*
+  - $\color{#7be382}{\textsf{\textbf{Komagata Maru Incident}}}$: A ship carrying Indian immigrants was denied entry to Canada, leading to a clash upon return — *Example: Sparked outrage and revolutionary fervor among Sikhs.*
+  - $\color{#7be382}{\textsf{\textbf{Ghadar Party Formation}}}$: Indians in North America formed a revolutionary organization to overthrow British rule — *Example: Founded in 1913 by Lala Hardayal.*
+  - $\color{#7be382}{\textsf{\textbf{Arms Procurement}}}$: Attempts were made to smuggle arms into India for armed uprisings — *Example: The Indo-German Conspiracy during WWI.*
+  - $\color{#7be382}{\textsf{\textbf{Training Camps}}}$: Secret camps were set up to train youth in bomb-making and guerrilla tactics — *Example: Manicktala Garden House in Bengal.*
+  - $\color{#7be382}{\textsf{\textbf{Impact on British Administration}}}$: These acts created a climate of fear and forced the British to implement repressive measures — *Example: The Seditious Meetings Act of 1907.*
+- *Conclusion:*
+  - These activities created a deep sense of fear in the British administration and a sense of pride among the Indian youth.
+
+### Q64. What are the contributions of Lala Lajpat Rai in Indian freedom?
+- *Intro:*
+  - Known as "Sher-e-Punjab" (Lion of Punjab), Lala Lajpat Rai was a pillar of the Extremist faction and a social reformer.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Extremist Leadership}}}$: Part of the famous 'Lal-Bal-Pal' trio that advocated for militant nationalism — *Example: Leading the Swadeshi movement in North India.*
+  - $\color{#7be382}{\textsf{\textbf{Anti-Partition Movement}}}$: Led massive protests against the 1905 Bengal partition in Punjab — *Example: Deportation to Mandalay in 1907 for his activities.*
+  - $\color{#7be382}{\textsf{\textbf{Home Rule in USA}}}$: Founded the Indian Home Rule League of America during WWI — *Example: Lobbying for Indian independence in New York.*
+  - $\color{#7be382}{\textsf{\textbf{First President of AITUC}}}$: Pioneered the labor movement in India — *Example: Presided over the first session of the Trade Union Congress in 1920.*
+  - $\color{#7be382}{\textsf{\textbf{Boycott of Simon Commission}}}$: Led the protest where he received fatal lathi blows — *Example: His famous last words, "the lathi blows... will be nails in the coffin of British rule".*
+  - $\color{#7be382}{\textsf{\textbf{Educational Work}}}$: Helped found the DAV College and the National College — *Example: Promoting education rooted in Indian culture.*
+  - $\color{#7be382}{\textsf{\textbf{Arya Samaj Influence}}}$: Worked for social reform and against untouchability — *Example: Campaigns for Dalit upliftment in Punjab.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Critique}}}$: Wrote extensively on the economic exploitation of India — *Example: His book 'England’s Debt to India'.*
+  - $\color{#7be382}{\textsf{\textbf{Punjab National Bank}}}$: Co-founded the bank to promote Indian economic self-reliance — *Example: Creating a purely Indian financial institution.*
+  - $\color{#7be382}{\textsf{\textbf{Nationalism in Literature}}}$: Wrote biographies of world leaders to inspire the youth — *Example: Biographies of Mazzini and Garibaldi.*
+  - $\color{#7be382}{\textsf{\textbf{Journalism}}}$: Edited and contributed to several nationalist newspapers — *Example: 'The Punjabi' and 'The People'.*
+  - $\color{#7be382}{\textsf{\textbf{Famine Relief Work}}}$: Organized relief efforts during famines, demonstrating practical social service — *Example: Establishing orphanages and relief camps.*
+  - $\color{#7be382}{\textsf{\textbf{Advocacy for Peasants}}}$: Highlighted the grievances of the peasantry against oppressive land revenue policies — *Example: Supporting peasant movements in Punjab.*
+  - $\color{#7be382}{\textsf{\textbf{International Recognition}}}$: His work in the USA brought the Indian freedom struggle to international attention — *Example: Publishing 'Young India' in New York.*
+  - $\color{#7be382}{\textsf{\textbf{Martyrdom}}}$: His death due to police brutality galvanized the nation and inspired revolutionaries — *Example: Bhagat Singh's revenge for his death.*
+- *Conclusion:*
+  - Lajpat Rai’s martyrdom during the Simon protests became a turning point that led to the radicalization of Bhagat Singh and others.
+
+### Q65. What were Indian's reaction against Bengal split?
+- *Intro:*
+  - The Partition of Bengal in 1905 acted as the "spark" that set the whole country ablaze, leading to the Swadeshi and Boycott movement.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Protest Meetings}}}$: Over 2,000 protest meetings were held across Bengal immediately after the announcement — *Example: Massive gathering at the Town Hall, Calcutta.*
+  - $\color{#7be382}{\textsf{\textbf{Boycott of British Goods}}}$: Symbolically burning foreign cloth to promote self-reliance — *Example: Shops selling foreign sugar or salt were picketed.*
+  - $\color{#7be382}{\textsf{\textbf{Promotion of Swadeshi}}}$: Setting up of indigenous industries and shops — *Example: Opening of the Bengal Chemicals Factory by P.C. Ray.*
+  - $\color{#7be382}{\textsf{\textbf{Raksha Bandhan}}}$: Rabindranath Tagore suggested tying threads to each other to show Hindu-Muslim unity — *Example: Thousands tied rakhis on the banks of the Ganga.*
+  - $\color{#7be382}{\textsf{\textbf{Day of Mourning}}}$: The day partition took effect (Oct 16, 1905) was observed as a day of fasting — *Example: People walked barefoot and bathed in the Ganga.*
+  - $\color{#7be382}{\textsf{\textbf{National Education}}}$: Boycotting government schools and colleges — *Example: Formation of the National Council of Education.*
+  - $\color{#7be382}{\textsf{\textbf{Cultural Resistance}}}$: Use of songs and poetry to mobilize the masses — *Example: Tagore’s 'Amar Sonar Bangla' and the widespread use of 'Vande Mataram'.*
+  - $\color{#7be382}{\textsf{\textbf{Mass Picketings}}}$: Women and students actively prevented the sale of British goods — *Example: Students refusing to use foreign-made paper for exams.*
+  - $\color{#7be382}{\textsf{\textbf{Labor Strikes}}}$: Workers in mills and railways struck work to show solidarity — *Example: Strikes in the Jute mills of Calcutta.*
+  - $\color{#7be382}{\textsf{\textbf{Rise of Militancy}}}$: The failure of peaceful protest led many to turn to revolutionary activities — *Example: Increase in the recruitment for the Anushilan Samiti.*
+  - $\color{#7be382}{\textsf{\textbf{Extension Beyond Bengal}}}$: The movement spread to other parts of India, gaining national character — *Example: Tilak leading the movement in Maharashtra.*
+  - $\color{#7be382}{\textsf{\textbf{Hindu-Muslim Unity (Initial)}}}$: The early phase saw significant communal harmony in protests — *Example: Joint processions and meetings.*
+  - $\color{#7be382}{\textsf{\textbf{Role of Women}}}$: Women, traditionally confined to homes, came out to participate in protests and picketing — *Example: Organizing separate meetings and processions.*
+  - $\color{#7be382}{\textsf{\textbf{Government Repression}}}$: The British responded with severe measures, including arrests and lathi charges — *Example: The Carlyle Circular banning student participation.*
+  - $\color{#7be382}{\textsf{\textbf{Annulment of Partition}}}$: The sustained agitation eventually forced the British to reverse the partition in 1911 — *Example: A major victory for the nationalist movement.*
+- *Conclusion:*
+  - The reaction was so fierce that it forced the British to eventually annul the partition in 1911.
+
+### Q66. What were the revolutionary activities organised outside India for National freedom?
+- *Intro:*
+  - Indian revolutionaries utilized foreign soil to seek weapons, publish radical literature, and gain international support.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{India House, London}}}$: A major center for students and revolutionaries — *Example: Established by Shyamji Krishna Varma.*
+  - $\color{#7be382}{\textsf{\textbf{The Ghadar Party}}}$: Based in USA and Canada, it aimed to launch an armed revolt in India — *Example: Led by Lala Hardayal, Sohan Singh Bhakna, and Kartar Singh Sarabha.*
+  - $\color{#7be382}{\textsf{\textbf{Berlin Committee}}}$: Formed during WWI to organize an uprising with German help — *Example: The 'Zimmermann Plan' involving Virendranath Chattopadhyaya.*
+  - $\color{#7be382}{\textsf{\textbf{Paris Indian Society}}}$: Used to network with European socialists — *Example: Led by Madame Bhikaji Cama.*
+  - $\color{#7be382}{\textsf{\textbf{Free India Society}}}$: V.D. Savarkar organized this in London to celebrate Indian heroes — *Example: Celebrating the 50th anniversary of the 1857 revolt.*
+  - $\color{#7be382}{\textsf{\textbf{Ghadar Journal}}}$: A multilingual weekly that incited Indians to kill the British — *Example: Distributed among Indian troops stationed abroad.*
+  - $\color{#7be382}{\textsf{\textbf{Hoisting the National Flag}}}$: Madame Cama hoisted the first version of the Indian flag in Germany — *Example: At the International Socialist Congress in Stuttgart, 1907.*
+  - $\color{#7be382}{\textsf{\textbf{Armed Shipment Attempt}}}$: Attempt to send arms to India via sea during WWI — *Example: The Annie Larsen and Maverick ship incidents.*
+  - $\color{#7be382}{\textsf{\textbf{Provisional Government in Kabul}}}$: Established a government-in-exile in Afghanistan during WWI — *Example: Led by Raja Mahendra Pratap and Barkatullah.*
+  - $\color{#7be382}{\textsf{\textbf{Komagata Maru Incident}}}$: A ship carrying Indian immigrants was denied entry to Canada, leading to a clash upon return — *Example: Sparked outrage and revolutionary fervor among Sikhs in North America.*
+  - $\color{#7be382}{\textsf{\textbf{Pan-Islamic Links}}}$: Revolutionary activities in Turkey and Egypt linked to the Indian cause — *Example: The Silk Letter Conspiracy.*
+  - $\color{#7be382}{\textsf{\textbf{Indian Independence Committee}}}$: Formed in Berlin to collaborate with the German government — *Example: Involved Har Dayal and other Ghadarites.*
+  - $\color{#7be382}{\textsf{\textbf{Propaganda and Publications}}}$: Produced and smuggled revolutionary literature into India — *Example: 'The Indian Sociologist' and 'Bande Mataram'.*
+  - $\color{#7be382}{\textsf{\textbf{Assassinations Abroad}}}$: Targeted British officials in foreign lands to create fear and draw attention — *Example: Madan Lal Dhingra's assassination of Curzon Wyllie.*
+  - $\color{#7be382}{\textsf{\textbf{Networking with Anti-Colonial Groups}}}$: Collaborated with Irish, Egyptian, and other nationalist movements — *Example: Seeking common cause against the British Empire.*
+- *Conclusion:*
+  - Foreign-based revolutionaries ensured that the British faced pressure from world opinion and provided a safe haven for Indian radicals.
+
+### Q67. What were the contribution of women in Indian National Struggle?
+- *Intro:*
+  - Indian women transformed from "secluded individuals" to "frontline warriors" during the freedom struggle.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Early Heroics}}}$: Led armed resistance during the 1857 revolt — *Example: Rani Laxmibai of Jhansi and Begum Hazrat Mahal.*
+  - $\color{#7be382}{\textsf{\textbf{Revolutionary Support}}}$: Acted as messengers and bomb-carriers for secret societies — *Example: Kalpana Datta and Pritilata Waddedar in the Chittagong Raid.*
+  - $\color{#7be382}{\textsf{\textbf{International Diplomacy}}}$: Represented India’s cause on global platforms — *Example: Madame Bhikaji Cama hoisting the flag in Germany.*
+  - $\color{#7be382}{\textsf{\textbf{The Swadeshi Movement}}}$: Women organized "Charkha" circles and picketed shops — *Example: Giving up foreign silk and glass bangles.*
+  - $\color{#7be382}{\textsf{\textbf{The Dandi March}}}$: Sarojini Naidu led the raid on the Dharasana Salt Works after Gandhi’s arrest — *Example: Facing brutal lathi charges with non-violence.*
+  - $\color{#7be382}{\textsf{\textbf{Quit India Underground}}}$: Ran secret radio stations and organized logistics — *Example: Usha Mehta and Aruna Asaf Ali.*
+  - $\color{#7be382}{\textsf{\textbf{Indian National Army}}}$: Formed an all-women combat regiment under Subhash Bose — *Example: The Rani of Jhansi Regiment led by Lakshmi Sahgal.*
+  - $\color{#7be382}{\textsf{\textbf{Social Reform Connection}}}$: Women leaders linked freedom with social liberation — *Example: Kasturba Gandhi’s work in villages.*
+  - $\color{#7be382}{\textsf{\textbf{Individual Satyagraha}}}$: Women offered themselves for arrest to challenge war participation — *Example: Sucheta Kripalani.*
+  - $\color{#7be382}{\textsf{\textbf{Propaganda}}}$: Writing daring poetry and articles for the movement — *Example: Sarojini Naidu, the "Nightingale of India".*
+  - $\color{#7be382}{\textsf{\textbf{Leadership Roles}}}$: Many women rose to prominent positions within the Congress and other organizations — *Example: Annie Besant as the first female INC President.*
+  - $\color{#7be382}{\textsf{\textbf{Non-Violent Civil Disobedience}}}$: Actively participated in all phases of Gandhi's movements, facing imprisonment — *Example: Thousands of women joining the Civil Disobedience Movement.*
+  - $\color{#7be382}{\textsf{\textbf{Picketing Liquor and Foreign Cloth Shops}}}$: A specific form of protest where women were highly effective — *Example: Their presence added a moral dimension to the boycott.*
+  - $\color{#7be382}{\textsf{\textbf{Organizing and Fundraising}}}$: Managed local committees and collected funds for the movement — *Example: Contributions to the Tilak Swaraj Fund.*
+  - $\color{#7be382}{\textsf{\textbf{Symbolic Resistance}}}$: Their participation broke traditional gender barriers and inspired others — *Example: The sight of women marching in public challenged colonial norms.*
+- *Conclusion:*
+  - Women’s participation gave the movement a "moral depth" and made it a truly inclusive mass struggle.
+
+### Q68. What actions of Mohan Gandhi made him Mahatma Gandhi?
+- *Intro:*
+  - The transformation of Gandhi into a "Mahatma" (Great Soul) was a result of his radical empathy, simple lifestyle, and unique moral philosophy.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Simplification of Lifestyle}}}$: Giving up Western attire for the loincloth to identify with the poor — *Example: Adopting the khadi lifestyle in 1921.*
+  - $\color{#7be382}{\textsf{\textbf{Doctrine of Ahimsa}}}$: Introducing non-violence as a weapon of the strong rather than the weak — *Example: Suspending NCM after Chauri Chaura because of violence.*
+  - $\color{#7be382}{\textsf{\textbf{Identification with Dalits}}}$: Calling them "Harijans" (Children of God) and living in their colonies — *Example: His fast unto death against separate electorates in 1932.*
+  - $\color{#7be382}{\textsf{\textbf{Manual Labor}}}$: Insisting on spinning the Charkha every day to dignify physical work — *Example: Making spinning a requirement for Congress membership.*
+  - $\color{#7be382}{\textsf{\textbf{Moral Courage}}}$: Ready to stand alone for his principles against even his own party — *Example: His solitary walk through riot-torn Noakhali in 1946.*
+  - $\color{#7be382}{\textsf{\textbf{Empathy with Peasants}}}$: His first successes in India were for the poorest farmers — *Example: The Champaran Satyagraha.*
+  - $\color{#7be382}{\textsf{\textbf{Religious Pluralism}}}$: Promoting prayer meetings that included all faiths — *Example: "Ishwar Allah Tero Naam".*
+  - $\color{#7be382}{\textsf{\textbf{Fearlessness}}}$: Willingness to face imprisonment and death without retaliating — *Example: His conduct during the various sedition trials.*
+  - $\color{#7be382}{\textsf{\textbf{Universal Ethics}}}$: Linking politics with morality (Sarvodaya) — *Example: The concept of "Truth is God".*
+  - $\color{#7be382}{\textsf{\textbf{Mass Communication}}}$: His ability to explain complex political ideas through simple symbols like Salt — *Example: The Dandi March.*
+  - $\color{#7be382}{\textsf{\textbf{Self-Sufficiency}}}$: Advocating for economic independence through local production — *Example: The Swadeshi movement and Khadi.*
+  - $\color{#7be382}{\textsf{\textbf{Fasting as a Weapon}}}$: Using fasts to appeal to the conscience of both oppressors and followers — *Example: Fasting for communal harmony.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women}}}$: Encouraging women to participate actively in public life — *Example: Their significant role in the Salt Satyagraha.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program}}}$: Focusing on village upliftment, education, and sanitation — *Example: His work in Sevagram Ashram.*
+  - $\color{#7be382}{\textsf{\textbf{Leadership in South Africa}}}$: His successful fight against racial discrimination there established his method — *Example: The Phoenix Settlement and Tolstoy Farm.*
+- *Conclusion:*
+  - It was his "oneness with the masses" and his insistence on the purity of means that elevated him to a spiritual-political icon.
+
+### Q69. Describe the successful campaigns of Gandhi in South Africa.
+- *Intro:*
+  - Gandhi's 21 years in South Africa (1893-1914) were his "political laboratory," where he forged the weapon of Satyagraha against racial discrimination.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Natal Indian Congress (1894)}}}$: Founded to fight discrimination against Indians — *Example: Advocating for voting rights for Indians.*
+  - $\color{#7be382}{\textsf{\textbf{Phoenix Settlement (1904)}}}$: Established a self-sufficient commune based on Gandhian ideals — *Example: Practicing simple living and communal harmony.*
+  - $\color{#7be382}{\textsf{\textbf{Tolstoy Farm (1910)}}}$: Another ashram where Satyagraha principles were practiced and taught — *Example: Training ground for non-violent resisters.*
+  - $\color{#7be382}{\textsf{\textbf{Asiatic Registration Act (1906)}}}$: Led the first Satyagraha against this "Black Act" requiring Indians to carry passes — *Example: Mass burning of registration certificates.*
+  - $\color{#7be382}{\textsf{\textbf{Immigration Restriction Act (1907)}}}$: Organized non-violent resistance against laws restricting Indian entry into Transvaal — *Example: Crossing provincial borders illegally.*
+  - $\color{#7be382}{\textsf{\textbf{Poll Tax Protest}}}$: Launched a campaign against the £3 annual poll tax on indentured laborers — *Example: Inspiring thousands of miners to strike.*
+  - $\color{#7be382}{\textsf{\textbf{Invalidation of Indian Marriages (1913)}}}$: Protested a Supreme Court ruling that invalidated non-Christian Indian marriages — *Example: Women, including Kasturba, joining the movement.*
+  - $\color{#7be382}{\textsf{\textbf{The Great March (1913)}}}$: Led a march of 2,000 Indians from Natal to Transvaal in defiance of laws — *Example: Facing arrest and brutal treatment.*
+  - $\color{#7be382}{\textsf{\textbf{Indian Opinion Newspaper}}}$: Used his journal to articulate grievances and mobilize the community — *Example: Published in English, Gujarati, Hindi, and Tamil.*
+  - $\color{#7be382}{\textsf{\textbf{Negotiation with Smuts}}}$: His persistent non-violent resistance eventually forced the government to negotiate — *Example: The Indian Relief Act of 1914.*
+  - $\color{#7be382}{\textsf{\textbf{Development of Satyagraha}}}$: Coined and refined the philosophy of "truth-force" — *Example: Emphasizing suffering and moral persuasion.*
+  - $\color{#7be382}{\textsf{\textbf{Mass Mobilization}}}$: Successfully united diverse Indian communities (Hindu, Muslim, Parsi, Christian) against a common enemy — *Example: Creating a pan-Indian identity.*
+  - $\color{#7be382}{\textsf{\textbf{International Attention}}}$: Drew global attention to the plight of Indians and the injustice of apartheid — *Example: Support from Gokhale and other Indian leaders.*
+  - $\color{#7be382}{\textsf{\textbf{Personal Transformation}}}$: His experiences transformed him from a lawyer into a mass leader and spiritual guide — *Example: His adoption of simple living.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of the Oppressed}}}$: Showed that even the seemingly powerless could challenge injustice through collective non-violent action — *Example: Inspiring indentured laborers to resist.*
+- *Conclusion:*
+  - Gandhi's South African campaigns were crucial in shaping his leadership style and the non-violent methods he would later employ in India.
+
+### Q70. Describe the successful campaigns of Gandhi in India.
+- *Intro:*
+  - Gandhi's return to India in 1915 marked the beginning of a new era, where his unique methods transformed the freedom struggle into a mass movement.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Champaran Satyagraha (1917)}}}$: First civil disobedience in India against forced indigo cultivation — *Example: Forced the British to abolish the Tinkathia system.*
+  - $\color{#7be382}{\textsf{\textbf{Ahmedabad Mill Strike (1918)}}}$: First hunger strike in India for textile workers' wages — *Example: Secured a 35% wage hike for the workers.*
+  - $\color{#7be382}{\textsf{\textbf{Kheda Satyagraha (1918)}}}$: First non-cooperation movement for peasants against high taxes during famine — *Example: Government suspended revenue collection for the poor.*
+  - $\color{#7be382}{\textsf{\textbf{Non-Cooperation Movement (1920-22)}}}$: First all-India mass movement against British rule — *Example: Boycott of schools, courts, and foreign goods.*
+  - $\color{#7be382}{\textsf{\textbf{Salt Satyagraha (1930)}}}$: Challenged the British salt monopoly through the Dandi March — *Example: Mobilized millions and gained international attention.*
+  - $\color{#7be382}{\textsf{\textbf{Civil Disobedience Movement (1930-34)}}}$: Expanded on the Salt Satyagraha, involving widespread defiance of unjust laws — *Example: Forest Satyagrahas and no-tax campaigns.*
+  - $\color{#7be382}{\textsf{\textbf{Individual Satyagraha (1940-41)}}}$: A limited, symbolic protest against British war policies — *Example: Vinoba Bhave was the first Satyagrahi.*
+  - $\color{#7be382}{\textsf{\textbf{Quit India Movement (1942)}}}$: The final, most intense mass movement demanding immediate British withdrawal — *Example: Gandhi's "Do or Die" call.*
+  - $\color{#7be382}{\textsf{\textbf{Harijan Campaign}}}$: Fought against untouchability and for the upliftment of Dalits — *Example: His fast unto death against separate electorates.*
+  - $\color{#7be382}{\textsf{\textbf{Khadi Movement}}}$: Promoted hand-spun cloth for economic self-reliance and national unity — *Example: Making Khadi a symbol of the freedom struggle.*
+  - $\color{#7be382}{\textsf{\textbf{Communal Harmony}}}$: Worked tirelessly to bridge Hindu-Muslim divides, especially during partition — *Example: His fasts for peace in Calcutta and Delhi.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program}}}$: Focused on village industries, basic education, and rural sanitation — *Example: His work in Sevagram Ashram.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women}}}$: Encouraged women's active participation in all movements — *Example: Their significant role in picketing and marches.*
+  - $\color{#7be382}{\textsf{\textbf{Integration of Princely States}}}$: Advocated for the rights of people in princely states — *Example: Support for the Praja Mandal movements.*
+  - $\color{#7be382}{\textsf{\textbf{International Recognition}}}$: His philosophy of non-violence inspired civil rights movements globally — *Example: Influencing Martin Luther King Jr. and Nelson Mandela.*
+- *Conclusion:*
+  - Gandhi's campaigns transformed the Indian National Congress into a truly mass organization and ultimately led India to independence.
+
+### Q71. What were differences in Gandhian style of Struggle and other nationalist struggle?
+- *Intro:*
+  - Gandhian struggle was a paradigm shift from the earlier elite-based or purely militant approaches.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Means over Ends}}}$: Gandhi insisted that the method (Non-violence) was as important as the goal (Independence) — *Example: Revolutionaries believed any means were justified.*
+  - $\color{#7be382}{\textsf{\textbf{Mass vs. Elite}}}$: Gandhi involved peasants and workers, whereas Moderates were urban elites — *Example: NCM saw millions participate vs. Congress sessions before 1915.*
+  - $\color{#7be382}{\textsf{\textbf{Passive Resistance}}}$: Use of Satyagraha (Truth-force) instead of physical force or petitions — *Example: Hunger strikes and non-cooperation.*
+  - $\color{#7be382}{\textsf{\textbf{Moral Pressure}}}$: Aimed at changing the "heart of the oppressor" rather than just defeating him — *Example: His letters to Viceroys before movements.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program}}}$: Included social work like spinning and removal of untouchability alongside politics — *Example: The Khadi movement.*
+  - $\color{#7be382}{\textsf{\textbf{Openness}}}$: Gandhi announced his plans beforehand, whereas revolutionaries worked in secret — *Example: Notice given to the Viceroy before the Dandi March.*
+  - $\color{#7be382}{\textsf{\textbf{Sacrifice vs. Retaliation}}}$: Believed in suffering lathi blows without hitting back — *Example: Conduct of volunteers at Dharasana.*
+  - $\color{#7be382}{\textsf{\textbf{Sustenance Capability}}}$: Gandhian movements had a "Struggle-Truce-Struggle" (S-T-S) pattern to avoid fatigue — *Example: Gap between NCM and CDM.*
+  - $\color{#7be382}{\textsf{\textbf{Religious Symbols}}}$: Used spiritual terms like "Ram Rajya" to connect with the Indian psyche — *Example: Appeal to the rural religious sentiment.*
+  - $\color{#7be382}{\textsf{\textbf{Class Harmony}}}$: Aimed at unifying landlords and peasants, and capital and labor — *Example: Avoidance of class-war rhetoric found in Socialist struggles.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of the Weak}}}$: Focused on making the common man fearless and self-reliant — *Example: Encouraging women and Dalits to join the movement.*
+  - $\color{#7be382}{\textsf{\textbf{Decentralization}}}$: Advocated for village self-rule (Gram Swaraj) as the ultimate goal — *Example: Contrast with the centralized state vision of some socialists.*
+  - $\color{#7be382}{\textsf{\textbf{Ethical Purity}}}$: Emphasized personal purity and self-control as prerequisites for political action — *Example: His ashram life and vows.*
+  - $\color{#7be382}{\textsf{\textbf{Internationalism}}}$: While focused on India, his methods had universal appeal and influence — *Example: Inspiring anti-apartheid movements globally.*
+  - $\color{#7be382}{\textsf{\textbf{Rejection of Western Modernity}}}$: Critiqued industrialization and advocated for a simpler, agrarian society — *Example: His views expressed in 'Hind Swaraj'.*
+- *Conclusion:*
+  - Gandhian style was a "total struggle" that combined political agitation with spiritual and social evolution.
+
+### Q72. Describe the initial success of Gandhi before Non-Cooperation Movement.
+- *Intro:*
+  - Gandhi's early campaigns in India (1917-1918) were localized but crucial in establishing his leadership and testing the efficacy of Satyagraha.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Champaran Satyagraha (1917)}}}$: First Civil Disobedience movement in India — *Example: Successfully forced the British to abolish the Tinkathia system of forced indigo cultivation.*
+  - $\color{#7be382}{\textsf{\textbf{Ahmedabad Mill Strike (1918)}}}$: First hunger strike in India — *Example: Secured a 35% wage hike for textile workers through his fast.*
+  - $\color{#7be382}{\textsf{\textbf{Kheda Satyagraha (1918)}}}$: First Non-Cooperation movement in India — *Example: Government suspended revenue collection for the poor peasants during a famine.*
+  - $\color{#7be382}{\textsf{\textbf{Emergence as a Mass Leader}}}$: These local struggles brought him into direct contact with the masses — *Example: Gaining the trust of peasants and workers.*
+  - $\color{#7be382}{\textsf{\textbf{Testing Satyagraha}}}$: Successfully demonstrated the power of non-violent civil disobedience — *Example: Proving that moral force could compel the British to yield.*
+  - $\color{#7be382}{\textsf{\textbf{Recruitment of Lieutenants}}}$: Attracted key leaders who would later become pillars of the national movement — *Example: Rajendra Prasad and Sardar Patel.*
+  - $\color{#7be382}{\textsf{\textbf{Understanding Indian Conditions}}}$: Gained first-hand experience of rural poverty and British exploitation — *Example: His extensive tours of the countryside.*
+  - $\color{#7be382}{\textsf{\textbf{Building Public Trust}}}$: His selfless service and simple lifestyle resonated with the common people — *Example: His adoption of local attire.*
+  - $\color{#7be382}{\textsf{\textbf{Challenging British Authority}}}$: Showed that local grievances could be effectively addressed through organized resistance — *Example: The British administration was forced to concede.*
+  - $\color{#7be382}{\textsf{\textbf{Consolidation of Methods}}}$: Refined his techniques of mass mobilization, negotiation, and non-violent protest — *Example: Learning from the successes and challenges of each campaign.*
+  - $\color{#7be382}{\textsf{\textbf{Gaining Congress Support}}}$: His successes convinced many within the Congress of the efficacy of his methods — *Example: Gradually shifting the Congress towards mass politics.*
+  - $\color{#7be382}{\textsf{\textbf{International Recognition}}}$: His methods began to draw attention from abroad, highlighting the unique nature of the Indian struggle — *Example: Reports in international newspapers about his campaigns.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of the Marginalized}}}$: Gave a voice and agency to the oppressed peasants and laborers — *Example: Their active participation in the movements.*
+  - $\color{#7be382}{\textsf{\textbf{Moral Authority}}}$: Established his reputation as a leader of integrity and courage — *Example: His willingness to face arrest and hardship.*
+  - $\color{#7be382}{\textsf{\textbf{Foundation for Mass Movements}}}$: These small-scale victories laid the psychological and organizational groundwork for larger national campaigns — *Example: Paving the way for the Non-Cooperation Movement.*
+- *Conclusion:*
+  - These initial successes were vital in establishing Gandhi as the undisputed leader of the Indian freedom struggle and validating Satyagraha as a potent weapon.
+
+### Q73. What caused Gandhi starting Non-Cooperation Movement?
+- *Intro:*
+  - The Non-Cooperation Movement (NCM) was Gandhi’s first all-India mass movement, launched in response to a series of British injustices and a growing nationalist fervor.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Rowlatt Act (1919)}}}$: The "Black Act" allowed detention without trial, seen as a direct attack on civil liberties — *Example: Widespread protests and hartals across India.*
+  - $\color{#7be382}{\textsf{\textbf{Jallianwala Bagh Massacre (1919)}}}$: The brutal killing of unarmed civilians shocked the nation — *Example: General Dyer's indiscriminate firing on a peaceful gathering.*
+  - $\color{#7be382}{\textsf{\textbf{Hunter Committee Report}}}$: The official inquiry whitewashed British atrocities, further fueling anger — *Example: The inadequate punishment for Dyer.*
+  - $\color{#7be382}{\textsf{\textbf{Khilafat Grievances}}}$: Muslim anger over the dismemberment of the Ottoman Caliphate — *Example: Gandhi saw an opportunity for Hindu-Muslim unity.*
+  - $\color{#7be382}{\textsf{\textbf{Montagu-Chelmsford Reforms (1919)}}}$: Seen as inadequate and a "sunless dawn" by nationalists — *Example: Limited franchise and dyarchy in provinces.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Distress Post-WWI}}}$: High inflation, unemployment, and famines after the war — *Example: Increased burden on peasants and workers.*
+  - $\color{#7be382}{\textsf{\textbf{Gandhi's Leadership}}}$: His successful local campaigns (Champaran, Kheda, Ahmedabad) established his methods — *Example: Proving the efficacy of Satyagraha.*
+  - $\color{#7be382}{\textsf{\textbf{Congress Resolution}}}$: The Calcutta (Sept 1920) and Nagpur (Dec 1920) sessions endorsed the NCM — *Example: Overcoming initial opposition from some leaders.*
+  - $\color{#7be382}{\textsf{\textbf{Demand for Swaraj}}}$: The movement aimed for self-rule as a direct response to British betrayal — *Example: Gandhi's call for "Swaraj within one year".*
+  - $\color{#7be382}{\textsf{\textbf{Disillusionment with British Justice}}}$: The failure to get justice for Jallianwala Bagh and Khilafat — *Example: Loss of faith in British promises.*
+  - $\color{#7be382}{\textsf{\textbf{Mass Mobilization Potential}}}$: Gandhi believed the time was ripe for an all-India movement involving all sections of society — *Example: Drawing in peasants, students, and women.*
+  - $\color{#7be382}{\textsf{\textbf{Hindu-Muslim Unity}}}$: The Khilafat issue provided a unique opportunity to forge a strong alliance between the two communities — *Example: Ali Brothers working closely with Gandhi.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program}}}$: The movement was also linked to social reforms like promoting Khadi and fighting untouchability — *Example: Building a self-reliant India.*
+  - $\color{#7be382}{\textsf{\textbf{Global Anti-Colonial Sentiment}}}$: The post-WWI era saw a rise in anti-imperialist movements worldwide — *Example: Inspiration from Irish independence struggle.*
+  - $\color{#7be382}{\textsf{\textbf{British Arrogance}}}$: The general attitude of superiority and disregard for Indian sentiments — *Example: The continued use of repressive laws.*
+- *Conclusion:*
+  - The NCM was a culmination of political grievances, economic hardship, and Gandhi's strategic vision to unite India against colonial rule.
+
+### Q74. Why Non-Cooperation Movement ended abruptly?
+- *Intro:*
+  - The NCM was at its peak when Gandhi’s decision to call it off shocked the nation and the Congress leadership.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Chauri Chaura Incident}}}$: The primary immediate cause where a mob burnt 22 policemen alive (Feb 1922) — *Example: Violent deviation from the core principle of Ahimsa.*
+  - $\color{#7be382}{\textsf{\textbf{Fear of Anarchy}}}$: Gandhi felt the masses had not yet fully understood the discipline required for non-violence — *Example: Emergence of violent tendencies in various local pockets.*
+  - $\color{#7be382}{\textsf{\textbf{Struggle-Truce Strategy}}}$: A belief that a mass movement cannot be sustained indefinitely at a high pitch — *Example: Signs of exhaustion among the peasantry.*
+  - $\color{#7be382}{\textsf{\textbf{Government Repression}}}$: The British had begun a massive crackdown, and Gandhi wanted to avoid a bloodbath — *Example: Imprisonment of over 30,000 volunteers.*
+  - $\color{#7be382}{\textsf{\textbf{Loss of Direction}}}$: Some local movements were turning into class-wars — *Example: The Moplah rebellion in Malabar turning communal/violent.*
+  - $\color{#7be382}{\textsf{\textbf{Internal Dissent}}}$: Some Congress leaders were becoming skeptical of the boycott of councils — *Example: Rise of the 'Pro-changers' like C.R. Das.*
+  - $\color{#7be382}{\textsf{\textbf{Khilafat Issue Decline}}}$: The issue lost its sting after the secularization of Turkey — *Example: Mustafa Kemal Pasha abolishing the Caliphate.*
+  - $\color{#7be382}{\textsf{\textbf{Maintenance of Moral Stature}}}$: Gandhi believed a movement built on violence would result in a violent state — *Example: His "Himalayan Miscalculation" admission.*
+  - $\color{#7be382}{\textsf{\textbf{Preventing Fratricide}}}$: Fear that the movement was leading to internal Indian conflicts — *Example: Tensions between protesters and those who didn't join.*
+  - $\color{#7be382}{\textsf{\textbf{Tactical Retreat}}}$: To reorganize and launch a better-planned movement later — *Example: Focus on the "Constructive Program" post-1922.*
+  - $\color{#7be382}{\textsf{\textbf{Lack of Alternative Program}}}$: The movement lacked a clear, long-term program for sustained action beyond non-cooperation — *Example: Difficulty in maintaining momentum after initial enthusiasm.*
+  - $\color{#7be382}{\textsf{\textbf{Hindu-Muslim Disunity}}}$: The initial unity began to fray, with communal riots emerging in some areas — *Example: The Malabar Rebellion's communal turn.*
+  - $\color{#7be382}{\textsf{\textbf{Lack of Full Swaraj}}}$: The promise of "Swaraj within one year" was not met, leading to some disillusionment — *Example: Questions raised about the effectiveness of the movement.*
+  - $\color{#7be382}{\textsf{\textbf{British Firmness}}}$: The British government showed no signs of yielding to the demands, despite the mass participation — *Example: Continued arrests and suppression.*
+  - $\color{#7be382}{\textsf{\textbf{Gandhi's Personal Conviction}}}$: His unwavering commitment to non-violence meant he would rather stop the movement than see it turn violent — *Example: His belief that violence would undermine the moral basis of the struggle.*
+- *Conclusion:*
+  - While the withdrawal was criticized by Nehru and Bose, it preserved the moral integrity of the Gandhian struggle.
+
+### Q75. What were the impacts of Non-Cooperation movement?
+- *Intro:*
+  - The Non-Cooperation Movement (NCM) was a watershed moment that transformed the Indian freedom struggle into a truly mass-based, national movement.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Mass Mobilization}}}$: For the first time, millions of peasants, workers, students, and women participated — *Example: Over 30,000 people arrested.*
+  - $\color{#7be382}{\textsf{\textbf{Hindu-Muslim Unity}}}$: The Khilafat alliance forged unprecedented communal harmony — *Example: Joint protests and leadership by Gandhi and Ali Brothers.*
+  - $\color{#7be382}{\textsf{\textbf{Psychological Victory}}}$: Shattered the myth of British invincibility and instilled fearlessness — *Example: People openly defied British laws and authority.*
+  - $\color{#7be382}{\textsf{\textbf{Spread of Nationalism}}}$: Carried the message of Swaraj to the remotest villages — *Example: Congress committees formed at the village level.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Boycott}}}$: Severely impacted British trade and promoted indigenous industries — *Example: Sharp decline in imports of foreign cloth.*
+  - $\color{#7be382}{\textsf{\textbf{National Education}}}$: Led to the establishment of national schools and colleges — *Example: Founding of Jamia Millia Islamia and Kashi Vidyapeeth.*
+  - $\color{#7be382}{\textsf{\textbf{Legal System Boycott}}}$: Many lawyers gave up their practices to join the movement — *Example: Motilal Nehru and C.R. Das.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women}}}$: Women participated actively, breaking traditional barriers — *Example: Picketed liquor and foreign cloth shops.*
+  - $\color{#7be382}{\textsf{\textbf{Khadi Promotion}}}$: Became a symbol of self-reliance and national pride — *Example: Gandhi's emphasis on spinning the Charkha.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program}}}$: Focused on social reforms like fighting untouchability and promoting communal harmony — *Example: Gandhi's work for Harijan upliftment.*
+  - $\color{#7be382}{\textsf{\textbf{Shift in Congress Structure}}}$: Congress became a truly democratic and mass-based organization — *Example: Reorganization on a linguistic basis.*
+  - $\color{#7be382}{\textsf{\textbf{International Attention}}}$: Drew global attention to India's struggle for independence — *Example: Reports in international newspapers.*
+  - $\color{#7be382}{\textsf{\textbf{Rise of New Leadership}}}$: Brought a new generation of leaders to the forefront — *Example: Sardar Patel, Jawaharlal Nehru, Subhash Chandra Bose.*
+  - $\color{#7be382}{\textsf{\textbf{Increased Political Awareness}}}$: Educated the masses about their rights and the nature of colonial exploitation — *Example: Use of vernacular languages for communication.*
+  - $\color{#7be382}{\textsf{\textbf{Foundation for Future Movements}}}$: Laid the groundwork for subsequent mass movements like the Civil Disobedience Movement — *Example: Proving the efficacy of non-violent resistance.*
+- *Conclusion:*
+  - The NCM fundamentally altered the character of the Indian freedom struggle, making it a truly national and popular movement.
+
+### Q76. Describe the revolutionary activities between Non-Cooperation movement and Civil Disobedience movement.
+- *Intro:*
+  - The period between the NCM (1922) and CDM (1930) saw a resurgence of revolutionary activities, driven by disillusionment with non-violence and the desire for direct action.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Disillusionment with NCM}}}$: The abrupt withdrawal of the NCM left many youth frustrated with non-violence — *Example: Bhagat Singh's shift from Gandhian ideals.*
+  - $\color{#7be382}{\textsf{\textbf{Hindustan Republican Association (HRA)}}}$: Formed in 1924 to organize armed revolution — *Example: Founded by Ramprasad Bismil, Jogesh Chandra Chatterjee, and Sachindra Nath Sanyal.*
+  - $\color{#7be382}{\textsf{\textbf{Kakori Conspiracy (1925)}}}$: HRA members looted a train carrying government money — *Example: Ramprasad Bismil, Ashfaqullah Khan, and Roshan Singh were hanged.*
+  - $\color{#7be382}{\textsf{\textbf{Hindustan Socialist Republican Association (HSRA)}}}$: HRA was reorganized in 1928 with a socialist ideology — *Example: Bhagat Singh, Sukhdev, and Chandrashekhar Azad.*
+  - $\color{#7be382}{\textsf{\textbf{Lahore Conspiracy Case (1928)}}}$: Bhagat Singh and Batukeshwar Dutt bombed the Central Legislative Assembly — *Example: To protest the Public Safety Bill and Trade Disputes Bill.*
+  - $\color{#7be382}{\textsf{\textbf{Assassination of Saunders (1928)}}}$: Bhagat Singh and his associates killed a police officer to avenge Lala Lajpat Rai's death — *Example: A direct act of retaliation against British brutality.*
+  - $\color{#7be382}{\textsf{\textbf{Chittagong Armoury Raid (1930)}}}$: Surya Sen (Masterda) led a raid on the police and auxiliary forces armories — *Example: A large-scale attempt at armed insurrection.*
+  - $\color{#7be382}{\textsf{\textbf{Jatindra Nath Das's Fast}}}$: Died after a 63-day hunger strike in jail, protesting inhumane conditions — *Example: His martyrdom galvanized public opinion.*
+  - $\color{#7be382}{\textsf{\textbf{Women Revolutionaries}}}$: Active participation of women in revolutionary groups — *Example: Pritilata Waddedar and Kalpana Datta.*
+  - $\color{#7be382}{\textsf{\textbf{Propaganda through Bomb}}}$: Revolutionaries used bombs not just for destruction but for spreading their message — *Example: Leaflets thrown in the Assembly with the bomb.*
+  - $\color{#7be382}{\textsf{\textbf{Ideological Shift}}}$: From individual heroic acts to a more organized, socialist-inspired movement — *Example: HSRA's manifesto advocating for a socialist republic.*
+  - $\color{#7be382}{\textsf{\textbf{Global Connections}}}$: Revolutionaries sought inspiration and support from international socialist and communist movements — *Example: Bhagat Singh's study of Russian revolutionaries.*
+  - $\color{#7be382}{\textsf{\textbf{Impact on Youth}}}$: These acts deeply inspired the youth and created a sense of fearlessness against British rule — *Example: The widespread popularity of Bhagat Singh.*
+  - $\color{#7be382}{\textsf{\textbf{Government Repression}}}$: The British responded with severe measures, including special tribunals and executions — *Example: The hanging of Bhagat Singh, Sukhdev, and Rajguru.*
+  - $\color{#7be382}{\textsf{\textbf{Filling the Political Vacuum}}}$: In the absence of a major Gandhian movement, these activities kept the spirit of resistance alive — *Example: Providing an alternative to the Swarajist politics.*
+- *Conclusion:*
+  - This period of revolutionary activity, though ultimately suppressed, kept the flame of nationalism burning and radicalized a generation of youth.
+
+### Q77. What caused Civil Disobedience movement?
+- *Intro:*
+  - The Civil Disobedience Movement (CDM) was launched by Gandhi in 1930, marking a new phase of direct action against British rule, driven by unfulfilled demands and growing national impatience.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Lahore Congress (1929)}}}$: Passed the Purna Swaraj (complete independence) resolution — *Example: Jawaharlal Nehru's presidential address.*
+  - $\color{#7be382}{\textsf{\textbf{Gandhi's 11 Demands}}}$: Presented a list of demands to Viceroy Irwin, including abolition of salt tax and reduction in land revenue — *Example: Their rejection by the British.*
+  - $\color{#7be382}{\textsf{\textbf{Simon Commission (1927)}}}$: All-white commission to review constitutional reforms, boycotted by Indians — *Example: No Indian representation in the commission.*
+  - $\color{#7be382}{\textsf{\textbf{Nehru Report (1928)}}}$: India's attempt to draft its own constitution, rejected by the British — *Example: Demand for Dominion Status.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Depression (1929)}}}$: Global economic crisis severely impacted India, leading to widespread poverty and unemployment — *Example: Falling agricultural prices and increased tax burden.*
+  - $\color{#7be382}{\textsf{\textbf{Revolutionary Activity}}}$: The rise of HSRA and other groups indicated growing impatience with non-violent methods — *Example: The Lahore Conspiracy Case.*
+  - $\color{#7be382}{\textsf{\textbf{British Repression}}}$: Continued use of repressive laws and suppression of civil liberties — *Example: Arrests of nationalist leaders.*
+  - $\color{#7be382}{\textsf{\textbf{Gandhi's Strategic Vision}}}$: Believed the time was ripe for another mass movement after the NCM — *Example: His choice of the salt tax as a unifying issue.*
+  - $\color{#7be382}{\textsf{\textbf{Dandi March (1930)}}}$: The symbolic act of breaking the salt law marked the beginning of the CDM — *Example: Mobilized millions across the country.*
+  - $\color{#7be382}{\textsf{\textbf{Failure of Round Table Conferences}}}$: The British failed to offer any meaningful constitutional concessions — *Example: The first RTC was boycotted by Congress.*
+  - $\color{#7be382}{\textsf{\textbf{Inspiration from NCM}}}$: The success of the Non-Cooperation Movement provided a blueprint and confidence for a new mass struggle — *Example: Learning from past experiences of mass mobilization.*
+  - $\color{#7be382}{\textsf{\textbf{Youth Mobilization}}}$: Young leaders like Jawaharlal Nehru and Subhash Chandra Bose advocated for more radical action — *Example: Their influence on the Congress's left wing.*
+  - $\color{#7be382}{\textsf{\textbf{Global Anti-Imperialism}}}$: The worldwide anti-colonial sentiment provided a favorable international climate — *Example: Support from international socialist groups.*
+  - $\color{#7be382}{\textsf{\textbf{British Arrogance}}}$: The continued refusal of the British to acknowledge Indian aspirations for self-rule — *Example: The Viceroy's dismissive attitude towards Indian demands.*
+  - $\color{#7be382}{\textsf{\textbf{Desire for Complete Independence}}}$: The shift from Dominion Status to Purna Swaraj as the ultimate goal — *Example: The hoisting of the tricolor flag on January 26, 1930.*
+- *Conclusion:*
+  - The CDM was a direct challenge to British authority, born out of a combination of political frustration, economic hardship, and Gandhi's strategic genius.
+
+### Q78. What were the impacts of Civil Disobedience movement?
+- *Intro:*
+  - The Civil Disobedience Movement (CDM) was a powerful and widespread challenge to British rule, leaving a profound impact on the Indian freedom struggle.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Mass Participation}}}$: Involved millions across India, including women, peasants, tribals, and students — *Example: Over 90,000 people arrested during the movement.*
+  - $\color{#7be382}{\textsf{\textbf{International Recognition}}}$: Drew global attention to India's struggle and the injustice of British rule — *Example: Reports by American journalist Webb Miller on Dharasana Satyagraha.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women}}}$: Women participated in unprecedented numbers, breaking social barriers — *Example: Leading processions and picketing shops.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Impact}}}$: Boycott of British goods and non-payment of taxes severely hit British revenues — *Example: Decline in imports of foreign cloth and liquor.*
+  - $\color{#7be382}{\textsf{\textbf{Challenge to British Authority}}}$: Demonstrated that British laws could be openly defied on a mass scale — *Example: Widespread breaking of the salt law.*
+  - $\color{#7be382}{\textsf{\textbf{Rise of New Leaders}}}$: Brought a new generation of leaders to the forefront at local and national levels — *Example: Leaders like C. Rajagopalachari in the South.*
+  - $\color{#7be382}{\textsf{\textbf{Peasant Mobilization}}}$: Involved large-scale no-tax campaigns and forest satyagrahas — *Example: Non-payment of land revenue in Bardoli and other areas.*
+  - $\color{#7be382}{\textsf{\textbf{Tribal Participation}}}$: Tribals joined the movement, protesting forest laws — *Example: Forest Satyagrahas in Central Provinces.*
+  - $\color{#7be382}{\textsf{\textbf{Government of India Act 1935}}}$: Though not directly a result, the CDM's pressure contributed to the constitutional reforms — *Example: Increased provincial autonomy.*
+  - $\color{#7be382}{\textsf{\textbf{Gandhi-Irwin Pact (1931)}}}$: Forced the British to negotiate with Gandhi as an equal — *Example: Release of political prisoners and withdrawal of ordinances.*
+  - $\color{#7be382}{\textsf{\textbf{Psychological Impact}}}$: Instilled a sense of fearlessness and self-confidence among Indians — *Example: The belief that independence was achievable.*
+  - $\color{#7be382}{\textsf{\textbf{Communal Divide Deepened}}}$: While initially unifying, the movement's later phases saw growing communal tensions — *Example: Muslim League's growing demand for separate identity.*
+  - $\color{#7be382}{\textsf{\textbf{Increased Political Awareness}}}$: Educated the masses about their rights and the goal of Purna Swaraj — *Example: Widespread use of vernacular propaganda.*
+  - $\color{#7be382}{\textsf{\textbf{Shift in British Policy}}}$: Forced the British to acknowledge the strength of Indian nationalism and consider transfer of power — *Example: The Round Table Conferences.*
+  - $\color{#7be382}{\textsf{\textbf{Foundation for Future Movements}}}$: Laid the groundwork for the Quit India Movement and the final push for independence — *Example: The experience of sustained mass civil disobedience.*
+- *Conclusion:*
+  - The CDM was a powerful demonstration of India's resolve for complete independence, leaving an indelible mark on the freedom struggle.
+
+### Q79. Was Non-Cooperation movement a failure or success?
+- *Intro:*
+  - The Non-Cooperation Movement (NCM) was a complex phenomenon, often debated as a "failure" due to its abrupt withdrawal, but a "success" in its transformative impact on the freedom struggle.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Immediate Goals Unmet (Failure)}}}$: Did not achieve "Swaraj within one year" as promised by Gandhi — *Example: British rule continued unabated.*
+  - $\color{#7be382}{\textsf{\textbf{Abrupt Withdrawal (Failure)}}}$: Ended due to the Chauri Chaura incident, leading to disillusionment among some — *Example: Criticism from leaders like Subhash Chandra Bose.*
+  - $\color{#7be382}{\textsf{\textbf{Limited Impact on British Economy (Partial Failure)}}}$: While imports fell, the British economy was not crippled — *Example: British managed to find alternative markets.*
+  - $\color{#7be382}{\textsf{\textbf{Communal Tensions (Partial Failure)}}}$: The initial Hindu-Muslim unity began to fray in later stages — *Example: The Moplah Rebellion's communal turn.*
+  - $\color{#7be382}{\textsf{\textbf{Mass Mobilization (Success)}}}$: Transformed Congress into a mass organization, drawing millions into the struggle — *Example: Participation of peasants, workers, and women.*
+  - $\color{#7be382}{\textsf{\textbf{Psychological Victory (Success)}}}$: Instilled fearlessness and self-confidence among Indians, shattering British prestige — *Example: People openly defied British authority.*
+  - $\color{#7be382}{\textsf{\textbf{Hindu-Muslim Unity (Initial Success)}}}$: Forged unprecedented communal harmony, though temporary — *Example: Joint protests during the Khilafat movement.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Boycott (Success)}}}$: Significantly impacted British trade and promoted indigenous industries — *Example: Decline in foreign cloth imports by nearly 50%.*
+  - $\color{#7be382}{\textsf{\textbf{National Education (Success)}}}$: Led to the establishment of alternative educational institutions — *Example: Founding of Jamia Millia Islamia.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women (Success)}}}$: Women participated actively, breaking traditional barriers — *Example: Their role in picketing and processions.*
+  - $\color{#7be382}{\textsf{\textbf{Khadi Promotion (Success)}}}$: Became a powerful symbol of self-reliance and national pride — *Example: Widespread adoption of hand-spun cloth.*
+  - $\color{#7be382}{\textsf{\textbf{Constructive Program (Success)}}}$: Focused on social reforms, laying groundwork for future social change — *Example: Campaigns against untouchability.*
+  - $\color{#7be382}{\textsf{\textbf{Shift in Congress Structure (Success)}}}$: Congress became more democratic and representative of the masses — *Example: Reorganization on a linguistic basis.*
+  - $\color{#7be382}{\textsf{\textbf{International Attention (Success)}}}$: Drew global attention to India's freedom struggle — *Example: Reports in international media.*
+  - $\color{#7be382}{\textsf{\textbf{Foundation for Future Movements (Success)}}}$: Laid the psychological and organizational groundwork for subsequent mass movements — *Example: Paving the way for the Civil Disobedience Movement.*
+- *Conclusion:*
+  - The NCM was a strategic success that fundamentally altered the character of the Indian freedom struggle, despite its tactical shortcomings.
+
+### Q80. Was Civil disobedience movement a failure or success?
+- *Intro:*
+  - The Civil Disobedience Movement (CDM) was a prolonged and intense struggle, which, despite not achieving immediate independence, profoundly impacted the trajectory of the freedom movement.
+- *Body:*
+  - $\color{#7be382}{\textsf{\textbf{Immediate Independence Unmet (Failure)}}}$: The primary goal of Purna Swaraj was not achieved immediately — *Example: British rule continued after the movement's withdrawal.*
+  - $\color{#7be382}{\textsf{\textbf{Limited Concessions (Failure)}}}$: The Gandhi-Irwin Pact and Round Table Conferences yielded no major constitutional breakthroughs — *Example: British refusal to grant Dominion Status.*
+  - $\color{#7be382}{\textsf{\textbf{Communal Divide Deepened (Partial Failure)}}}$: The movement's later phases saw growing communal tensions and the Communal Award — *Example: Muslim League's increasing alienation from Congress.*
+  - $\color{#7be382}{\textsf{\textbf{Suppression by British (Partial Failure)}}}$: The British used severe repression, leading to many arrests and deaths — *Example: Over 90,000 arrests and widespread lathi charges.*
+  - $\color{#7be382}{\textsf{\textbf{Mass Mobilization (Success)}}}$: Involved unprecedented numbers of people from all sections of society — *Example: Women, peasants, and tribals participated actively.*
+  - $\color{#7be382}{\textsf{\textbf{International Recognition (Success)}}}$: Drew global attention and sympathy for India's cause — *Example: Webb Miller's reports on Dharasana Satyagraha.*
+  - $\color{#7be382}{\textsf{\textbf{Empowerment of Women (Success)}}}$: Women's participation broke traditional barriers and boosted their confidence — *Example: Leading processions and picketing.*
+  - $\color{#7be382}{\textsf{\textbf{Economic Impact (Success)}}}$: Boycott of British goods and non-payment of taxes severely hit British revenues — *Example: Significant drop in imports of foreign cloth.*
+  - $\color{#7be382}{\textsf{\textbf{Challenge to British Authority (Success)}}}$: Demonstrated that British laws could be openly defied on a mass scale — *Example: Widespread breaking of the salt law.*
+  - $\color{#7be382}{\textsf{\textbf{Rise of New Leaders (Success)}}}$: Brought a new generation of leaders to the forefront at local and national levels — *Example: Leaders like C. Rajagopalachari and Khan Abdul Ghaffar Khan.*
+  - $\color{#7be382}{\textsf{\textbf{Psychological Impact (Success)}}}$: Instilled a sense of fearlessness and self-confidence among Indians — *Example: The belief that independence was achievable.*
+  - $\color{#7be382}{\textsf{\textbf{Government of India Act 1935 (Indirect Success)}}}$: The pressure from CDM contributed to the constitutional reforms, though inadequate — *Example: Increased provincial autonomy.*
+  - $\color{#7be382}{\textsf{\textbf{Shift in British Policy (Success)}}}$: Forced the British to acknowledge the strength of Indian nationalism and consider transfer of power — *Example: The Round Table Conferences.*
+  - $\color{#7be382}{\textsf{\textbf{Increased Political Awareness (Success)}}}$: Educated the masses about their rights and the goal of Purna Swaraj — *Example: Widespread use of vernacular propaganda.*
+  - $\color{#7be382}{\textsf{\textbf{Foundation for Future Movements (Success)}}}$: Laid the groundwork for the Quit India Movement and the final push for independence — *Example: The experience of sustained mass civil disobedience.*
+- *Conclusion:*
+  - The CDM was a strategic success that fundamentally weakened British authority and strengthened the resolve of the Indian people for complete independence.

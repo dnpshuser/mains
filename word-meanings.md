@@ -62,6 +62,9 @@
 - A wedge is a triangular-shaped object or tool with one thick end and a pointed, sloping edge
 - A deterrent is something that discourages or prevents someone from taking an action
 - Gubernatorial is an adjective meaning relating to a state governor
+- transcend: to go further than the usual limits of something
+- A watershed moment is a decisive turning point that permanently changes the direction of a situation, process, or period of history
+
 
 
 
