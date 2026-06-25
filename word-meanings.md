@@ -64,8 +64,54 @@
 - Gubernatorial is an adjective meaning relating to a state governor
 - transcend: to go further than the usual limits of something
 - A watershed moment is a decisive turning point that permanently changes the direction of a situation, process, or period of history
+- intrinsic: belonging to something as part of its nature; basic
+- smear: a dirty mark made by spreading a substance across something
+- Proliferation: त्वरित संख्या-वृद्धि संख्या में तेज़ी से बढ़ोतरी बहुजनन प्रफलन
+- affluence: समृद्धि अमीरी
+- shortfall: the amount by which something is less than you need or expect
+- prudent: sensible and careful when making judgements and decisions; avoiding unnecessary risks
+- profligacy: the trait of spending extravagantly
+- diagnostic: connected with finding out exactly what a problem is and what caused it, especially an illness
+- streamlined: सरल और अधिक कारगर
+- colloquial: (used about words, phrases, etc.) used in spoken conversation, not in formal situations
+- profound: very great; that you feel very strongly अत्यधिक प्रबल मन को अत्यधिक प्रभावित करने वाला हार्दिक,very deep, intense, or having a significant impact.
+- formidable: difficult to deal with, needing a lot of effort
+- barring: except
+- foster: to help or encourage the development of something (especially feelings or ideas)
+- Disruption is the interruption of a process, system, or event, preventing it from continuing normally.
+- panacea: something that will cure all diseases or solve all problems and difficulties; a universal remedy
+- Efficacy refers to the ability or capacity of something—like a drug, treatment, or action—to produce a desired result or intended effect
+- Gullible: (used about a person) believing and trusting people too easily, and therefore easily tricked
+- erratic: changing without reason; that you can never be sure of
+- contend with: to have to deal with a problem or a difficult situation
+- impede: to make it difficult for somebody/something to move or go forward
+- expedite: to make something happen more quickly
+- An impediment is an obstacle or hindrance that slows, blocks, or makes progress more difficult. 
+- pivotal means extremely important because other things depend on it. It is the turning point or the "make or break" factor in a situation
+- logistics: the business of transporting, supplying and delivering goods
+- "Duping" is the present participle of the verb "dupe," which means to deceive, trick, or fool someone, usually to take advantage of them
 
 
+
+
+
+
+
+
+
+- penal
+- Leverage
+- Budget 2022-2023
+- footfall 
+- deter 
+- Samagra Shiksha
+- pragmatic: dealing with problems in a practical way rather than by following ideas or principles
+- Coercion: बाध्यकारिता ज़ोर-ज़बरदस्ती
+- prudence
+- outlay: money that is spent, especially in order to start a business or project
+- In Budget 2025–26, ₹4.49 lakh crore was allocated under the Gender Budget Statement, is this allocation only goes to women development ?
+- 
+ 
 
 
 
