@@ -90,6 +90,14 @@
 - pivotal means extremely important because other things depend on it. It is the turning point or the "make or break" factor in a situation
 - logistics: the business of transporting, supplying and delivering goods
 - "Duping" is the present participle of the verb "dupe," which means to deceive, trick, or fool someone, usually to take advantage of them
+- A guzzler is a person or thing that consumes large quantities of something greedily.
+- implications: the effect that something will have on something else in the future
+- vagaries: unexpected changes in a situation or a person’s behaviour that cannot be controlled or predicted
+-  "hardy" and "drought-resistant" describe a plant or organism that is incredibly tough, capable of surviving extreme weather, and can thrive with very little water
+- hinges: To depend on or be completely contingent upon
+- Exotic : unusual or interesting because it comes from a different country or culture
+
+
 
 
 
