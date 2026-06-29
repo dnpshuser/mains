@@ -200,12 +200,12 @@
     3.  **Increased Transparency:** The mandatory submission of fiscal policy statements to Parliament has improved transparency in fiscal management.
     4.  **Curbed RBI Monetization:** It has effectively stopped the automatic monetization of deficits, strengthening the RBI's independence.
 *   **Failures and Limitations:**
-    5.  **Frequent Postponement of Targets:** The targets have been repeatedly postponed and "paused" due to events like the global financial crisis and the COVID-19 pandemic.
-    6.  **Use of 'Escape Clause':** The escape clause has been invoked, allowing the government to deviate from the consolidation path.
-    7.  **Off-Budget Borrowings:** The government has often resorted to off-budget borrowings (e.g., through PSUs) to finance expenditure, which are not reflected in the fiscal deficit numbers.
-    8.  **Focus on Deficit, Not Expenditure Quality:** The Act focuses on deficit numbers, sometimes leading to cuts in essential capital and social expenditure to meet targets.
-    9.  **Ambitious Targets:** Critics argue that the targets were often too rigid and did not provide enough flexibility for a developing economy.
-    10. **Debt-to-GDP Ratio:** The combined debt-to-GDP ratio remains high, well above the recommended 60% target.
+    1.  **Frequent Postponement of Targets:** The targets have been repeatedly postponed and "paused" due to events like the global financial crisis and the COVID-19 pandemic.
+    2.  **Use of 'Escape Clause':** The escape clause has been invoked, allowing the government to deviate from the consolidation path.
+    3.  **Off-Budget Borrowings:** The government has often resorted to off-budget borrowings (e.g., through PSUs) to finance expenditure, which are not reflected in the fiscal deficit numbers.
+    4.  **Focus on Deficit, Not Expenditure Quality:** The Act focuses on deficit numbers, sometimes leading to cuts in essential capital and social expenditure to meet targets.
+    5.  **Ambitious Targets:** Critics argue that the targets were often too rigid and did not provide enough flexibility for a developing economy.
+    6. **Debt-to-GDP Ratio:** The combined debt-to-GDP ratio remains high, well above the recommended 60% target.
 
 **CONCLUSION:** The FRBM Act provides a crucial institutional anchor for fiscal discipline, but its success depends on a realistic consolidation path and a firm commitment to transparency.
 
@@ -220,14 +220,14 @@
     2.  **Impact:** Revenue expenditure is for the normal running of government departments and services (e.g., salaries, subsidies), while capital expenditure is for creating long-term assets (e.g., roads, hospitals).
 
 *   **Components of Revenue Budget:**
-    3.  **Revenue Receipts - Tax Revenue:** Includes direct taxes (income tax, corporate tax) and indirect taxes (GST, customs duty).
-    4.  **Revenue Receipts - Non-Tax Revenue:** Includes interest receipts on loans, dividends from PSUs, and fees for government services.
-    5.  **Revenue Expenditure:** Includes interest payments, defence services expenditure, subsidies (food, fertilizer), and salaries/pensions.
+    1.  **Revenue Receipts - Tax Revenue:** Includes direct taxes (income tax, corporate tax) and indirect taxes (GST, customs duty).
+    2.  **Revenue Receipts - Non-Tax Revenue:** Includes interest receipts on loans, dividends from PSUs, and fees for government services.
+    3.  **Revenue Expenditure:** Includes interest payments, defence services expenditure, subsidies (food, fertilizer), and salaries/pensions.
 
 *   **Components of Capital Budget:**
-    6.  **Capital Receipts - Debt-Creating:** Includes market borrowings, loans from foreign governments, and RBI.
-    7.  **Capital Receipts - Non-Debt Creating:** Includes recovery of loans and proceeds from disinvestment of PSUs.
-    8.  **Capital Expenditure:** Includes expenditure on creating assets like roads, bridges, schools, hospitals, and loans given to states and PSUs.
+    1.  **Capital Receipts - Debt-Creating:** Includes market borrowings, loans from foreign governments, and RBI.
+    2.  **Capital Receipts - Non-Debt Creating:** Includes recovery of loans and proceeds from disinvestment of PSUs.
+    3.  **Capital Expenditure:** Includes expenditure on creating assets like roads, bridges, schools, hospitals, and loans given to states and PSUs.
 
 **CONCLUSION:** A healthy budget is characterized by a low revenue deficit and high capital expenditure, as the latter has a higher multiplier effect and boosts long-term economic growth.
 
@@ -246,11 +246,11 @@
     6.  **Monitoring and Auditing:** Regular monitoring and gender audits to assess the outcomes of the expenditure.
 
 *   **Status in India:**
-    7.  **Introduction:** India formally adopted gender budgeting in 2005-06 with the introduction of a Gender Budget Statement in the Union Budget.
-    8.  **Two-Part Statement:** The statement has two parts: Part A reflects schemes with 100% allocation for women (e.g., Beti Bachao Beti Padhao), and Part B reflects schemes with at least 30% allocation for women.
-    9.  **Low Allocation:** The allocation for gender budget has remained stagnant at around 5% of the total budget, with a very small portion (less than 1%) being 100% for women.
-    10. **Focus on Welfare, Not Empowerment:** Many schemes included are welfare-oriented rather than focusing on women's economic and political empowerment.
-    11. **Lack of Outcome-Based Analysis:** The exercise is often limited to tracking allocations rather than analyzing the actual outcomes and impact on gender equality.
+    1.  **Introduction:** India formally adopted gender budgeting in 2005-06 with the introduction of a Gender Budget Statement in the Union Budget.
+    2.  **Two-Part Statement:** The statement has two parts: Part A reflects schemes with 100% allocation for women (e.g., Beti Bachao Beti Padhao), and Part B reflects schemes with at least 30% allocation for women.
+    3.  **Low Allocation:** The allocation for gender budget has remained stagnant at around 5% of the total budget, with a very small portion (less than 1%) being 100% for women.
+    4. **Focus on Welfare, Not Empowerment:** Many schemes included are welfare-oriented rather than focusing on women's economic and political empowerment.
+    5. **Lack of Outcome-Based Analysis:** The exercise is often limited to tracking allocations rather than analyzing the actual outcomes and impact on gender equality.
 
 **CONCLUSION:** While India was a pioneer in adopting gender budgeting, it needs to move from a mere accounting exercise to a genuine tool for promoting gender equality through outcome-based analysis and increased allocations.
 
@@ -285,13 +285,13 @@
     3.  **Benchmark for Corporates:** A sovereign bond can act as a benchmark for Indian corporates looking to borrow abroad.
 
 *   **Apprehensions (Risks and Concerns):**
-    4.  **Currency Risk:** The government is exposed to exchange rate fluctuations. A depreciation of the rupee would increase the debt burden in rupee terms.
-    5.  **Loss of Monetary Policy Autonomy:** It can make the economy more vulnerable to the monetary policy decisions of other countries (e.g., the US Federal Reserve).
-    6.  **Capital Flight Risk:** In times of crisis, it can trigger sudden capital outflows as foreign investors pull out, leading to financial instability.
-    7.  **No Compulsion:** India has a high domestic savings rate and a deep domestic bond market, so there is no immediate compulsion to borrow externally.
-    8.  **Impact on Sovereignty:** It can expose the country to the influence of foreign creditors and international financial institutions.
-    9.  **Historical Precedent:** India has traditionally avoided this path to maintain macroeconomic stability and self-reliance, a policy that has served it well.
-    10. **Interest Rate Risk:** A rise in global interest rates would increase the cost of servicing this external debt.
+    1.  **Currency Risk:** The government is exposed to exchange rate fluctuations. A depreciation of the rupee would increase the debt burden in rupee terms.
+    2.  **Loss of Monetary Policy Autonomy:** It can make the economy more vulnerable to the monetary policy decisions of other countries (e.g., the US Federal Reserve).
+    3.  **Capital Flight Risk:** In times of crisis, it can trigger sudden capital outflows as foreign investors pull out, leading to financial instability.
+    4.  **No Compulsion:** India has a high domestic savings rate and a deep domestic bond market, so there is no immediate compulsion to borrow externally.
+    5.  **Impact on Sovereignty:** It can expose the country to the influence of foreign creditors and international financial institutions.
+    6.  **Historical Precedent:** India has traditionally avoided this path to maintain macroeconomic stability and self-reliance, a policy that has served it well.
+    7. **Interest Rate Risk:** A rise in global interest rates would increase the cost of servicing this external debt.
 
 **CONCLUSION:** Given the significant currency and sovereignty risks, the apprehensions surrounding external sovereign borrowing in foreign currency are valid. India should continue to rely on its strong domestic savings pool for its financing needs.
 
@@ -366,11 +366,11 @@
     5.  **Political Tool:** The demand is often used as a political tool to mobilize public sentiment and pressure the central government.
 
 *   **Critical Examination (Arguments Against Granting SCS):**
-    6.  **Abolition by 14th FC:** The 14th Finance Commission recommended that no state be granted SCS, instead increasing the overall tax devolution to all states to 42%.
-    7.  **Fiscal Burden on Centre:** Granting SCS to more states would impose a huge and unsustainable financial burden on the central government.
-    8.  **Opens a Pandora's Box:** Acceding to the demand of one state would lead to similar demands from many other states, making it politically and fiscally unmanageable.
-    9.  **Alternative Mechanisms Exist:** The Centre can provide special financial packages or grants to address the specific needs of a state without granting SCS.
-    10. **Distorts Federal Balance:** It creates a distinction between states and can be seen as undermining the principle of cooperative federalism.
+    1.  **Abolition by 14th FC:** The 14th Finance Commission recommended that no state be granted SCS, instead increasing the overall tax devolution to all states to 42%.
+    2.  **Fiscal Burden on Centre:** Granting SCS to more states would impose a huge and unsustainable financial burden on the central government.
+    3.  **Opens a Pandora's Box:** Acceding to the demand of one state would lead to similar demands from many other states, making it politically and fiscally unmanageable.
+    4.  **Alternative Mechanisms Exist:** The Centre can provide special financial packages or grants to address the specific needs of a state without granting SCS.
+    5. **Distorts Federal Balance:** It creates a distinction between states and can be seen as undermining the principle of cooperative federalism.
 
 **CONCLUSION:** While the demands of states for special assistance to address their unique challenges are legitimate, granting Special Category Status is no longer a viable option. The focus should be on targeted central assistance and higher tax devolution as recommended by the Finance Commission.
 

@@ -243,16 +243,16 @@
     4.  **Livelihood and Commerce:** Many professions, businesses, and livelihoods are now dependent on the internet. A shutdown affects the right to practice any profession (Article 19) and the right to livelihood (Article 21).
     5.  **Access to Information and Services:** Citizens rely on the internet to access government services, banking, and essential information.
 *   **Implications of the Judgement:**
-    6.  **Proportionality Test:** Any restriction on internet access must be temporary, limited in scope, lawful, necessary, and proportionate.
-    7.  **No Indefinite Shutdowns:** The judgment prohibits the state from imposing indefinite internet shutdowns. All suspension orders must be periodically reviewed.
-    8.  **Judicial Scrutiny:** It empowers citizens to challenge arbitrary internet shutdowns in court, making the executive more accountable.
-    9.  **Promotes Digital Rights:** It solidifies the legal foundation for digital rights in India, placing them on par with other fundamental rights.
-    10. **Positive Obligation on the State:** It implies that the state has a positive duty to facilitate and expand internet access to all citizens to bridge the digital divide.
-    11. **Impact on Law Enforcement:** While acknowledging national security concerns, it forces law enforcement agencies to find less restrictive means to maintain order than blanket shutdowns.
-    12. **Transparency Mandate:** The Court mandated that all orders imposing internet shutdowns must be made public.
-    13. **Strengthens Freedom of Press:** Upholds the right of journalists to report freely using the internet, especially in conflict zones.
-    14. **Economic Impact:** By restricting arbitrary shutdowns, it helps prevent economic losses for businesses that rely on the internet.
-    15. **Global Precedent:** Sets a strong precedent for other democracies grappling with the issue of internet shutdowns and digital rights.
+    1.  **Proportionality Test:** Any restriction on internet access must be temporary, limited in scope, lawful, necessary, and proportionate.
+    2.  **No Indefinite Shutdowns:** The judgment prohibits the state from imposing indefinite internet shutdowns. All suspension orders must be periodically reviewed.
+    3.  **Judicial Scrutiny:** It empowers citizens to challenge arbitrary internet shutdowns in court, making the executive more accountable.
+    4.  **Promotes Digital Rights:** It solidifies the legal foundation for digital rights in India, placing them on par with other fundamental rights.
+    5. **Positive Obligation on the State:** It implies that the state has a positive duty to facilitate and expand internet access to all citizens to bridge the digital divide.
+    6. **Impact on Law Enforcement:** While acknowledging national security concerns, it forces law enforcement agencies to find less restrictive means to maintain order than blanket shutdowns.
+    7. **Transparency Mandate:** The Court mandated that all orders imposing internet shutdowns must be made public.
+    8. **Strengthens Freedom of Press:** Upholds the right of journalists to report freely using the internet, especially in conflict zones.
+    9. **Economic Impact:** By restricting arbitrary shutdowns, it helps prevent economic losses for businesses that rely on the internet.
+    10. **Global Precedent:** Sets a strong precedent for other democracies grappling with the issue of internet shutdowns and digital rights.
 **CONCLUSION:** The Supreme Court's judgment is a monumental step in adapting fundamental rights to the digital era. It establishes a crucial check on executive power and reinforces the principle that access to the internet is essential for a meaningful and dignified life in the 21st century.
 
 ---
