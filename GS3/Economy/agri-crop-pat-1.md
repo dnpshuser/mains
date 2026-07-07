@@ -1,4 +1,4 @@
-### Q. What is the cropping pattern of wheat in India ?
+### Q1. What is the cropping pattern of wheat in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -18,7 +18,7 @@
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
 
-### Q. What is the cropping pattern of rice in India ?
+### Q2. What is the cropping pattern of rice in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -38,7 +38,7 @@
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
 
-### Q. What is the cropping pattern of sugarcane in India ?
+### Q3. What is the cropping pattern of sugarcane in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -52,7 +52,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What is the cropping pattern of pulses in India ?
+### Q4. What is the cropping pattern of pulses in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -66,7 +66,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What is the cropping pattern of millets in India ?
+### Q5. What is the cropping pattern of millets in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -80,7 +80,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What is the cropping pattern of cotton in India ?
+### Q6. What is the cropping pattern of cotton in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -94,7 +94,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What are the challenges of cropping pattern in India ?
+### Q7. What are the challenges of cropping pattern in India ?
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -108,7 +108,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What are the government schemes in related to crop production in India ?
+### Q8. What are the government schemes in related to crop production in India ?
 
 **INTRO:** To enhance agricultural productivity and ensure farmer welfare, the Government of India has launched several schemes focusing on inputs, risk mitigation, and income support. These initiatives aim to create a sustainable and profitable agricultural sector.
 
@@ -122,7 +122,7 @@
 
 **CONCLUSION:** The success of these schemes hinges on effective implementation, last-mile delivery, and creating awareness among farmers to achieve the goal of doubling farmers' income.
 
-### Q. What are the factors influencing cropping pattern in India ? [answer in 10 points]
+### Q9. What are the factors influencing cropping pattern in India ? [answer in 10 points]
 
 **INTRO:** Cropping pattern refers to the proportion of land under different crops at a point in time, reflecting the agricultural landscape of a region. Influenced by geographical, economic, and policy factors, India's cropping patterns are shifting, with significant implications for food security and environmental sustainability.
 
@@ -141,7 +141,7 @@
 
 **CONCLUSION:** Therefore, promoting sustainable and diversified cropping patterns through policy support, technological intervention, and market linkages is essential for ensuring farmer welfare and ecological balance.
 
-### Q. What are the benefits of crop diversification ?
+### Q10. What are the benefits of crop diversification ?
 
 **INTRO:** Crop diversification refers to the strategy of growing a variety of crops on a farm or in a region, moving away from monoculture. It is a critical pathway towards increasing farmer income, ensuring food security, and promoting environmental sustainability.
 
@@ -156,7 +156,7 @@
 **CONCLUSION:** Hence, crop diversification is a key strategy for making Indian agriculture more resilient, profitable, and sustainable in the face of climate change and market uncertainties.
 
 
-### Q. What are the harmful effects of monoculture ?
+### Q11. What are the harmful effects of monoculture ?
 
 **INTRO:** Monoculture is the agricultural practice of growing a single crop year after year on the same land. While it can offer economies of scale, its long-term practice leads to severe ecological and economic consequences.
 
@@ -171,7 +171,7 @@
 **CONCLUSION:** Therefore, moving away from monoculture towards diversified and integrated farming systems is imperative for the long-term health of India's agriculture and environment.
 
 
-### Q. What are the benefits of millet cultivation in India ?
+### Q12. What are the benefits of millet cultivation in India ?
 
 **INTRO:** Millets, often called "nutri-cereals," are a group of small-seeded grasses that are climate-resilient and highly nutritious. With the UN declaring 2023 as the International Year of Millets, India, as the world's largest producer, is spearheading a revival of these ancient grains to address food security, nutrition, and climate change.
 
@@ -189,7 +189,7 @@
 
 **CONCLUSION:** Therefore, by mainstreaming millets through a mission-mode approach, India can build a sustainable and nutritious food system for the future, empowering its farmers and nourishing its people.
 
-### Q. What are the challenges of millet cultivation in India ?
+### Q13. What are the challenges of millet cultivation in India ?
 
 **INTRO:** Millets, often called "nutri-cereals," are a group of small-seeded grasses that are climate-resilient and highly nutritious. With the UN declaring 2023 as the International Year of Millets, India, as the world's largest producer, is spearheading a revival of these ancient grains to address food security, nutrition, and climate change.
 
@@ -207,7 +207,7 @@
 
 **CONCLUSION:** Therefore, by mainstreaming millets through a mission-mode approach, India can build a sustainable and nutritious food system for the future, empowering its farmers and nourishing its people.
 
-### Q. What are the government initiatives for improving millet cultivation in India ?
+### Q14. What are the government initiatives for improving millet cultivation in India ?
 
 **INTRO:** Millets, often called "nutri-cereals," are a group of small-seeded grasses that are climate-resilient and highly nutritious. With the UN declaring 2023 as the International Year of Millets, India, as the world's largest producer, is spearheading a revival of these ancient grains to address food security, nutrition, and climate change.
 
@@ -225,7 +225,7 @@
 
 **CONCLUSION:** Therefore, by mainstreaming millets through a mission-mode approach, India can build a sustainable and nutritious food system for the future, empowering its farmers and nourishing its people.
 
-### Q. Suggest improvements to millet cultivation in India.
+### Q15. Suggest improvements to millet cultivation in India.
 
 **INTRO:** Millets, often called "nutri-cereals," are a group of small-seeded grasses that are climate-resilient and highly nutritious. With the UN declaring 2023 as the International Year of Millets, India, as the world's largest producer, is spearheading a revival of these ancient grains to address food security, nutrition, and climate change.
 
@@ -243,7 +243,7 @@
 
 **CONCLUSION:** Therefore, by mainstreaming millets through a mission-mode approach, India can build a sustainable and nutritious food system for the future, empowering its farmers and nourishing its people.
 
-### Q. How cropping pattern has changed in India with rising consumerism ?
+### Q16. How cropping pattern has changed in India with rising consumerism ?
 
 **INTRO:** Cropping patterns, the proportion of land under different crops at a point in time, are increasingly influenced by market demand and consumer preferences. Rising consumerism, driven by higher incomes and urbanization, is shifting agricultural production from traditional staples towards high-value commercial crops.
 
@@ -261,7 +261,7 @@
 
 **CONCLUSION:** This consumer-driven shift, while potentially increasing farm incomes, also poses challenges like resource degradation and market volatility, necessitating a balanced policy approach.
 
-### Q. What are the importance of millet cultivation in India ?
+### Q17. What are the importance of millet cultivation in India ?
 
 **INTRO:** Millets, often called "nutri-cereals," are a group of small-seeded grasses that are climate-resilient and highly nutritious. With the UN declaring 2023 as the International Year of Millets, India, as the world's largest producer, is spearheading a revival of these ancient grains to address food security, nutrition, and climate change.
 
@@ -279,7 +279,7 @@
 
 **CONCLUSION:** Therefore, by mainstreaming millets through a mission-mode approach, India can build a sustainable and nutritious food system for the future, empowering its farmers and nourishing its people.
 
-### Q. What are the importance of horticulture in India ?
+### Q18. What are the importance of horticulture in India ?
 
 **INTRO:** Horticulture, the science and art of cultivating fruits, vegetables, flowers, and ornamental plants, is a vital and rapidly growing sub-sector of Indian agriculture. India is the second-largest producer of fruits and vegetables globally, with the sector contributing about 33% to the agriculture Gross Value Added (GVA).
 
@@ -297,7 +297,7 @@
 
 **CONCLUSION:** Thus, promoting horticulture through infrastructure development and market linkages is crucial for enhancing farmer incomes, ensuring nutritional security, and achieving sustainable agricultural growth.
 
-### Q. What are the challenges of horticulture cultivation in India ?
+### Q19. What are the challenges of horticulture cultivation in India ?
 
 **INTRO:** Horticulture, the science and art of cultivating fruits, vegetables, flowers, and ornamental plants, is a vital and rapidly growing sub-sector of Indian agriculture. India is the second-largest producer of fruits and vegetables globally, with the sector contributing about 33% to the agriculture Gross Value Added (GVA).
 
@@ -315,7 +315,7 @@
 
 **CONCLUSION:** Thus, promoting horticulture through infrastructure development and market linkages is crucial for enhancing farmer incomes, ensuring nutritional security, and achieving sustainable agricultural growth.
 
-### Q. What are the importance of crop insurrance in India ?
+### Q20. What are the importance of crop insurrance in India ?
 
 **INTRO:** Crop insurance is a crucial risk mitigation tool designed to protect farmers from financial losses arising from crop failure due to natural calamities, pests, or diseases. Schemes like the Pradhan Mantri Fasal Bima Yojana (PMFBY) aim to stabilize farm incomes and encourage agricultural investment.
 
@@ -333,7 +333,7 @@
 
 **CONCLUSION:** Therefore, strengthening the crop insurance ecosystem through technology and timely claim settlement is essential for building a climate-resilient and economically viable agricultural sector.
 
-### Q. What are the challenges of crop insurrance in India ?
+### Q21. What are the challenges of crop insurrance in India ?
 
 **INTRO:** Crop insurance is a crucial risk mitigation tool designed to protect farmers from financial losses arising from crop failure due to natural calamities, pests, or diseases. Schemes like the Pradhan Mantri Fasal Bima Yojana (PMFBY) aim to stabilize farm incomes and encourage agricultural investment.
 

@@ -96,6 +96,45 @@
 -  "hardy" and "drought-resistant" describe a plant or organism that is incredibly tough, capable of surviving extreme weather, and can thrive with very little water
 - hinges: To depend on or be completely contingent upon
 - Exotic : unusual or interesting because it comes from a different country or culture
+- sparingly: किफ़ायत से
+- "Ranting" is the act of speaking or writing in a loud, angry, and often repetitive or uncontrolled way
+- rhetorical is an adjective used to describe speech or writing that is intended to influence, persuade, or impress an audience, rather than simply to communicate straightforward facts
+- Grim generally means extremely serious, unpleasing, or depressing
+- decile: 10% 
+- nuanced means to possess or display subtle, fine distinctions in meaning, tone, or perspective
+- cynic: a person who believes that people only do things for themselves, rather than to help others
+- zealot: a person who is very enthusiastic and has strong beliefs, especially about religion and politics
+- humility: the quality of not thinking that you are better than other people
+- dogma: a belief or set of beliefs that people are expected to accept as true without questioning
+- soar: to fly high in the air, to rise very fast.
+- Dissonance generally refers to a lack of harmony, agreement, or consistency.
+- grave: bad or serious
+- "Pervasive" means something is present, noticeable, or felt throughout every part of a place or thing.
+- reconcile: to find a way of dealing with two ideas, situations, statements, etc. that seem to be opposite to each other
+- imperative: absolutely necessary or required; unavoidable
+- deter: to make somebody decide not to do something, especially by telling them that it would have bad results
+- Preemptively means acting in advance to prevent something from happening or to secure an advantage before someone else can.
+- stellar: connected with the stars
+- Untrammeled (often spelled untrammelled) is an adjective that describes something completely free, unrestricted, or not hampered by rules, limitations, or controlling influences
+- analogy: a comparison between two things that shows a way in which they are similar
+- paradigm: a typical example or pattern of something
+- profound: 
+  - very great; that you feel very strongly
+  - needing or showing a lot of knowledge or thought
+- corpse: a dead body, especially of a person
+- An epiphany is a sudden, intuitive realization or "aha" moment that completely shifts your perspective on a problem or situation. 
+- acute: very serious; very great
+- acute: becoming dangerous very quickly
+- toddler is a young child typically between 1 and 3 years old
+- Leverage fundamentally means using something you possess—such as capital, influence, or resources—to maximum advantage, or using borrowed money to amplify potential gains.
+- revamp: to change something in order to make it more attractive or more modern
+- cognitive: connected with the processes of understanding
+
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-### Q. What are different types of irrigation system in India ?
+### Q1. What are different types of irrigation system in India ?
 
 **INTRO:** Irrigation, the artificial application of water to land, is vital for Indian agriculture, with about 50% of the net sown area currently under irrigation. Ensuring 'Har Khet Ko Pani' (water to every field) is a key government objective to enhance productivity and farmer resilience.
 
@@ -17,7 +17,7 @@
 
 **CONCLUSION:** Therefore, modernizing and expanding the irrigation network through sustainable water management practices is imperative for achieving food security and doubling farmers' income.
 
-### Q. What are different types of irrigation storage system in India ?
+### Q2. What are different types of irrigation storage system in India ?
 
 **INTRO:** Irrigation, the artificial application of water to land, is vital for Indian agriculture, with about 50% of the net sown area currently under irrigation. Ensuring 'Har Khet Ko Pani' (water to every field) is a key government objective to enhance productivity and farmer resilience.
 
@@ -36,7 +36,7 @@
 
 **CONCLUSION:** Therefore, modernizing and expanding the irrigation network through sustainable water management practices is imperative for achieving food security and doubling farmers' income.
 
-### Q. What are the challenges in Indian irrigation system ?
+### Q3. What are the challenges in Indian irrigation system ?
 
 **INTRO:** Irrigation, the artificial application of water to land, is vital for Indian agriculture, with about 50% of the net sown area currently under irrigation. Ensuring 'Har Khet Ko Pani' (water to every field) is a key government objective to enhance productivity and farmer resilience.
 
@@ -55,7 +55,7 @@
 10. **Policy Incoherence:** Lack of integrated water resource management policies across different sectors (agriculture, urban, industrial).
 **CONCLUSION:** Therefore, modernizing and expanding the irrigation network through sustainable water management practices is imperative for achieving food security and doubling farmers' income.
 
-### Q. What are government initiatives for solving irrigation challenges in India ?
+### Q4. What are government initiatives for solving irrigation challenges in India ?
 
 **INTRO:** Irrigation, the artificial application of water to land, is vital for Indian agriculture, with about 50% of the net sown area currently under irrigation. Ensuring 'Har Khet Ko Pani' (water to every field) is a key government objective to enhance productivity and farmer resilience.
 
@@ -74,7 +74,7 @@
 10. **Inter-linking of Rivers:** A long-term vision to transfer water from surplus to deficit basins, though controversial.
 **CONCLUSION:** Therefore, modernizing and expanding the irrigation network through sustainable water management practices is imperative for achieving food security and doubling farmers' income.
 
-### Q. What are your suggestions for solving irrigation challenges in India ?
+### Q5. What are your suggestions for solving irrigation challenges in India ?
 
 **INTRO:** Irrigation, the artificial application of water to land, is vital for Indian agriculture, with about 50% of the net sown area currently under irrigation. Ensuring 'Har Khet Ko Pani' (water to every field) is a key government objective to enhance productivity and farmer resilience.
 
@@ -93,7 +93,7 @@
 10. **Research and Development:** Invest in developing drought-resistant crop varieties and efficient irrigation technologies.
 **CONCLUSION:** Therefore, modernizing and expanding the irrigation network through sustainable water management practices is imperative for achieving food security and doubling farmers' income.
 
-### Q. What are the importance of microirrigation in India ?
+### Q6. What are the importance of microirrigation in India ?
 
 **INTRO:** Microirrigation, encompassing drip and sprinkler systems, is a 'More Crop Per Drop' approach that delivers water directly to the plant's root zone. With India facing increasing water stress, microirrigation is a critical tool for sustainable agriculture, currently covering about 13 million hectares.
 
@@ -112,7 +112,7 @@
 10. **Higher Quality Produce:** Optimal water management results in better quality and uniform size of fruits and vegetables.
 **CONCLUSION:** Thus, accelerating the adoption of microirrigation through financial support, technological innovation, and farmer awareness is essential for building a water-efficient and climate-resilient agricultural future.
 
-### Q. What are the challenges of microirrigation in India ?
+### Q7. What are the challenges of microirrigation in India ?
 
 **INTRO:** Microirrigation, encompassing drip and sprinkler systems, is a 'More Crop Per Drop' approach that delivers water directly to the plant's root zone. With India facing increasing water stress, microirrigation is a critical tool for sustainable agriculture, currently covering about 13 million hectares.
 
@@ -131,7 +131,7 @@
 10. **Policy Implementation Gaps:** Delays in subsidy disbursal and complex application procedures hinder adoption.
 **CONCLUSION:** Thus, accelerating the adoption of microirrigation through financial support, technological innovation, and farmer awareness is essential for building a water-efficient and climate-resilient agricultural future.
 
-### Q. What are the government initiatives to improve microirrigation in India ?
+### Q8. What are the government initiatives to improve microirrigation in India ?
 
 **INTRO:** Microirrigation, encompassing drip and sprinkler systems, is a 'More Crop Per Drop' approach that delivers water directly to the plant's root zone. With India facing increasing water stress, microirrigation is a critical tool for sustainable agriculture, currently covering about 13 million hectares.
 
@@ -150,7 +150,7 @@
 10. **Digital Platforms:** Use of online portals for subsidy applications and tracking, enhancing transparency and efficiency.
 **CONCLUSION:** Thus, accelerating the adoption of microirrigation through financial support, technological innovation, and farmer awareness is essential for building a water-efficient and climate-resilient agricultural future.
 
-### Q. What are your recommendations to improve microirrigation in India ?
+### Q9. What are your recommendations to improve microirrigation in India ?
 
 **INTRO:** Microirrigation, encompassing drip and sprinkler systems, is a 'More Crop Per Drop' approach that delivers water directly to the plant's root zone. With India facing increasing water stress, microirrigation is a critical tool for sustainable agriculture, currently covering about 13 million hectares.
 
