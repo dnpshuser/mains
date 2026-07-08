@@ -43,3 +43,23 @@
 
 - **Conclusion:**
   - ONOE is a "Reform for Efficiency." While it requires complex constitutional amendments, its potential to transform India from a "Campaigning State" to a "Governing State" makes it a reform worth pursuing through broad consensus.
+
+
+### Q3. The Supreme Court of India has not only refused to recognise the right to vote as a fundamental right, but gone further by accepting that it is a ‘privilege’ that ‘may be taken away’. What is your opinion on this issue?
+### Q4. 
+### Q5. 
+### Q6. 
+### Q7. 
+### Q8. 
+### Q9. 
+### Q10. 
+### Q11. 
+### Q12. 
+### Q13. 
+### Q14. 
+### Q15. 
+### Q16. 
+### Q17. 
+### Q18. 
+### Q19. 
+### Q20. 

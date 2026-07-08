@@ -1,0 +1,20 @@
+### Q1. Why has the Global South remained underrepresented in major global decision-making platforms? Analyse its consequences for development and security. How can India mobilise coalitions to reverse this trend? [answer each of the section in 5-10 points]
+### Q2. 
+### Q3. 
+### Q4. 
+### Q5. 
+### Q6. 
+### Q7. 
+### Q8. 
+### Q9. 
+### Q10. 
+### Q11. 
+### Q12. 
+### Q13. 
+### Q14. 
+### Q15. 
+### Q16. 
+### Q17. 
+### Q18. 
+### Q19. 
+### Q20. 

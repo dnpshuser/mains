@@ -129,6 +129,24 @@
 - Leverage fundamentally means using something you possess—such as capital, influence, or resources—to maximum advantage, or using borrowed money to amplify potential gains.
 - revamp: to change something in order to make it more attractive or more modern
 - cognitive: connected with the processes of understanding
+- cater: to provide what somebody/something needs or wants
+- crony: a friend, or a person who works for someone in authority, especially one who is willing to give and receive dishonest help
+- lull: a short period of quiet between times of activity
+- intrusive: intrusive means something causes disruption or discomfort by being uninvited, unwelcome, or where it does not belong. 
+- dismantle: to take something to pieces; to separate something into the parts it is made from
+- structural unemployment: An absolute gap between available labor and required job skills. Jobs exist, but the worker lacks the training to do them.
+- bane: something that causes trouble and makes somebody unhappy
+- The neo-liberal paradigm is an economic and political philosophy advocating for free-market capitalism, deregulation, privatization, and reduced government spending.
+- incongrous: strange and out of place; not suitable in a particular situation
+- Scarcely is an adverb that means "almost not," "only just," or "hardly." It is used to emphasize that something is barely true, barely possible, or occurred in the nick of time. It is a slightly more formal word than hardly or barely
+- paradox: a situation or statement with two or more parts that seem strange or impossible together
+- cede: to give land or control of something to another country or person
+- "Forage" typically refers to the act of searching for food or provisions, or the food itself (such as plants or crops).
+- olfactory: connected with the sense of smell
+- Emboldens is the present tense, third-person singular form of the verb embolden. It means to give someone the courage, confidence, or willingness to take risks and act boldly
+
+
+
 
 
 
@@ -159,8 +177,6 @@
 - In Budget 2025–26, ₹4.49 lakh crore was allocated under the Gender Budget Statement, is this allocation only goes to women development ?
 - 
  
-
-
 
 
 
