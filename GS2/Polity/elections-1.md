@@ -45,6 +45,45 @@
   - ONOE is a "Reform for Efficiency." While it requires complex constitutional amendments, its potential to transform India from a "Campaigning State" to a "Governing State" makes it a reform worth pursuing through broad consensus.
 
 
+---
+### Micronotes
+
+#### Q1. One Nation One Election (ONOE) & Federalism
+*   **Intro:** ONOE aims for efficiency but critics argue it infringes upon the federal structure, a "Basic Structure" of the Constitution.
+*   **Body Keywords:**
+    1.  Undermining State Autonomy (Art 172)
+    2.  Art 174 & Art 85 Conflict
+    3.  Marginalization of Regional Issues
+    4.  Voter Behavior Bias
+    5.  Standardization of Terms
+    6.  Issue of Mid-term Collapse
+    7.  President’s Rule (Art 356) Misuse Fear
+    8.  Resource Concentration
+    9.  Constitutional Amendment Requirements
+    10. Impact on Local Bodies
+    11. Accountability Lapse
+    12. Diverse Political Mandates
+    13. Kovind Committee Report (2024)
+*   **Conclusion:** ONOE offers efficiency, but federalism offers representation. Any move must protect the constitutional independence of states.
+
+#### Q2. Advantages of One Nation One Election (ONOE)
+*   **Intro:** ONOE is proposed as a solution to India's "permanent election mode," aiming to streamline governance and reduce costs.
+*   **Body Keywords:**
+    1.  Reduction in Election Expenditure
+    2.  Governance Continuity (avoids MCC paralysis)
+    3.  Administrative Efficiency (frees up forces/staff)
+    4.  Focus on Long-term Policy
+    5.  Voter Fatigue Reduction
+    6.  Check on Populism
+    7.  Enhanced Stability
+    8.  Social Harmony
+    9.  Logistical Synchronization (ECI)
+    10. Economic Productivity
+    11. Global Precedent (South Africa, Sweden)
+    12. Kovind Committee (2024) Recommendation
+    13. Infrastructure Utilization
+*   **Conclusion:** ONOE is a "Reform for Efficiency" that could transform India from a "Campaigning State" to a "Governing State."
+
 ### Q3. The Supreme Court of India has not only refused to recognise the right to vote as a fundamental right, but gone further by accepting that it is a ‘privilege’ that ‘may be taken away’. What is your opinion on this issue?
 ### Q4. 
 ### Q5. 

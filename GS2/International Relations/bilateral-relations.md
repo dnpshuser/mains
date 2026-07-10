@@ -1,5 +1,5 @@
 ### Q1. “India’s engagement with Indonesia has evolved from maritime cooperation to a multidimensional strategic partnership.” Comment.
-### Q2. 
+### Q2. The Indo-Pacific has evolved from a maritime-security construct into a wider strategic-economic framework. Elucidate. (10 M)
 ### Q3. 
 ### Q4. 
 ### Q5. 

@@ -180,3 +180,101 @@ Law must expand to meet the "mischief" it seeks to cure. Treating MLAs as public
 
 **Conclusion:**
 A Governor's refusal to address the House is a "Constitutional Morality" failure. While removal is the "ultimate sanction," the first step should be "Judicial Review" to direct the Governor to perform their duty.
+
+---
+### Micronotes
+
+#### Q1. Rising Corruption & PCA 1988
+*   **Intro:** The Prevention of Corruption Act (PCA), 1988, strengthened by the 2018 Amendment, is the key legal tool to combat rising corruption among public officers.
+*   **Body Keywords:**
+    1.  Expanded Definition of Bribery ("undue advantage")
+    2.  Criminalizing Bribe Givers (Sec 8)
+    3.  Criminal Misconduct Redefined (Sec 13)
+    4.  Section 17A (Prior Sanction for inquiry)
+    5.  *Sita Soren v. UoI (2024)* (No immunity for bribery)
+    6.  Burden of Proof (Sec 20)
+    7.  Corporate Liability (Sec 9)
+    8.  Attachment of Property
+    9.  Timeline for Trials
+    10. Abuse of Position
+    11. Article 14/21 Connection
+    12. Section 7A (Intermediaries)
+    13. Transition to BNS
+*   **Conclusion:** The focus must shift to the "3 Es": Effective Investigation, Ethical Training, and E-governance.
+
+#### Q2. Civil Servant's Ethics vs. Undue Advantage
+*   **Intro:** A civil servant's ethical strength is the "internal compass" needed to navigate the temptations of "undue advantage," which the PCA legally defines.
+*   **Body Keywords:**
+    1.  Public Trust Doctrine
+    2.  Undue Advantage vs. Legitimate Perk
+    3.  Section 7 (Demand and Acceptance)
+    4.  Handling Coercion
+    5.  Mens Rea (Criminal Intent)
+    6.  Section 17A Responsibility
+    7.  *Sita Soren* Case Impact
+    8.  Anonymity and Neutrality
+    9.  Moral Courage
+    10. Wealth Disclosure
+*   **Conclusion:** Law catches the "corrupt," but ethics create the "incorruptible." Integrity is a functional necessity for a civil servant.
+
+#### Q3. How PCA Can Hinder Honest Officials
+*   **Intro:** Certain provisions of the PCA can lead to "policy paralysis" and "fear-based governance," hindering honest officials.
+*   **Body Keywords:**
+    1.  Vague 'Undue Advantage'
+    2.  Section 17A Delays
+    3.  Reverse Burden of Proof (Sec 20)
+    4.  Post-Retirement Vulnerability
+    5.  The '3 Cs' Syndrome (CBI, CVC, CAG)
+    6.  Section 13 (Criminal Misconduct)
+    7.  Administrative Harassment
+    8.  Lack of Financial Protection
+    9.  Media Trials
+    10. Interpretational Rigidity
+*   **Conclusion:** The law must distinguish between a "bona fide mistake" and "malafide intent."
+
+#### Q4. How PCA Can Support Corrupt Officials
+*   **Intro:** Paradoxically, some provisions of the PCA can be exploited as "loopholes" by corrupt officials to delay justice.
+*   **Body Keywords:**
+    1.  Section 17A as a Wall
+    2.  Narrowing of Section 13
+    3.  The 'Bona Fide' Cloak
+    4.  Sanction Delays (Art 311)
+    5.  Benami Properties
+    6.  Legal Maneuvering
+    7.  Witness Hostility
+    8.  Section 19 (Sanction)
+    9.  Interpretation of 'Obtain'
+*   **Conclusion:** Timely sanctions and independent investigative agencies are needed to ensure the PCA doesn't become a "corrupt man's shield."
+
+#### Q5. Measures to Improve PCA
+*   **Intro:** To create a "Bhrashtachar Mukt Bharat," reforms must move beyond punishment to proactive prevention and transparency.
+*   **Body Keywords:**
+    1.  Independent Sanctioning Authority
+    2.  Whistleblower Integration
+    3.  Digitization of Processes
+    4.  Performance-linked Sanctions
+    5.  Special Courts Infrastructure
+    6.  Wealth Audit
+    7.  International Cooperation (UNCAC)
+    8.  Ethics in Education (Mission Karmayogi)
+    9.  Citizen Charters
+    10. Protective Insurance for Honest Officers
+*   **Conclusion:** Corruption is a systemic failure; combining technology, legal speed, and ethics is the solution.
+
+#### Q8. MLAs as Public Servants
+*   **Intro:** The classification of MLAs as "public servants" is vital for applying the Prevention of Corruption Act (PCA).
+*   **Body Keywords:**
+    1.  Section 2(c) of PCA
+    2.  *Sita Soren v. Union of India (2024)*
+    3.  *P.V. Narasimha Rao* Case Overruled
+    4.  BNS Definition (Sec 2(28))
+*   **Conclusion:** MLAs are public servants, ensuring "Elected Office" is treated as a "Public Trust."
+
+#### Q11. Governor Not Addressing Legislature
+*   **Intro:** Article 176 mandates the Governor to address the legislature, making it a "Constitutional Duty," not a choice.
+*   **Body Keywords:**
+    1.  Mandatory Nature ("shall")
+    2.  Violation of "Aids and Advice" (Art 163)
+    3.  Removal (Pleasure of President - Art 156)
+    4.  SC in *Nabam Rebia* Case
+*   **Conclusion:** It is a failure of "Constitutional Morality." While removal is the ultimate sanction, judicial review should be the first step.

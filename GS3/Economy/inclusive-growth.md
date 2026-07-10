@@ -64,6 +64,51 @@
 
 **CONCLUSION:** The failure of the planning process to reduce regional disparities highlights the limitations of a centralized model. The current focus on cooperative and competitive federalism, through initiatives like the Aspirational Districts Programme, is a step towards a more balanced and decentralized approach.
 
+---
+### Micronotes
+
+#### Q1. Challenges in Inclusive Growth
+*   **Intro:** Despite high GDP growth, India faces significant structural challenges in making this growth truly inclusive.
+*   **Body Keywords:**
+    1.  Jobless Growth
+    2.  Agrarian Distress
+    3.  Rising Inequality (Oxfam Report)
+    4.  Dominance of Informal Sector
+    5.  Regional Disparities
+    6.  Gender Inequality (Low FLFPR)
+    7.  Poor Human Development
+    8.  Financial Exclusion
+    9.  Digital Divide
+    10. Social Exclusion
+    11. Infrastructure Gaps
+    12. Urban-Rural Divide
+*   **Conclusion:** Policy focus must shift from the rate of growth to the quality, equity, and sustainability of that growth.
+
+#### Q2. Inclusive Growth & Sustainability
+*   **Intro:** Inclusive growth and sustainability are not separate but deeply intertwined and mutually reinforcing objectives.
+*   **Body Keywords:**
+    1.  **Inclusiveness -> Sustainability:** Reduces pressure on environment (SDG 1), Empowers local communities, Promotes social sustainability.
+    2.  **Sustainability -> Inclusiveness:** Creates Green Jobs, Protects livelihoods of poor, Ensures access to basic services (SDG 6, 7).
+    3.  **Synergy:** PM-KUSUM, NRLM.
+*   **Conclusion:** The argument is valid. They are two sides of the same coin; an integrated approach is essential for achieving the SDGs.
+
+#### Q3. Planning Process & Regional Disparities
+*   **Intro:** Despite decades of centralized planning, India suffers from significant regional disparities due to structural and policy reasons.
+*   **Body Keywords:**
+    1.  Centralized, Top-Down Approach
+    2.  Failure of Freight Equalization Policy
+    3.  Focus on Efficiency over Equity
+    4.  Green Revolution's Regional Bias
+    5.  Lack of Political Will
+    6.  Inadequate Fiscal Transfers
+    7.  Poor Governance and Implementation
+    8.  Infrastructure Deficit
+    9.  Historical Factors
+    10. Failure of Special Category Status
+    11. Weak Local Governance
+    12. Social and Institutional Barriers
+*   **Conclusion:** The failure highlights the limitations of a centralized model. The current focus on cooperative federalism (e.g., Aspirational Districts Programme) is a better approach.
+
 ### Q4. 
 ### Q5. 
 ### Q6. 

@@ -324,6 +324,113 @@
 ---
 ### Micronotes
 
+#### Q1. Benefits of Cashless Economy
+*   **Intro:** A cashless economy involves digital transactions. India has seen a surge with UPI crossing 100 billion transactions annually.
+*   **Body Keywords:**
+    1.  Increased Transparency
+    2.  Improved Tax Compliance
+    3.  Financial Inclusion
+    4.  Reduced Costs (of printing currency)
+    5.  Convenience and Efficiency
+    6.  Formalization of Economy
+    7.  Data for Policymaking
+    8.  Reduced Risk of Theft
+    9.  Global Competitiveness
+    10. Emergency Preparedness
+*   **Conclusion:** Addressing the digital divide and cybersecurity is crucial for an inclusive transition.
+
+#### Q2. Challenges of Cashless Economy
+*   **Intro:** A cashless economy involves digital transactions. India has seen a surge with UPI crossing 100 billion transactions annually.
+*   **Body Keywords:**
+    1.  Digital Divide
+    2.  Cybersecurity Risks
+    3.  Infrastructure Gaps
+    4.  Informal Economy
+    5.  Privacy Concerns
+    6.  Exclusion of Vulnerable Groups
+    7.  Over-reliance on Technology
+    8.  Cost of Digital Infrastructure
+    9.  Resistance to Change
+    10. Interoperability Issues
+*   **Conclusion:** Addressing the digital divide and cybersecurity is crucial for an inclusive transition.
+
+#### Q3. Measures to Promote Cashless Economy
+*   **Intro:** A cashless economy involves digital transactions. India has seen a surge with UPI crossing 100 billion transactions annually.
+*   **Body Keywords:**
+    1.  Unified Payments Interface (UPI)
+    2.  Bharat Bill Payment System (BBPS)
+    3.  Financial Inclusion Schemes (PMJDY)
+    4.  Incentivization (MDR waiver)
+    5.  Digital Literacy Initiatives
+    6.  RuPay Cards
+    7.  Aadhaar Enabled Payment System (AePS)
+    8.  BHIM App
+    9.  Payment Banks
+    10. Regulatory Sandbox
+*   **Conclusion:** Addressing the digital divide and cybersecurity is crucial for an inclusive transition.
+
+#### Q5. Benefits of e-RUPI vs. DBT
+*   **Intro:** e-RUPI is a person-specific and purpose-specific digital payment voucher, offering a targeted alternative to DBT.
+*   **Body Keywords:**
+    1.  Purpose-Specific Usage
+    2.  No Bank Account Required
+    3.  Leak-Proof Delivery
+    4.  Privacy Protection
+    5.  Instant and Contactless
+    6.  Reduced Diversion
+    7.  Empowers Beneficiaries
+    8.  Simplified Administration
+    9.  Real-time Monitoring
+    10. Scalability
+*   **Conclusion:** e-RUPI offers a more targeted, secure, and inclusive mechanism for welfare delivery.
+
+#### Q6. Why Cryptocurrency is Popular
+*   **Intro:** Cryptocurrency is a digital currency secured by cryptography, with its popularity driven by its decentralized nature and potential for high returns.
+*   **Body Keywords:**
+    1.  Potential for High Returns
+    2.  Decentralized Nature
+    3.  Increased Accessibility
+    4.  Lower Transaction Fees
+    5.  Anonymity and Privacy
+    6.  Decentralized Finance (DeFi)
+    7.  Technological Innovation
+    8.  Inflation Hedge (Perceived)
+    9.  Global Reach
+    10. Limited Supply
+*   **Conclusion:** High volatility, regulatory uncertainty, and security risks make it a highly speculative asset class.
+
+#### Q10. Benefits of Central Bank Digital Currency (CBDC)
+*   **Intro:** A CBDC, like India's e-Rupee, is a digital form of fiat currency that is a direct liability of the central bank.
+*   **Body Keywords:**
+    1.  Reduced Costs
+    2.  Improved Monetary Policy
+    3.  Enhanced Financial Inclusion
+    4.  Increased Efficiency
+    5.  Curbing Illicit Activities
+    6.  Monetary Sovereignty
+    7.  Reduced Systemic Risk
+    8.  Innovation in Payments
+    9.  Cross-Border Payments
+    10. Resilience of Payment Systems
+*   **Conclusion:** CBDCs offer a promising avenue for modernizing the financial system, but privacy and security challenges must be addressed.
+
+#### Q12. Significance of Monetary Policy
+*   **Intro:** Monetary policy, conducted by the RBI, involves managing money and credit to achieve macroeconomic objectives like price stability and growth.
+*   **Body Keywords:**
+    1.  Price Stability
+    2.  Economic Growth
+    3.  Exchange Rate Management
+    4.  Financial Stability
+    5.  Credit Control (CRR, SLR)
+    6.  Liquidity Management
+    7.  Employment Generation (Indirectly)
+    8.  External Sector Management
+    9.  Financial Inclusion
+*   **Conclusion:** A credible and effective monetary policy is essential for macroeconomic stability and sustainable growth.
+
+---
+### Micronotes
+
 #### Cashless Economy
 1.  **Benefits:** Transparency, Tax Compliance, Financial Inclusion, Reduced Costs.
 2.  **Challenges:** Digital Divide, Cybersecurity, Infra Gaps, Informal Economy.

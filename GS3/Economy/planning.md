@@ -270,6 +270,108 @@
 ---
 ### Micronotes
 
+#### Q1. Why India Adopted a Mixed Economy
+*   **Intro:** Post-1947, India chose a mixed economy to balance rapid economic growth with social justice.
+*   **Body Keywords:**
+    1.  Legacy of Colonial Exploitation
+    2.  Lack of Private Capital
+    3.  Influence of Fabian Socialism (Nehru)
+    4.  Goal of Social Justice
+    5.  Constitutional Mandate (DPSP)
+    6.  Need for Rapid Industrialization (Mahalanobis Model)
+    7.  Building Core Infrastructure
+    8.  Lessons from Global Events (Great Depression)
+    9.  Balanced Regional Development
+    10. Pragmatic Compromise
+*   **Conclusion:** A product of its time, reflecting a consensus to use state power for industrialization and equity.
+
+#### Q2. Capitalism's Challenges to Inclusive Growth
+*   **Intro:** Capitalism is a powerful engine for wealth creation, but its inherent logic often poses challenges to inclusive growth.
+*   **Body Keywords:**
+    1.  Profit Motive vs. Social Welfare
+    2.  Increased Inequality (Piketty, Oxfam)
+    3.  Exclusion of the Marginalized
+    4.  "Jobless Growth"
+    5.  Regional Imbalances
+    6.  Negative Externalities (Environment)
+    7.  Commodification of Essential Services
+    8.  Erosion of Social Safety Nets
+    9.  Crony Capitalism
+    10. Market Volatility
+*   **Conclusion:** Inclusivity requires strong state intervention through progressive taxation, safety nets, and regulation.
+
+#### Q4. NITI Aayog vs. Planning Commission
+*   **Intro:** The replacement of the Planning Commission with NITI Aayog in 2015 marked a shift from a centralized to a cooperative and advisory model.
+*   **Body Keywords:**
+    1.  **Nature:** Think Tank vs. Powerful Body
+    2.  **Approach:** Bottom-up vs. Top-down
+    3.  **Role of States:** Equal Partners vs. Passive Recipients
+    4.  **Financial Powers:** None vs. Power to Allocate Funds
+    5.  **Composition:** Diverse vs. Full-time members
+    6.  **Focus:** Strategic Vision vs. Five-Year Plans
+    7.  **Relationship:** Collaborative vs. Parallel Cabinet
+    8.  **Policy:** Guidance vs. Imposition
+    9.  **Federalism:** Cooperative vs. Undermining
+    10. **Expertise:** Hub for Best Practices
+*   **Conclusion:** A paradigm shift from command-and-control to cooperative federalism.
+
+#### Q6. Aspirational Districts Programme (ADP)
+*   **Intro:** The ADP (2018) is a unique initiative for rapid transformation of underdeveloped districts, built on Convergence, Collaboration, and Competition.
+*   **Body Keywords:**
+    1.  **Core Strategies:** Focus on Key Outcomes, Data-Driven Governance, Empowerment of District Officials.
+    2.  **Convergence:** Of various central and state government schemes.
+    3.  **Collaboration:** Among Centre, State, and District admin, plus CSOs/private sector.
+    4.  **Competition:** Ranking districts on a real-time dashboard to foster healthy competition.
+*   **Conclusion:** A paradigm shift in development administration to an outcome-focused, data-driven, and collaborative model.
+
+#### Q8. Multi-Level Planning Challenges
+*   **Intro:** Multi-level planning is crucial for effective development but faces challenges in capacity, funding, and political will.
+*   **Body Keywords:**
+    1.  Lack of Devolution (The 3 Fs)
+    2.  Capacity Constraints
+    3.  Financial Dependency
+    4.  Poor Data and Planning Tools
+    5.  Political Interference
+    6.  Lack of Integration
+    7.  Weak Gram Sabhas
+    8.  Dominance of Centrally Sponsored Schemes (CSS)
+    9.  Creation of Parallel Bodies
+    10. Lack of Awareness
+*   **Conclusion:** Success requires genuine empowerment of local governments with funds, functions, and functionaries.
+
+#### Q11. Welfare Scheme Ineffectiveness
+*   **Intro:** The effectiveness of welfare schemes is often undermined by a critical gap in awareness and community participation.
+*   **Body Keywords:**
+    1.  Lack of Awareness
+    2.  Exclusion Errors
+    3.  Design Mismatch
+    4.  Poor Accountability
+    5.  Lack of Ownership
+    6.  Ineffective Social Audits
+    7.  Empowerment vs. Charity
+    8.  **Example:** MGNREGA success linked to Gram Sabha involvement.
+    9.  **Example:** Forest Rights Act success linked to tribal community involvement.
+    10. **Way Forward:** Bottom-up approach, strengthening Gram Sabhas/SHGs.
+*   **Conclusion:** The paradigm must shift from "planning for the people" to "planning with the people."
+
+#### Q13. Economic Uncertainty & GDP Growth
+*   **Intro:** Economic uncertainty acts as a major brake on GDP growth by dampening investment and consumer spending.
+*   **Body Keywords:**
+    1.  Deters Private Investment
+    2.  Reduces Consumer Confidence
+    3.  Increases Risk Premium
+    4.  Disrupts Supply Chains
+    5.  Capital Flight
+    6.  Policy Uncertainty
+    7.  Impact on Exports
+    8.  Delays in Decision-Making
+    9.  Hoarding and Speculation
+    10. Vicious Cycle
+*   **Conclusion:** A stable and predictable policy environment is a crucial prerequisite for driving investment and GDP growth.
+
+---
+### Micronotes
+
 #### Economic Planning & Models
 1.  **Mixed Economy (Post-1947):** **Reasons:** Colonial Legacy, Lack of Private Capital, Social Justice goal, Nehru's Fabianism.
 2.  **Capitalism & Inclusive Growth:** **Challenges:** Profit motive vs. social good, Inequality, Jobless growth, Regional imbalance.

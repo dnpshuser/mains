@@ -144,6 +144,19 @@
 - "Forage" typically refers to the act of searching for food or provisions, or the food itself (such as plants or crops).
 - olfactory: connected with the sense of smell
 - Emboldens is the present tense, third-person singular form of the verb embolden. It means to give someone the courage, confidence, or willingness to take risks and act boldly
+- exacerbate: to make something worse, especially a disease or problem
+- perpetuate: to cause something to continue for a long time
+- Citizenry refers to the entire body of citizens of a specific geographic area—such as a city, state, or country—considered as a collective group
+- confer: 
+  - to discuss something with somebody before making a decision
+  - to give somebody a special right or advantage
+- candid: saying exactly what you think
+- An essence is the intrinsic core or fundamental nature of something
+- Deontological ethics (or deontology) is a moral framework where actions are judged inherently right or wrong based on rules and duties, rather than their outcomes.
+- Legitimacy is the quality of being lawful, justified, or rightful. 
+- Coercion is the practice of compelling an individual or party to act involuntarily through the use of threats, intimidation, or force.
+- Coercive means using force, threats, or intimidation to persuade someone to do something they do not want to do. It derives from the Latin word coercere, meaning "to control or restrain".
+
 
 
 

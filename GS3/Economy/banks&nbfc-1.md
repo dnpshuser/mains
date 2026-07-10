@@ -478,6 +478,185 @@
 ---
 ### Micronotes
 
+#### Q1. RBI's Performance as a Regulator
+*   **Intro:** The RBI's performance in regulating the banking sector has been a mix of commendable successes and notable challenges.
+*   **Body Keywords:**
+    1.  Maintaining Financial Stability (Success)
+    2.  Inflation Targeting (Success)
+    3.  Promoting Digital Payments (Success)
+    4.  NPA Recognition (Delayed Success)
+    5.  Regulatory Lapses (Failure - PMC, Yes Bank)
+    6.  Cybersecurity Challenges
+    7.  Credit Growth Management (Mixed)
+    8.  Financial Inclusion (Success)
+    9.  Supervisory Convergence (Ongoing)
+    10. Monetary Policy Transmission (Challenges)
+*   **Conclusion:** Strengthening its supervisory framework to prevent future crises is essential.
+
+#### Q4. Inefficiency of Public Sector Banks (PSBs)
+*   **Intro:** PSBs, despite their vast reach, grapple with inefficiency compared to private counterparts.
+*   **Body Keywords:**
+    1.  Political Interference
+    2.  Dual Control (RBI & FinMin)
+    3.  Bureaucratic Structure
+    4.  Lack of Specialization
+    5.  Human Resource Issues
+    6.  High NPA Burden
+    7.  Technological Lag
+    8.  Unionization
+    9.  Social Mandate vs. Profitability
+    10. Lack of Autonomy
+*   **Conclusion:** Addressing structural and governance issues through comprehensive reforms is crucial.
+
+#### Q6. Banking Reforms for Financial Inclusion
+*   **Intro:** Financial inclusion has been a key objective of banking reforms in India to foster equitable growth.
+*   **Body Keywords:**
+    1.  Pradhan Mantri Jan Dhan Yojana (PMJDY)
+    2.  Priority Sector Lending (PSL) Norms
+    3.  Differentiated Banks (Small Finance/Payments Banks)
+    4.  Business Correspondent (BC) Model
+    5.  Digital Payments Revolution (UPI)
+    6.  Kisan Credit Card (KCC)
+    7.  Mudra Yojana
+    8.  Aadhaar Linkage (DBT)
+    9.  Financial Literacy Campaigns
+    10. Credit Guarantee Schemes
+*   **Conclusion:** These reforms have expanded the reach of formal finance, but active participation is the next step.
+
+#### Q8. Challenges of NPAs
+*   **Intro:** Non-Performing Assets (NPAs) are a significant drag on the Indian banking system and economic growth.
+*   **Body Keywords:**
+    1.  Erodes Bank Profitability
+    2.  Reduces Credit Growth
+    3.  Impacts Bank Valuation
+    4.  Moral Hazard
+    5.  Fiscal Burden on Government
+    6.  Credit Crunch
+    7.  Loss of Depositor Confidence
+    8.  Increased Cost of Borrowing
+    9.  Twin Balance Sheet Problem
+*   **Conclusion:** A robust and time-bound NPA resolution mechanism is critical.
+
+#### Q9. Measures to Reduce NPAs
+*   **Intro:** The government and RBI have taken several measures to tackle the NPA problem.
+*   **Body Keywords:**
+    1.  Insolvency and Bankruptcy Code (IBC), 2016
+    2.  Asset Quality Review (AQR)
+    3.  SARFAESI Act, 2002
+    4.  Recapitalization of Banks
+    5.  Project 'Sashakt'
+    6.  Prompt Corrective Action (PCA) Framework
+    7.  National Asset Reconstruction Company Ltd. (NARCL)
+    8.  Public Credit Registry (PCR)
+    9.  Framework for Resolution of Stressed Assets
+    10. Strengthening Debt Recovery Tribunals (DRTs)
+*   **Conclusion:** A robust and time-bound mechanism for NPA resolution is critical.
+
+#### Q12. Contributions of IBC Code
+*   **Intro:** The Insolvency and Bankruptcy Code (IBC), 2016, is a landmark reform for time-bound resolution of stressed assets.
+*   **Body Keywords:**
+    1.  Time-Bound Resolution
+    2.  Shift in Power Dynamics
+    3.  Improved Recovery Rates
+    4.  Behavioral Change in Promoters
+    5.  Market-Determined Process
+    6.  Consolidation of Laws
+    7.  Value Maximization
+    8.  Reduced Information Asymmetry
+    9.  Ease of Doing Business
+    10. Protection for MSMEs
+*   **Conclusion:** The IBC has fundamentally changed the credit culture and provided a robust framework for tackling NPAs.
+
+#### Q14. AI's Impact on Banking
+*   **Intro:** Artificial Intelligence (AI) is transforming the banking sector by automating processes, enhancing risk management, and personalizing experiences.
+*   **Body Keywords:**
+    1.  Enhanced Customer Service (Chatbots)
+    2.  Improved Fraud Detection
+    3.  Credit Scoring and Risk Assessment
+    4.  Personalized Marketing
+    5.  Robotic Process Automation (RPA)
+    6.  Algorithmic Trading
+    7.  Regulatory Compliance (RegTech)
+    8.  Wealth Management (Robo-advisors)
+    9.  Cybersecurity
+*   **Conclusion:** AI adoption is a necessity for banks to stay competitive, improve efficiency, and manage risks.
+
+#### Q16. Twin Balance Sheet (TBS) Syndrome
+*   **Intro:** TBS refers to the simultaneous stress on the balance sheets of banks (due to NPAs) and corporations (due to high debt).
+*   **Body Keywords:**
+    1.  **Definition:** A vicious cycle of corporate debt and bank NPAs.
+    2.  **Steps Taken (4Rs):**
+        *   Recognize (AQR)
+        *   Resolve (IBC)
+        *   Recapitalize (Govt. infusion)
+        *   Reform (Governance changes)
+*   **Conclusion:** The "4R" strategies have been instrumental in gradually addressing the TBS problem.
+
+#### Q18. Why Shadow Banks are a Threat
+*   **Intro:** Shadow banks (NBFCs) provide credit but are not subject to the same stringent regulations as banks.
+*   **Body Keywords:**
+    1.  Systemic Risk (e.g., IL&FS crisis)
+    2.  Regulatory Arbitrage
+    3.  Asset-Liability Mismatch
+    4.  Lack of Safety Net (No deposit insurance)
+    5.  Pro-Cyclical Nature
+    6.  Contagion Risk
+    7.  Opaque Operations
+    8.  Over-Leveraging
+    9.  Credit Quality Concerns
+    10. Interconnectedness with Banks
+*   **Conclusion:** Strengthening the regulatory framework for large, systemically important NBFCs is crucial.
+
+#### Q20. Rationale for a Bad Bank
+*   **Intro:** A 'Bad Bank' (NARCL) has been set up to aggregate and consolidate stressed assets from commercial banks for resolution.
+*   **Body Keywords:**
+    1.  Aggregation of Debt
+    2.  Focused Resolution
+    3.  Overcoming Coordination Failures
+    4.  Faster Clean-up of Bank Balance Sheets
+    5.  Better Price Realization
+    6.  Market-Driven Resolution
+    7.  Reduces Moral Hazard for Banks
+    8.  Attracts Private Capital
+    9.  Systemic Stability
+    10. Specialized Expertise
+*   **Conclusion:** The bad bank is a complementary mechanism to IBC and SARFAESI for resolving large, legacy NPAs.
+
+#### Q22. Self-Regulatory Organisations (SROs)
+*   **Intro:** An SRO is a non-governmental body that represents and regulates an industry or profession.
+*   **Body Keywords:**
+    1.  Industry-Led Governance (e.g., AMFI)
+    2.  First-Line Regulator
+    3.  Rule-Making Authority
+    4.  Disciplinary Power
+    5.  Developmental Role
+    6.  Enhances Market Integrity
+    7.  Reduces Regulatory Burden
+    8.  Promotes Best Practices
+    9.  Industry Representation
+    10. Investor Protection
+*   **Conclusion:** SROs play a crucial role in fostering market integrity by combining industry expertise with regulatory oversight.
+
+#### Q24. AI in Financial Intermediation
+*   **Intro:** AI is transforming financial intermediation through automation, enhanced risk management, and personalized services.
+*   **Body Keywords:**
+    1.  **Applications:**
+        *   Credit Scoring and Lending
+        *   Fraud Detection
+        *   Algorithmic Trading
+        *   Customer Service (Chatbots)
+        *   Risk Management (RegTech)
+    2.  **Risks:**
+        *   Algorithmic Bias
+        *   Lack of Transparency ("black box")
+        *   Cybersecurity Threats
+        *   Systemic Risk
+        *   Job Displacement
+*   **Conclusion:** AI is reshaping the financial landscape, but its adoption must be balanced with robust governance to manage risks.
+
+---
+### Micronotes
+
 #### RBI as Regulator
 1.  **Performance:**
     *   **Successes:** Financial Stability (handled 2008 crisis), Digital Payments (UPI), Inflation Targeting.

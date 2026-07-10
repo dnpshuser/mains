@@ -400,3 +400,172 @@
 10. **Power Sector Reforms:** Addressing the financial distress of distribution companies (DISCOMs) to ensure reliable and affordable power for industries.
 
 **CONCLUSION:** These second-generation reforms are more complex and politically challenging, but they are indispensable for unlocking India's productivity potential and achieving a higher growth trajectory.
+
+
+
+---
+### Micronotes
+
+#### Q1. Second Generation Economic Reforms
+*   **Intro:** Second-gen reforms are deep structural changes aimed at improving the efficiency of factor markets and institutions.
+*   **Body Keywords:**
+    1.  Factor Market Reforms (Land)
+    2.  Factor Market Reforms (Labor)
+    3.  Financial Sector Reforms
+    4.  Public Sector Reforms
+    5.  Agricultural Reforms
+    6.  Infrastructure Development
+    7.  Taxation Reforms (GST 2.0)
+    8.  Governance and Administrative Reforms
+    9.  Social Sector Reforms (Health & Education)
+    10. Power Sector Reforms
+*   **Conclusion:** Indispensable for unlocking India's productivity potential and achieving a higher growth trajectory.
+
+#### Q3. Challenges of GDP Growth
+*   **Intro:** Sustaining high GDP growth in India is fraught with several deep-seated structural and cyclical challenges.
+*   **Body Keywords:**
+    1.  Infrastructure Deficit
+    2.  'Jobless Growth' and Skill Mismatch
+    3.  Low Agricultural Productivity
+    4.  Weak Manufacturing Sector
+    5.  Fiscal Constraints
+    6.  Banking Sector Stress
+    7.  Global Headwinds
+    8.  Rising Inequality
+    9.  Climate Change
+    10. Complex Regulatory Environment
+*   **Conclusion:** Requires a sustained focus on structural reforms to unleash India's true growth potential.
+
+#### Q4. GDP Growth is Not Inclusive
+*   **Intro:** While India has high GDP growth, it has often been criticized for not being sufficiently inclusive.
+*   **Body Keywords:**
+    1.  Jobless Growth
+    2.  Rising Income Inequality (Oxfam reports)
+    3.  Agrarian Distress
+    4.  Dominance of Informal Sector
+    5.  Regional Disparities
+    6.  Gender Inequality (Low FLFPR)
+    7.  Poor Human Development Indicators
+    8.  Urban-Rural Divide
+    9.  Limited Access to Quality Services
+    10. Exclusion of Marginalized Groups
+*   **Conclusion:** Policy focus must shift from the rate of growth to the quality and inclusiveness of that growth.
+
+#### Q5. Supply-Side Reforms for GDP Growth
+*   **Intro:** Supply-side reforms are structural measures aimed at improving the productive capacity and efficiency of the economy.
+*   **Body Keywords:**
+    1.  Goods and Services Tax (GST)
+    2.  Insolvency and Bankruptcy Code (IBC)
+    3.  Labor Law Reforms
+    4.  Production Linked Incentive (PLI) Schemes
+    5.  Infrastructure Push (NIP)
+    6.  Corporate Tax Cuts
+    7.  Privatization and Disinvestment
+    8.  Agricultural Reforms (e-NAM)
+    9.  Ease of Doing Business Reforms
+    10. FDI Liberalization
+*   **Conclusion:** Crucial for enhancing India's productivity and competitiveness.
+
+#### Q6. How to Achieve a $5 Trillion Economy
+*   **Intro:** Achieving a $5 trillion economy requires a sustained real growth rate of 8-9%, necessitating a comprehensive strategy.
+*   **Body Keywords:**
+    1.  Increase Investment Rate (>35% of GDP)
+    2.  Boost Manufacturing Sector (to 25% of GDP)
+    3.  Enhance Agricultural Productivity
+    4.  Invest in Infrastructure (NIP)
+    5.  Implement Structural Reforms
+    6.  Promote Exports
+    7.  Leverage the Digital Economy
+    8.  Invest in Human Capital
+    9.  Enhance Ease of Doing Business
+    10. Fiscal Prudence
+*   **Conclusion:** Demands a concerted push on structural reforms to create a virtuous cycle of investment, growth, and jobs.
+
+#### Q7. High GDP, Low Per Capita Income
+*   **Intro:** The paradox of India being a large economy with low per capita income is explained by its massive population and unequal growth.
+*   **Body Keywords:**
+    1.  Large Population Base (Denominator Effect)
+    2.  Historical Low Base
+    3.  High Inequality
+    4.  Low Agricultural Productivity
+    5.  Dominance of Informal Sector
+    6.  Jobless Growth
+    7.  Poor Human Capital
+    8.  Regional Disparities
+    9.  Low Female Labor Force Participation
+    10. Slow Structural Transformation
+*   **Conclusion:** India must sustain high growth, control population, reduce inequality, and create productive jobs.
+
+#### Q8. Accountability for Under-utilized Funds
+*   **Intro:** Under-utilization and mis-utilization of funds is a major bottleneck; ensuring accountability is crucial.
+*   **Body Keywords:**
+    1.  Strengthen Parliamentary Oversight (PAC)
+    2.  Robust Social Audits
+    3.  Outcome-Based Budgeting
+    4.  Leverage Technology (DBT)
+    5.  Real-Time Monitoring (Dashboards)
+    6.  Empowerment of Local Governments
+    7.  Independent Audits (CAG)
+    8.  Public Financial Management System (PFMS)
+    9.  Capacity Building
+    10. Citizen Charters
+*   **Conclusion:** An efficient and accountable public expenditure management system is required.
+
+#### Q10. Features of Atmanirbhar Bharat
+*   **Intro:** A comprehensive economic vision aimed at making India a larger part of the global economy by building domestic capacity.
+*   **Body Keywords:**
+    1.  Five Pillars (Economy, Infra, System, Demography, Demand)
+    2.  Self-Reliance, Not Self-Containment
+    3.  Special Economic Package (₹20 lakh crore)
+    4.  Bold Reforms
+    5.  Support for MSMEs
+    6.  Vocal for Local
+    7.  Boosting Domestic Manufacturing (PLI)
+    8.  Supply Chain Resilience
+    9.  Infrastructure Development
+    10. Human-Centric Development
+*   **Conclusion:** A strategic vision to transform India into a competitive economy integrated with the global system.
+
+#### Q13. Challenges in Green Transition of GDP
+*   **Intro:** Shifting to a low-carbon economy is a critical imperative for India but is fraught with immense challenges.
+*   **Body Keywords:**
+    1.  Massive Financial Requirement
+    2.  Dependence on Coal
+    3.  Job Losses in Traditional Sectors
+    4.  Technological Gaps
+    5.  Infrastructure for Renewables
+    6.  High Cost of Green Finance
+    7.  Lack of a Carbon Market
+    8.  MSME Transition
+    9.  Consumer Behavior
+    10. Policy and Regulatory Uncertainty
+*   **Conclusion:** Requires a "whole-of-economy" approach, combining policy certainty, innovation, and access to low-cost finance.
+
+#### Q15. Reasons for Inflation in India
+*   **Intro:** Inflation in India is a persistent challenge caused by a combination of demand-pull, cost-push, and structural factors.
+*   **Body Keywords:**
+    1.  Food Inflation (Supply-Side)
+    2.  High Fuel Prices (Cost-Push)
+    3.  Excess Liquidity (Demand-Pull)
+    4.  Rupee Depreciation (Imported Inflation)
+    5.  Structural Bottlenecks
+    6.  Rising Input Costs
+    7.  Fiscal Deficit
+    8.  Global Commodity Prices
+    9.  Wage-Price Spiral
+    10. Geopolitical Factors
+*   **Conclusion:** Requires a coordinated approach from the RBI (monetary policy) and the government (supply-side reforms).
+
+#### Q16. Is the Indian Economy in Good Shape?
+*   **Intro:** While steady GDP growth and low inflation seem positive, a deeper look reveals underlying challenges.
+*   **Body Keywords:**
+    1.  **For "Good Shape":** High GDP Growth, Inflation within Target, Macroeconomic Stability, Strong Forex Reserves.
+    2.  **Against "Good Shape":** Uneven Growth (K-shaped), Weak Private Consumption, Stagnant Private Investment, Employment Challenge.
+*   **Conclusion:** The economy is stable but not yet in robust "good shape"; it requires further structural reforms for inclusive growth.
+
+#### Q18. Causes of High Food Inflation
+*   **Intro:** Persistent high food inflation is a major challenge, primarily driven by supply-side and structural factors.
+*   **Body Keywords:**
+    1.  **Causes:** Supply-Side Shocks (erratic monsoons), Structural Bottlenecks (supply chain), Rising Input Costs, Shifting Consumption Patterns.
+    2.  **Effectiveness of Monetary Policy:** Limited effectiveness as it's a blunt instrument that cannot address structural issues.
+*   **Conclusion:** A durable solution requires the government to undertake deep structural reforms in the agricultural sector.

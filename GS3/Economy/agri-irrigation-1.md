@@ -167,6 +167,97 @@
 ---
 ### Micronotes
 
+#### Q1. Types of Irrigation Systems
+*   **Intro:** Irrigation is vital for Indian agriculture, with about 50% of net sown area covered.
+*   **Body Keywords:**
+    1.  Well and Tubewell Irrigation (>60%)
+    2.  Canal Irrigation (2nd largest)
+    3.  Tank Irrigation (Peninsular India)
+    4.  Drip Irrigation
+    5.  Sprinkler Irrigation
+    6.  Canal Lift Irrigation
+    7.  Rainwater Harvesting
+    8.  Flood Irrigation
+    9.  Subsurface Drip Irrigation (SDI)
+    10. Recycled Water Irrigation
+*   **Conclusion:** Modernizing and expanding the irrigation network is imperative for food security.
+
+#### Q3. Challenges in Indian Irrigation
+*   **Intro:** Ensuring 'Har Khet Ko Pani' is a key objective, but the system faces many challenges.
+*   **Body Keywords:**
+    1.  Irrigation Potential Gap (Created vs. Utilized)
+    2.  Groundwater Over-exploitation
+    3.  Low Water Use Efficiency
+    4.  Waterlogging and Salinity
+    5.  Inter-State Water Disputes (e.g., Cauvery)
+    6.  High Energy Consumption
+    7.  Lack of Maintenance
+    8.  Fragmented Landholdings
+    9.  Climate Change Impacts
+    10. Policy Incoherence
+*   **Conclusion:** Sustainable water management practices are imperative.
+
+#### Q4. Government Initiatives for Irrigation
+*   **Intro:** The government has launched several initiatives to expand irrigation and improve efficiency.
+*   **Body Keywords:**
+    1.  Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)
+    2.  Accelerated Irrigation Benefits Programme (AIBP)
+    3.  Atal Bhujal Yojana
+    4.  Command Area Development and Water Management (CADWM)
+    5.  National Water Mission
+    6.  Dam Rehabilitation and Improvement Project (DRIP)
+    7.  Jal Shakti Abhiyan
+    8.  Groundwater Legislation
+    9.  Inter-linking of Rivers
+*   **Conclusion:** These initiatives aim to create a more sustainable and efficient irrigation system.
+
+#### Q6. Importance of Microirrigation
+*   **Intro:** Microirrigation (drip/sprinkler) is a 'More Crop Per Drop' approach critical for sustainable agriculture.
+*   **Body Keywords:**
+    1.  Water Conservation (30-70% savings)
+    2.  Increased Crop Productivity (20-50% higher yields)
+    3.  Energy Efficiency
+    4.  Improved Fertilizer Use Efficiency (Fertigation)
+    5.  Cultivation on Undulating Land
+    6.  Reduced Weed Growth
+    7.  Reduced Soil Erosion
+    8.  Early Crop Maturity
+    9.  Higher Quality Produce
+*   **Conclusion:** Accelerating adoption is essential for a water-efficient and climate-resilient agricultural future.
+
+#### Q7. Challenges of Microirrigation
+*   **Intro:** Despite its benefits, the adoption of microirrigation faces several challenges.
+*   **Body Keywords:**
+    1.  High Initial Cost
+    2.  Clogging of Emitters
+    3.  Lack of Technical Know-how
+    4.  Unreliable Power Supply
+    5.  Suitability for a Limited Range of Crops
+    6.  Lack of Awareness
+    7.  Maintenance Issues
+    8.  Quality of Equipment
+    9.  Fragmented Landholdings
+    10. Policy Implementation Gaps
+*   **Conclusion:** Overcoming these hurdles is key to widespread adoption.
+
+#### Q8. Government Initiatives for Microirrigation
+*   **Intro:** The government has launched several initiatives to promote the adoption of microirrigation.
+*   **Body Keywords:**
+    1.  Per Drop More Crop (PDMC) Scheme
+    2.  Micro Irrigation Fund (MIF) with NABARD
+    3.  Promotion through State Missions
+    4.  Awareness and Training Programs
+    5.  GST Reduction
+    6.  PM-KUSUM Scheme
+    7.  NABARD Support
+    8.  Cluster-Based Approach
+    9.  Public-Private Partnerships
+    10. Digital Platforms
+*   **Conclusion:** Financial support, technological innovation, and farmer awareness are essential.
+
+---
+### Micronotes
+
 #### Irrigation System
 1.  **Types:**
     1.  Well & Tubewell (Most dominant, >60%)

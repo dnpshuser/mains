@@ -175,3 +175,86 @@
 
 **CONCLUSION:** The third-generation reforms are crucial for moving India from a high-growth to a high-income economy. They are about strengthening the "plumbing" of the economy—its institutions, regulations, and governance—to ensure sustainable and inclusive growth.
 
+---
+### Micronotes
+
+#### Q1. Second-Generation Economic Reforms
+*   **Intro:** Second-gen reforms are deep structural changes focusing on factor markets and institutions, unlike the first-gen's focus on liberalization.
+*   **Body Keywords:**
+    1.  Focus on Factor Markets (Land, Labor)
+    2.  Labor Reforms (4 Codes)
+    3.  Agricultural Market Reforms (APMC)
+    4.  Privatization (Strategic Disinvestment)
+    5.  Taxation Reforms (GST)
+    6.  Financial Sector Reforms (IBC)
+    7.  Infrastructure Development (PPPs)
+    8.  Governance Reforms (EoDB)
+    9.  Political Challenges
+    10. Objective: Improve Productivity
+*   **Conclusion:** Essential for unlocking India's potential, but success depends on navigating political challenges.
+
+#### Q2. Savings, Capital Formation & Slow Growth
+*   **Intro:** India has a high savings rate, but its translation into productive capital formation and high growth is hampered by inefficiencies.
+*   **Body Keywords:**
+    1.  **Trends:** High Savings Rate, Dominance of Household Savings, Stagnant Capital Formation (GFCF).
+    2.  **Reasons for Slow Growth:** Inefficient Financial Intermediation (NPA crisis), Investment in Unproductive Assets (Gold), High ICOR, Crowding Out.
+*   **Conclusion:** To translate high savings into high growth, India needs to improve financial system efficiency and create a better investment climate.
+
+#### Q3. Ethical Wealth Creation & SDGs
+*   **Intro:** The means of wealth creation are as important as the quantum. Ethical wealth creation is fundamental to achieving the SDGs.
+*   **Body Keywords:**
+    1.  Ethical Means -> SDG 8 (Decent Work)
+    2.  Ethical Means -> SDG 10 (Reduced Inequalities)
+    3.  Ethical Means -> SDG 12 & 13 (Climate Action)
+    4.  Ethical Means -> SDG 16 (Strong Institutions)
+    5.  Ethical Means -> SDG 3 (Good Health)
+    6.  Unethical Means -> Hinders SDGs
+    7.  Corporate Social Responsibility (CSR)
+    8.  Long-Term Sustainability
+    9.  Trust and Social Cohesion
+    10. Gandhian Principle of Trusteeship
+*   **Conclusion:** The path to SDGs is not just about the quantum of wealth, but the quality and ethics of its creation.
+
+#### Q4. V-shaped vs. K-shaped Recovery
+*   **Intro:** While headline GDP numbers suggest a V-shaped recovery post-COVID, a closer look reveals a more uneven "K-shaped" recovery.
+*   **Body Keywords:**
+    1.  **For "V":** Sharp GDP Rebound, Resilient Tax Collections, Strong External Sector.
+    2.  **Against "V" (For "K"):** Uneven Sectoral Growth, Widening Inequality, Weak Private Consumption, Stagnant Private Investment, Employment Challenge.
+*   **Conclusion:** The recovery has been K-shaped, with a stark divergence between the formal and informal sectors.
+
+#### Q5. Potential GDP
+*   **Intro:** Potential GDP is the maximum output an economy can produce at a constant inflation rate, representing its long-term productive capacity.
+*   **Body Keywords:**
+    1.  **Determinants:** Labor, Capital, Productivity (TFP).
+    2.  **Inhibiting Factors:** Infrastructure Deficit, Low Human Capital, Skill Mismatch, Inefficient Financial System, Low Female Labor Force Participation.
+*   **Conclusion:** Bridging the gap between actual and potential GDP requires deep structural reforms.
+
+#### Q8. First-Generation Economic Reforms (1991)
+*   **Intro:** The 1991 reforms were a watershed moment, dismantling the "License Raj" and shifting India to a market-oriented economy.
+*   **Body Keywords:**
+    1.  Macroeconomic Stabilization
+    2.  Industrial De-licensing
+    3.  Trade Liberalization
+    4.  Encouraged Foreign Investment (FDI)
+    5.  Ended "Hindu Rate of Growth"
+    6.  Rise of the Service Sector (IT)
+    7.  Poverty Reduction
+    8.  Booming Forex Reserves
+    9.  Rise of a New Middle Class
+    10. Shift in Mindset
+*   **Conclusion:** Absolutely crucial; they rescued the economy and laid the foundation for high growth.
+
+#### Q9. Third-Generation Economic Reforms (2010s onwards)
+*   **Intro:** Third-gen reforms are deep institutional and governance changes aimed at creating a more efficient and transparent economy.
+*   **Body Keywords:**
+    1.  Focus on Institutional Quality
+    2.  Goods and Services Tax (GST)
+    3.  Insolvency and Bankruptcy Code (IBC)
+    4.  JAM Trinity (DBT)
+    5.  Digital India and UPI
+    6.  Ease of Doing Business Reforms
+    7.  Inflation Targeting Framework
+    8.  Labor Law Reforms
+    9.  Atmanirbhar Bharat and PLI Schemes
+    10. Addressing Governance Deficits
+*   **Conclusion:** Crucial for moving India to a high-income economy by strengthening the "plumbing" of the economy.

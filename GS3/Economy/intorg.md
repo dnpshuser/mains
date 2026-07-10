@@ -428,6 +428,150 @@
 ---
 ### Micronotes
 
+#### Q1. How Globalization Leads to Economic Development
+*   **Intro:** Globalization, the increasing interconnectedness of economies, has been a powerful driver of economic development.
+*   **Body Keywords:**
+    1.  Increased Trade
+    2.  Foreign Direct Investment (FDI)
+    3.  Technology Transfer
+    4.  Access to Larger Markets
+    5.  Enhanced Competition
+    6.  Capital Market Integration
+    7.  Human Capital Development
+    8.  Poverty Reduction
+    9.  Improved Infrastructure
+    10. Spread of Best Practices
+*   **Conclusion:** A potent force for development, but requires domestic policies to manage risks like inequality.
+
+#### Q2. Impacts of Globalization on Indian Society
+*   **Intro:** Globalization has profoundly reshaped Indian society since 1991, presenting both opportunities and challenges.
+*   **Body Keywords:**
+    1.  **Positive:** Rise of New Middle Class, Empowerment of Women, Cultural Exchange.
+    2.  **Negative:** Rising Inequality, Erosion of Traditional Values, Aggressive Consumerism, Homogenization of Culture.
+*   **Conclusion:** A double-edged sword, ushering in modernity while creating new social tensions.
+
+#### Q6. Dangers of Debt-Trap Diplomacy
+*   **Intro:** Debt-trap diplomacy is when a creditor country extends excessive credit to extract economic or political concessions.
+*   **Body Keywords:**
+    1.  Loss of Sovereignty (e.g., Hambantota Port)
+    2.  Erosion of Economic Independence
+    3.  Unsustainable Debt Burden
+    4.  Geopolitical Leverage
+    5.  Lack of Transparency
+    6.  Use of Non-Concessional Loans
+    7.  Resource Exploitation
+    8.  Undermining International Institutions
+    9.  Creation of Client States
+    10. Regional Instability
+*   **Conclusion:** A neo-colonial tool that poses a grave threat to the sovereignty and stability of developing nations.
+
+#### Q7. How Global Conflicts Hamper World Trade
+*   **Intro:** Global trade is facing severe headwinds from a confluence of geopolitical conflicts, economic challenges, and supply chain disruptions.
+*   **Body Keywords:**
+    1.  Geopolitical Conflicts (Russia-Ukraine War)
+    2.  Supply Chain Disruptions (Red Sea attacks)
+    3.  Rise of Protectionism (US-China trade war)
+    4.  Weaponization of Trade
+    5.  Economic Slowdown
+    6.  Climate Change
+    7.  Pandemic After-effects
+    8.  Food and Energy Insecurity
+    9.  Weakening of Multilateralism (WTO crisis)
+    10. Technological Rivalry
+*   **Conclusion:** The world is moving from hyper-globalization to geopolitical competition, fragmenting the global trading system.
+
+#### Q8. WTO's Role in Rising Global Conflicts
+*   **Intro:** In an era of conflict and protectionism, the WTO has a critical role in sustaining the rules-based multilateral trading system.
+*   **Body Keywords:**
+    1.  Restore the Dispute Settlement Mechanism
+    2.  Act as a Forum for Dialogue
+    3.  Update Trade Rules (e-commerce)
+    4.  Enhance Transparency
+    5.  Address Food Security Concerns
+    6.  Facilitate Trade in Essential Goods
+    7.  Discipline Unfair Trade Practices
+    8.  Promote Plurilateral Agreements
+    9.  Provide Technical Assistance
+    10. Counter Protectionism
+*   **Conclusion:** A reformed and revitalized WTO is essential to prevent the world from sliding into a "might is right" trading system.
+
+#### Q9. Technical Barriers Hampering Indian Export
+*   **Intro:** Technical Barriers to Trade (TBT) are standards and regulations that can act as disguised protectionism.
+*   **Body Keywords:**
+    1.  Sanitary and Phytosanitary (SPS) Measures
+    2.  Complex Product Standards (EU's REACH)
+    3.  Costly Certification and Testing
+    4.  Packaging and Labeling Requirements
+    5.  Environmental and Sustainability Standards (CBAM)
+    6.  Rules of Origin
+    7.  Pharmaceutical Regulations (FDA, EMA)
+    8.  Lack of Mutual Recognition Agreements (MRAs)
+    9.  Traceability Requirements
+    10. Inadequate Domestic Infrastructure
+*   **Conclusion:** India needs to upgrade its domestic standards, testing infrastructure, and negotiate MRAs.
+
+#### Q11. Role of FTAs in Rising Global Conflicts
+*   **Intro:** In a world with a weakening multilateral system, Free Trade Agreements (FTAs) are emerging as crucial tools for like-minded countries.
+*   **Body Keywords:**
+    1.  Creating Secure Supply Chains ("Friend-shoring")
+    2.  Bypassing Multilateral Gridlock
+    3.  Deepening Economic Integration
+    4.  Setting New Trade Rules
+    5.  Strengthening Geopolitical Alliances (IPEF)
+    6.  Providing Market Access
+    7.  Reducing Trade Frictions
+    8.  Dispute Settlement Mechanisms
+    9.  Promoting Regional Stability
+    10. Counterbalancing Dominant Powers
+*   **Conclusion:** FTAs are a pragmatic and essential tool for countries to navigate the current global environment.
+
+#### Q13. Positive Impacts of Economic Decoupling for India
+*   **Intro:** The effort by Western countries to reduce economic dependence on China presents a strategic opportunity for India.
+*   **Body Keywords:**
+    1.  Attraction of FDI (China+1 Strategy)
+    2.  Boost to 'Make in India'
+    3.  Growth of Manufacturing and Exports
+    4.  Job Creation
+    5.  Technology Transfer
+    6.  Strengthening Strategic Alliances (Quad)
+    7.  Development of Domestic Value Chains
+    8.  Reduced Import Dependence
+    9.  Enhanced Role in Global Value Chains (GVCs)
+    10. Geopolitical Leverage
+*   **Conclusion:** A once-in-a-generation opportunity, but seizing it requires improving infrastructure and ease of doing business.
+
+#### Q16. Has WTO Helped Developing Countries?
+*   **Intro:** The WTO's record for developing countries like India has been a mixed bag of significant gains and persistent disappointments.
+*   **Body Keywords:**
+    1.  **Helped:** Provided Rules-Based System, Dispute Settlement Mechanism, Increased Market Access, S&DT.
+    2.  **Disappointed:** Failure of Doha Agenda, Imbalance in Agri-Agreements, Stringent IPR (TRIPS), Non-Tariff Barriers.
+*   **Conclusion:** The WTO has provided a valuable platform, but it has fallen short of its developmental promise.
+
+#### Q18. Impact of Information Technology Agreements (ITAs)
+*   **Intro:** The ITA requires participants to eliminate tariffs on IT products. India's experience with ITA-1 highlights complex impacts.
+*   **Body Keywords:**
+    1.  **Negative Impacts:** Erosion of Domestic Manufacturing, Loss of Tariff Revenue, Inverted Duty Structure.
+    2.  **Potential Positive Impacts:** Lower Consumer Prices, Access to Cheaper Inputs, Boost to Digital Economy.
+*   **Conclusion:** The experience with ITA-1 has been largely negative for India's hardware manufacturing ambitions.
+
+#### Q19. India's Foreign Policy: Non-alignment to Multi-alignment
+*   **Intro:** India's foreign policy has evolved from its Cold War-era doctrine of Non-Alignment to a more pragmatic strategy of "Multi-alignment."
+*   **Body Keywords:**
+    1.  Non-Alignment (Cold War Era)
+    2.  Post-Cold War Shift
+    3.  Multi-alignment Defined
+    4.  Simultaneous Engagement with Rivals (Quad & SCO)
+    5.  Strategic Partnership with the US
+    6.  Maintaining Ties with Russia
+    7.  Engagement with Europe
+    8.  'Act East' and 'Neighborhood First'
+    9.  Issue-Based Coalitions
+    10. Driven by National Interest
+*   **Conclusion:** Multi-alignment reflects India's growing confidence and its ambition to be a "leading power."
+
+---
+### Micronotes
+
 #### Globalization
 1.  **Impact on Economy:**
     *   **Pros:** High GDP Growth, Rise of Service Sector, FDI Inflow.

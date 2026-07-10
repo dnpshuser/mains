@@ -45,3 +45,44 @@
 
 - **Conclusion:**
   - To resolve the contestation, delimitation must be viewed through the lens of "Cooperative Federalism." Any redrawing of the political map must be preceded by a broad political consensus that rewards development while ensuring democratic parity.
+
+---
+### Micronotes
+
+#### Q1. Delimitation & Southern States
+*   **Intro:** Delimitation (Art 82/170), while ensuring "One Person, One Vote," poses a challenge to Southern states that successfully controlled population growth.
+*   **Body Keywords:**
+    1.  Penalty for Performance
+    2.  Demographic Divergence
+    3.  84th Amendment Context
+    4.  Loss of Political Voice
+    5.  Fiscal Devolution Concerns
+    6.  Democratic vs. Federal Values
+    7.  Linguistic Minority Identity
+    8.  Discrepancy in Resource Contribution
+    9.  **Alternative:** Increased Seat Total
+    10. **Alternative:** Performance-Linked Weightage
+    11. **Alternative:** Strengthening Rajya Sabha
+    12. **Alternative:** Devolution of Power
+    13. **Alternative:** Bicameral Adjustments
+    14. **SC Perspective:** Basic Structure of Federalism
+*   **Conclusion:** A consensus-based approach that increases the size of the house while protecting the weight of progressive states is essential.
+
+#### Q2. Delimitation as a Contested Topic
+*   **Intro:** Delimitation is contested due to the long freeze since 1976, the North-South demographic divide, and its implications for federalism.
+*   **Body Keywords:**
+    1.  Democratic Paradox
+    2.  Delay in Census 2021
+    3.  Gerrymandering Fears
+    4.  SC on Delimitation Commission (*Meghraj Kothari*)
+    5.  Women's Reservation Bill (106th Amd) Linkage
+    6.  SC/ST Seat Allocation (Art 330/332)
+    7.  Urban-Rural Shift
+    8.  Resource Conflict (Finance Commission)
+    9.  Federal Contract Threat
+    10. **Alternative:** Capping the Loss
+    11. **Alternative:** Performance Bonus
+    12. **Alternative:** Multi-member Constituencies
+    13. **Alternative:** Empowering Rajya Sabha
+    14. **Alternative:** Local Governance Focus
+*   **Conclusion:** Delimitation must be viewed through the lens of "Cooperative Federalism" and preceded by broad political consensus.

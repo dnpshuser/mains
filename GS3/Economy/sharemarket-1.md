@@ -250,6 +250,128 @@
 ---
 ### Micronotes
 
+#### Q1. Benefits of Social Stock Exchange (SSE)
+*   **Intro:** The SSE is a SEBI-regulated platform connecting social enterprises with impact investors to fund social development.
+*   **Body Keywords:**
+    1.  Unlocks New Funding Avenues (ZCZP bonds)
+    2.  Enhances Transparency and Accountability
+    3.  Bridges Gap between Donors and Projects
+    4.  Promotes Impact Investing
+    5.  Increases Credibility of Social Sector
+    6.  Standardizes Social Impact Measurement
+    7.  Catalyst for Social Development
+    8.  Enhances Financial Inclusion
+    9.  Promotes Innovation
+    10. Global Best Practice Alignment
+*   **Conclusion:** Has potential to revolutionize social financing, but success depends on building investor confidence and awareness.
+
+#### Q2. Impact of Share Market Deepening
+*   **Intro:** Deepening of the share market (increased size, liquidity, participation) is reshaping the Indian economy.
+*   **Body Keywords:**
+    1.  Efficient Capital Allocation
+    2.  Reduced Cost of Capital
+    3.  Wealth Creation for Households
+    4.  Improved Corporate Governance
+    5.  Facilitates Disinvestment (e.g., LIC IPO)
+    6.  Attracts Foreign Capital (FPI)
+    7.  Development of Financial Services
+    8.  Alternative to Bank Financing
+    9.  Indicator of Economic Health
+    10. Risk of Volatility
+*   **Conclusion:** A powerful engine for growth, but requires investor education and regulatory oversight.
+
+#### Q3. Why Share Market Deepening is Necessary
+*   **Intro:** Deepening the share market is critical to move beyond bank-based financing and build a resilient financial system for long-term growth.
+*   **Body Keywords:**
+    1.  To Fund Infrastructure Growth (NIP)
+    2.  To Reduce Corporate Debt Burden
+    3.  To Channelize Household Savings
+    4.  To Enhance Financial Stability
+    5.  To Foster a Startup Ecosystem (e.g., Zomato IPO)
+    6.  To Improve Monetary Policy Transmission
+    7.  To Attract Foreign Investment
+    8.  To Diversify Investment Avenues
+    9.  To Enhance Corporate Efficiency
+    10. To Support Disinvestment Program
+*   **Conclusion:** A necessity for India to achieve its goal of becoming a $5 trillion economy.
+
+#### Q4. Initiatives to Deepen Share Market
+*   **Intro:** The government and SEBI have undertaken reforms to increase market depth, participation, and transparency.
+*   **Body Keywords:**
+    1.  Dematerialization of Shares
+    2.  Introduction of T+1 Settlement Cycle
+    3.  Promoting Retail Participation (UPI)
+    4.  Development of Corporate Bond Market
+    5.  Launch of New Instruments (REITs, InvITs)
+    6.  Strengthening Investor Protection (SCORES)
+    7.  Regulatory Sandbox
+    8.  Ease of Doing Business
+    9.  Social Stock Exchange (SSE)
+*   **Conclusion:** These initiatives have successfully expanded the market, but focus is needed on financial literacy and rural reach.
+
+#### Q6. Dangers of Over-financialization
+*   **Intro:** Over-financialization occurs when the financial sector grows disproportionately to the real economy, prioritizing short-term gains.
+*   **Body Keywords:**
+    1.  Diverts Capital from Real Sector
+    2.  Increases Systemic Risk (e.g., 2008 GFC)
+    3.  Promotes Short-Termism
+    4.  Exacerbates Inequality
+    5.  Creates Asset Bubbles
+    6.  Reduces Job Creation
+    7.  Increases Systemic Fragility
+    8.  Policy Distortions
+    9.  Erosion of Trust
+    10. Currency Volatility
+*   **Conclusion:** India must ensure the financial sector serves the real economy to avoid these pitfalls.
+
+#### Q8. How Weak Corporate Governance Harms Economy
+*   **Intro:** Weak corporate governance erodes investor trust, misallocates capital, and creates systemic risks.
+*   **Body Keywords:**
+    1.  Erodes Investor Confidence (e.g., Satyam)
+    2.  Misallocation of Capital
+    3.  Increases NPA Burden (e.g., Kingfisher)
+    4.  Harms Minority Shareholders
+    5.  Creates Systemic Risk (e.g., IL&FS)
+    6.  Hinders Economic Growth
+    7.  Misuse of Public Funds
+    8.  Reduced Foreign Investment
+    9.  Increased Cost of Capital
+    10. Erosion of Brand India
+*   **Conclusion:** Strong corporate governance is a fundamental prerequisite for sustainable economic development.
+
+#### Q10. Measures to Improve Corporate Governance
+*   **Intro:** The government and SEBI have implemented reforms to strengthen the corporate governance framework.
+*   **Body Keywords:**
+    1.  Companies Act, 2013
+    2.  SEBI (LODR) Regulations, 2015
+    3.  Uday Kotak Committee Recommendations
+    4.  National Financial Reporting Authority (NFRA)
+    5.  Insolvency and Bankruptcy Code (IBC), 2016
+    6.  Whistle-blower Protection Mechanism
+    7.  Independent Directors
+    8.  Related Party Transactions (RPTs)
+    9.  Audit Committee
+    10. Shareholder Activism
+*   **Conclusion:** These measures have significantly improved the landscape, but continuous vigilance and enforcement are necessary.
+
+#### Q12. Technology & Capital Markets
+*   **Intro:** The integration of technology ("FinTech") into capital markets has democratized access and improved efficiency, unlocking economic potential.
+*   **Body Keywords:**
+    1.  Democratization of Access (UPI, Mobile Apps)
+    2.  Increased Efficiency (Algo trading)
+    3.  Reduced Costs
+    4.  Enhanced Transparency
+    5.  Improved Surveillance (AI-based)
+    6.  Faster Settlement (T+1)
+    7.  Innovation in Products (Smallcases)
+    8.  Financial Inclusion
+    9.  Global Integration
+    10. Robo-Advisory
+*   **Conclusion:** The synergy is creating a more inclusive, efficient, and transparent financial ecosystem.
+
+---
+### Micronotes
+
 #### Share Market Deepening
 1.  **Significance:** Efficient Capital Allocation, Wealth Creation, Facilitates Disinvestment, Attracts FPI.
 2.  **Initiatives:** T+1 Settlement, UPI for IPOs, REITs/InvITs, Dematerialization.

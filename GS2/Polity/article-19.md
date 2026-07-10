@@ -28,6 +28,36 @@ Section 66A of the IT Act criminalized "offensive" online messages but was struc
 **Conclusion:**
 The removal of Section 66A ensures digital expression is protected from arbitrary state overreach, upholding the core values of the Indian Constitution.
 
+
+---
+### Micronotes
+
+#### Q1. Section 66A of IT Act & Article 19
+*   **Intro:** Section 66A criminalized "offensive" online messages but was struck down for violating the fundamental right to free speech under Article 19(1)(a).
+*   **Body Keywords:**
+    1.  Subjective Vagueness ("annoyance")
+    2.  Doctrine of Overbreadth
+    3.  Chilling Effect
+    4.  *Shreya Singhal v. UoI (2015)*
+    5.  Violation of Art 19(2)
+    6.  Right to Receive Information
+    7.  Lack of Mens Rea
+    8.  Equality under Art 14
+    9.  Lack of Procedural Safeguards
+    10. International Law Alignment (ICCPR)
+    11. Political Dissent
+    12. Rule of Law
+*   **Conclusion:** The removal of Section 66A ensures digital expression is protected from arbitrary state overreach.
+
+#### Q2. Reasonable Regulations on Hate Speech
+*   **Intro:** While Article 19(1)(a) guarantees freedom of speech, Article 19(2) allows for "reasonable restrictions" which are crucial to prevent this freedom from degenerating into hate speech that threatens public order and harmony.
+*   **Body Keywords:**
+    1.  **Grounds for Restriction (Art 19(2)):** Public Order, Security of State, Decency/Morality.
+    2.  **Hate Speech Definition:** Speech that attacks a person or group based on attributes like religion, race, or gender.
+    3.  **Legal Provisions:** Sections 153A, 295A of IPC (now BNS).
+    4.  **Test of Reasonableness:** Restrictions must be proportional and have a direct nexus with the threat.
+    5.  **Balancing Act:** The challenge is to regulate hate speech without creating a "chilling effect" on legitimate criticism and dissent.
+*   **Conclusion:** Reasonable regulations are the constitutional tool to ensure that the exercise of free speech does not become a license to spread hatred and violence.
 ### Q2. Discuss the importance of reasonable regulations on freedom of speech to prevent it from becoming hate speech.
 ### Q3. 
 ### Q4. 

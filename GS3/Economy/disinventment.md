@@ -377,6 +377,114 @@
 ---
 ### Micronotes
 
+#### Q1. Benefits of Disinvestment
+*   **Intro:** Disinvestment is the government's policy of liquidating its assets in PSUs, a key fiscal tool for efficiency and revenue generation.
+*   **Body Keywords:**
+    1.  Fiscal Deficit Reduction
+    2.  Improved Efficiency
+    3.  Unlocking Value (e.g., Air India)
+    4.  Capital Market Deepening (e.g., LIC IPO)
+    5.  Consumer Benefits
+    6.  Reduced Government Burden
+    7.  Infrastructure Financing
+    8.  Technology Infusion
+    9.  Crowding-in Private Investment
+    10. Better Corporate Governance
+*   **Conclusion:** A powerful catalyst for economic efficiency, but socio-economic impacts must be managed.
+
+#### Q2. Cons of Disinvestment
+*   **Intro:** While having fiscal benefits, disinvestment faces criticism regarding its impact on social welfare, employment, and national assets.
+*   **Body Keywords:**
+    1.  Loss of Regular Income (Dividends)
+    2.  Social Welfare Concerns
+    3.  Job Losses
+    4.  Asset Stripping
+    5.  Creation of Private Monopolies
+    6.  Under-valuation of Assets
+    7.  Loss of Strategic Control
+    8.  Short-term Fiscal Fix
+    9.  Crony Capitalism Allegations
+    10. Impact on Backward Regions
+*   **Conclusion:** Socio-economic impacts must be carefully managed.
+
+#### Q3. Disinvestments in the Last 10 Years
+*   **Intro:** Over the last decade, India's disinvestment policy has moved from minority stake sales to strategic privatization.
+*   **Body Keywords:**
+    1.  Strategic Disinvestment (Air India)
+    2.  Minority Stake Sale via IPO (LIC)
+    3.  Exchange Traded Funds (ETFs)
+    4.  Offer for Sale (OFS)
+    5.  PSU-to-PSU Sales (HPCL to ONGC)
+    6.  Strategic Sale in Steel Sector (NINL)
+    7.  Buyback of Shares
+    8.  New Disinvestment Policy (DIPAM)
+    9.  Focus on Non-Core Assets
+    10. Airports and Ports
+*   **Conclusion:** A dynamic policy shift towards strategic sales and asset monetization.
+
+#### Q4. Importance of Fiscal Federalism
+*   **Intro:** Fiscal federalism, the division of financial powers, is the bedrock of a stable and cooperative Centre-State relationship.
+*   **Body Keywords:**
+    1.  Promotes Economic Union (GST Council)
+    2.  Ensures Fiscal Equity (Finance Commission)
+    3.  Efficient Resource Allocation
+    4.  Strengthens Democracy
+    5.  Maintains Macroeconomic Stability
+    6.  Fosters Cooperative Federalism
+    7.  Addresses Regional Disparities
+    8.  Enhances Accountability
+    9.  Flexibility and Innovation
+    10. National Unity
+*   **Conclusion:** Essential for balanced development, national unity, and macroeconomic stability.
+
+#### Q5. Fiscal Federalism Initiatives
+*   **Intro:** India has taken several key initiatives to strengthen its federal fiscal architecture.
+*   **Body Keywords:**
+    1.  Finance Commission (Article 280)
+    2.  GST Council (Article 279A)
+    3.  Increased Tax Devolution (42%)
+    4.  Abolition of Planning Commission (NITI Aayog)
+    5.  Centrally Sponsored Schemes (CSS) Rationalization
+    6.  Grants-in-Aid (Article 275)
+    7.  State Finance Commissions
+    8.  FRBM Act
+    9.  Direct Benefit Transfer (DBT)
+    10. Inter-State Council (Article 263)
+*   **Conclusion:** These initiatives aim to create a more balanced and cooperative fiscal relationship.
+
+#### Q7. Bottlenecks in Fiscal Federalism
+*   **Intro:** While political issues exist, bottlenecks in fiscal federalism are a primary source of friction in Centre-State relations.
+*   **Body Keywords:**
+    1.  Vertical Fiscal Imbalance
+    2.  Cesses and Surcharges
+    3.  Terms of Reference of Finance Commission
+    4.  Conditionalities on Grants (CSS)
+    5.  GST Compensation Delays
+    6.  State Borrowing Limits
+    7.  Politicization of Fiscal Transfers
+    8.  Exclusion of Items from GST
+    9.  Disaster Relief Funding
+    10. Horizontal Imbalances
+*   **Conclusion:** A framework built on trust and consultation is essential for national unity.
+
+#### Q10. Features of FRBM Act
+*   **Intro:** The Fiscal Responsibility and Budget Management (FRBM) Act, 2003, aims to institutionalize fiscal discipline.
+*   **Body Keywords:**
+    1.  Fiscal Deficit Targets (3% of GDP)
+    2.  Revenue Deficit Elimination
+    3.  Debt-to-GDP Ratio Target
+    4.  Prohibition on RBI Borrowing
+    5.  Mandatory Parliamentary Statements
+    6.  Escape Clause
+    7.  Fiscal Transparency
+    8.  Quarterly Reviews
+    9.  Inter-generational Equity
+    10. Counter-cyclical Role
+*   **Conclusion:** A crucial institutional anchor for fiscal discipline, but success depends on adherence.
+
+---
+### Micronotes
+
 #### Disinvestment
 1.  **Benefits:**
     1.  Fiscal Deficit Reduction

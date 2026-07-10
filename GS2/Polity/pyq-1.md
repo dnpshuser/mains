@@ -20,3 +20,24 @@
 
 - **Conclusion:**
   - The journey of Article 356 from a "political weapon" to a "last resort" signifies the maturation of Indian Federalism. The *SR Bommai* verdict remains the strongest shield for state autonomy against central overreach.
+
+---
+### Micronotes
+
+#### Q1. Reduced Use of Article 356 Post-1990s
+*   **Intro:** Article 356 (President's Rule), once frequently misused, has seen a more restrained application post-1990s due to judicial and political shifts.
+*   **Body Keywords:**
+    1.  *S.R. Bommai v. Union of India (1994)* (Judicial Review)
+    2.  Floor Test Requirement
+    3.  Rise of Coalition Politics
+    4.  Active Judiciary (Uttarakhand/Arunachal cases)
+    5.  Role of the President (K.R. Narayanan)
+    6.  Sarkaria Commission ("last resort")
+    7.  Punchhi Commission
+    8.  Inter-State Council (Art 263)
+    9.  Media and Public Scrutiny
+    10. Basic Structure Doctrine (Federalism)
+    11. Federal Maturity (Cooperative Federalism)
+    12. *Rameshwar Prasad Case (2006)* (Governor's Role)
+    13. Impact of Art 355
+*   **Conclusion:** The journey of Article 356 from a "political weapon" to a "last resort" signifies the maturation of Indian Federalism, with the *SR Bommai* verdict as its strongest shield.

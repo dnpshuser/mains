@@ -444,6 +444,134 @@
 ---
 ### Micronotes
 
+#### Q1. Pros of Manufacturing-Led Growth
+*   **Intro:** Manufacturing-led growth is critical for large-scale employment and has strong economic linkages.
+*   **Body Keywords:**
+    1.  Mass Employment Generation
+    2.  Higher Wages and Incomes
+    3.  Strong Multiplier Effect
+    4.  Boost to Exports
+    5.  Technological Advancement
+    6.  Reduced Import Dependence
+    7.  Infrastructure Development
+    8.  Formalization of Economy
+    9.  Urbanization and Modernization
+    10. Economic Stability
+*   **Conclusion:** Crucial for sustainable development, job creation, and global competitiveness.
+
+#### Q4. Challenges of Manufacturing Sector
+*   **Intro:** The manufacturing sector's share in GDP is stagnant at ~17% due to persistent challenges.
+*   **Body Keywords:**
+    1.  High Logistics Costs
+    2.  Inadequate Infrastructure
+    3.  Complex Regulatory Environment
+    4.  Land Acquisition Hurdles
+    5.  Skill Gaps
+    6.  Low Scale of Operations (MSMEs)
+    7.  High Cost of Capital
+    8.  Inverted Duty Structure
+    9.  Competition from Imports
+    10. Low R&D Investment
+*   **Conclusion:** Requires sustained focus on structural reforms in infrastructure, labor, and land.
+
+#### Q5. Why India Bypassed Manufacturing
+*   **Intro:** India's unique trajectory saw it transition from an agrarian to a service-led economy, largely bypassing manufacturing.
+*   **Body Keywords:**
+    1.  Legacy of Restrictive Policies (License Raj)
+    2.  Globalization and IT Boom
+    3.  Low Capital Requirement of Services
+    4.  Structural Bottlenecks in Manufacturing
+    5.  Skill Advantage in Services
+    6.  Lack of Focus on Labor-Intensive Manufacturing
+    7.  Complex Regulatory Environment
+    8.  Inadequate Infrastructure
+    9.  "Jobless Growth" Phenomenon
+    10. Policy Choices
+*   **Conclusion:** This "leapfrogging" highlights the need to revive manufacturing for balanced growth.
+
+#### Q7. Make in India vs. Assemble in India
+*   **Intro:** 'Make in India' and 'Assemble in India' represent different stages of industrial development.
+*   **Body Keywords:**
+    1.  **Assemble in India:** Low value addition, low-skilled jobs, weak backward linkages.
+    2.  **Make in India:** High value addition, wide range of jobs, strong backward linkages.
+*   **Conclusion:** 'Assemble in India' can be a stepping stone, but the ultimate goal must be 'Make in India'.
+
+#### Q8. Challenges of PLI Schemes
+*   **Intro:** The Production Linked Incentive (PLI) schemes have shown promise but face design and implementation challenges.
+*   **Body Keywords:**
+    1.  Focus on Large Players
+    2.  Risk of "Assembly" not "Manufacturing"
+    3.  Potential for Cronyism
+    4.  Fiscal Burden
+    5.  WTO Compliance
+    6.  Ignores Structural Bottlenecks
+    7.  Complexity in Calculation
+    8.  Limited Sectoral Coverage
+    9.  Short-term Nature
+    10. Lack of Focus on R&D
+*   **Conclusion:** Success depends on addressing these challenges and ensuring genuine value addition.
+
+#### Q9. Challenges of Pharmaceutical Sector
+*   **Intro:** The Indian pharmaceutical sector, the "pharmacy of the world," faces challenges in moving up the value chain.
+*   **Body Keywords:**
+    1.  Dependence on China for APIs
+    2.  Low R&D Investment
+    3.  Quality and Regulatory Issues (US FDA)
+    4.  Price Controls
+    5.  Competition from Other Countries
+    6.  Lack of a Skilled Workforce
+    7.  Weak IPR Regime (Perception)
+    8.  Complex Drug Approval Process
+    9.  Unethical Marketing Practices
+    10. Transition to Biologics
+*   **Conclusion:** Must address API dependence, invest in R&D, and adhere to global quality standards.
+
+#### Q11. Challenges of Semiconductor Industry
+*   **Intro:** Developing a domestic semiconductor industry is a strategic priority but is a highly complex and capital-intensive endeavor.
+*   **Body Keywords:**
+    1.  Extremely High Capital Investment
+    2.  Lack of an Existing Ecosystem
+    3.  Infrastructure Requirements (Power, Water)
+    4.  Shortage of Skilled Talent
+    5.  Rapid Technological Obsolescence
+    6.  Complex and Long Gestation Period
+    7.  Global Competition (TSMC, Samsung)
+    8.  Geopolitical Risks
+    9.  Intellectual Property (IP) Intensity
+    10. Policy Instability
+*   **Conclusion:** Requires sustained government support, private participation, and international collaboration.
+
+#### Q13. Labor Reforms in India
+*   **Intro:** Recent labor reforms consolidate 29 central laws into four codes to simplify the framework and improve EoDB.
+*   **Body Keywords:**
+    1.  Code on Wages, 2019
+    2.  Industrial Relations Code, 2020
+    3.  Social Security Code, 2020
+    4.  Occupational Safety, Health and Working Conditions (OSH) Code, 2020
+    5.  Fixed-Term Employment
+    6.  Trade Union Recognition
+    7.  Reduced Compliance Burden
+    8.  Controversies (Dilution of worker rights)
+*   **Conclusion:** A significant step, but success depends on a balanced implementation protecting both business and worker rights.
+
+#### Q19. Promoting MSME Sector
+*   **Intro:** The government has launched several initiatives to promote the growth of MSMEs, the backbone of the Indian economy.
+*   **Body Keywords:**
+    1.  Revised MSME Definition
+    2.  MUDRA Yojana
+    3.  Credit Guarantee Scheme (CGTMSE)
+    4.  Udyam Registration Portal
+    5.  TReDS Platform
+    6.  Public Procurement Policy
+    7.  MSME Samadhaan Portal
+    8.  Emergency Credit Line Guarantee Scheme (ECLGS)
+    9.  CHAMPIONS Portal
+    10. PLI Schemes
+*   **Conclusion:** A supportive ecosystem has been created, but credit access and delayed payments need more effective solutions.
+
+---
+### Micronotes
+
 #### Manufacturing Sector
 1.  **Pros:** Mass Employment, Multiplier Effect, Export Earnings, Tech Advancement.
 2.  **Cons:** Environmental Degradation, High Capital Need, Resource Depletion, Displacement.

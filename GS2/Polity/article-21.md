@@ -136,7 +136,7 @@
 
 **CONCLUSION:** The Right to Die with Dignity is a progressive interpretation of Article 21, affirming that the state must not only protect life but also ensure that individuals have the choice to end their suffering with dignity when facing an irreversible decline.
 
-### Q8. 
+### Q8. Explore the implications of the Right to be Forgotten under Indian jurisprudence. How can India balance privacy rights with public interest?
 ### Q9. 
 ### Q10. 
 ### Q11. 
