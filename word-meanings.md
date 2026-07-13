@@ -1,5 +1,5 @@
 - Espionage: the act of secretly spying to gather confidential, political, or military intelligence
-- Solidarity: unifying of groups because of similar problems and situations
+- Solidarity: (उद्देश्यों की समानता के आधार पर) एक वर्ग का दूसरे वर्ग को समर्थन, दो वर्गों की एकजुटता, unifying of groups because of similar problems and situations
 - Satire: the use of humour to attack a person, an idea or behaviour that you think is bad or silly
 - Sneak: to go very quietly in the direction mentioned, so that no one can see or hear you: आँख बचाकर चुपके-चुपके चोरी-चोरी (बताई गई दिशा में) निकल जाना
 - A hinterland is the remote or rural region lying inland from a coast, river, or major metropolitan area
@@ -156,6 +156,41 @@
 - Legitimacy is the quality of being lawful, justified, or rightful. 
 - Coercion is the practice of compelling an individual or party to act involuntarily through the use of threats, intimidation, or force.
 - Coercive means using force, threats, or intimidation to persuade someone to do something they do not want to do. It derives from the Latin word coercere, meaning "to control or restrain".
+- affiliation: संबद्घता संबंधन
+- "Horse trading" refers to a tough, shrewd negotiation where both sides make compromises, reciprocal concessions, or trade favors to reach a deal.
+- To topple means to become unsteady and fall over, or to cause something to fall down.
+- Mala fides is a Latin phrase that translates to "bad faith"
+- partisan: showing too much support for one person, group or idea, especially without considering it carefully
+- Culmination refers to the final, climactic stage or the highest point of a process, event, or journey.
+- dread: great fear, to be very afraid of or worried about something
+- defer: to leave something until a later time
+  - eg: deferred adjudiction
+- anomaly: something that is different from what is normal or usual
+  - eg: We discovered an anomaly in the sales figures for August.
+- strained: not natural or friendly, worried because of having too much to deal with
+- stubble: the short parts of corn, wheat, etc. that are left standing after the rest has been cut
+- Fleeting is an adjective describing something that passes quickly or lasts only for a very short time.
+- Armour (or armor) refers to any protective covering specifically designed to shield individuals, vehicles, or structures from physical damage, projectiles, or hazardous environments.
+- obligation: the state of having to do something because it is a law or duty, or because you have promised
+- discourse: a long and serious discussion of a subject in speech or writing
+- assault: अचानक हमला करना धावा बोलना
+- dismantle: to take something to pieces; to separate something into the parts it is made from
+- Glimmering refers to a faint, unsteady, or flickering light. It can also describe a slight suggestion, a vague understanding (like an inkling), or a subtle flash of hope
+- tout: to try to persuade people that somebody/something is important or valuable by praising them/it
+- Mobocracy refers to rule or control by a mob. It describes a chaotic political state where an unorganized, often violent or angry crowd holds power and forces its will on society, overriding established laws, civil processes, and individual rights
+- yearn: to want somebody/something very much, especially something that you cannot have
+- Vehemently: to want somebody/something very much, especially something that you cannot have
+  - Vehemently is an adverb used to describe actions done in an intense, passionate, or deeply emotional manner, often characterized by strong feelings or forceful anger.  
+- dissent: disagreement with official or generally agreed ideas or opinions
+- blasphemy: writing or speaking about God in a way that shows a lack of respect
+- bolster means to support, strengthen, or reinforce something
+- An untapped opportunity is a potential advantage, resource, or market that is valuable but has not yet been utilized. 
+
+
+ 
+
+
+
 
 
 
