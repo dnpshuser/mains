@@ -198,20 +198,6 @@
 
 **CONCLUSION:** To revive the PPP model, India needs to focus on creating a stable policy environment, ensuring fair risk allocation, and strengthening contract enforcement mechanisms, as recommended by the Kelkar Committee.
 
-### Q13. India is advantageous enough to have 64% of population in working age group; however, if India does not develops skills of it youth now, this boon will become a bane post 2040s. Discuss.
-
-**INTRO:** India is currently in a "demographic dividend" phase, with a large youth population (64% in the working-age group). This is a potential economic boon, but as the statement suggests, it can turn into a "demographic bane" if this youth is not equipped with the right skills.
-
-**BODY:**
-
-1.  **The Boon (Potential):** A large, young workforce can drive economic growth, innovation, and consumption, as seen in East Asian economies.
-2.  **The Bane (Risk):** If this large youth population is unskilled and unemployed, it can lead to social unrest, crime, and economic stagnation.
-3.  **The Skill Gap:** There is a massive gap between the skills possessed by Indian youth and the skills required by the modern industry. The India Skills Report suggests that less than 50% of graduates are employable.
-4.  **The 2040s Challenge:** Post-2040, India's demographic dividend will start to wane, and the population will begin to age. If the current youth are not skilled and productive, they will not be able to support the large elderly population of the future.
-5.  **The Need for Action Now:** The window of opportunity to reap the demographic dividend is limited. India must urgently invest in overhauling its education and skilling ecosystem to create a future-ready workforce.
-
-**CONCLUSION:** The demographic dividend is not automatic. It is a time-bound opportunity that can only be realized through a massive and sustained investment in human capital. Failure to do so will turn this potential boon into a demographic disaster.
-
 ---
 ### Micronotes
 
@@ -317,10 +303,4 @@
     5.  Lack of an Independent Regulator
 *   **Conclusion:** Reviving the PPP model requires a stable policy environment and stronger contract enforcement (Kelkar Committee).
 
-#### Q13. Demographic Dividend: Boon or Bane?
-*   **Intro:** India's demographic dividend can turn into a bane if the youth are not equipped with the right skills.
-*   **Body Keywords:**
-    1.  **Boon:** Large Workforce, High Savings, Increased Demand.
-    2.  **Bane:** Social Unrest (if unskilled/unemployed), Aging Population Challenge (post-2040).
-    3.  **The Gap:** Massive skill mismatch (India Skills Report).
-*   **Conclusion:** The demographic dividend is a time-bound opportunity that can only be realized through massive investment in human capital.
+
