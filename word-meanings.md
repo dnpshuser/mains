@@ -187,6 +187,9 @@
 - An untapped opportunity is a potential advantage, resource, or market that is valuable but has not yet been utilized. 
 - A souvenir is an item acquired to help you remember a holiday, visit, or special event. They serve as tangible tokens—ranging from handicrafts and local foods to trinkets like fridge magnets and keychains—that capture the memory of a specific place.
 - capsize: (used about boats) to turn over in the water
+- incidence: 
+- mpi
+- 
 
 
 
