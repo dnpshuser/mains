@@ -310,3 +310,170 @@
 ### Q18. 
 ### Q19. 
 ### Q20. 
+
+---
+### Micronotes
+
+#### Q1. Temperature Inversion
+*   **Intro:** A meteorological phenomenon where a layer of warm air sits atop cooler air, reversing the normal lapse rate and creating high stability.
+*   **Body Keywords:**
+    1.  **Formation:** Radiational cooling on calm, clear winter nights.
+    2.  **Atmospheric Stability:** Prevents vertical mixing of air.
+    3.  **Weather Effects:** Fog and Smog formation, Reduced Visibility, Frost, Suppression of Convection.
+    4.  **Inhabitant Effects:** Health Hazards (pollutants trapped), Transport Disruption, Agricultural Damage.
+*   **Conclusion:** A crucial micro-climatic phenomenon with profound implications for air quality, public health, and economic activities.
+
+#### Q2. Urban Heat Islands (UHI)
+*   **Intro:** A metropolitan area significantly warmer than its rural surroundings, a form of human-induced climate modification.
+*   **Body Keywords:**
+    1.  Low Albedo of Surfaces (Asphalt, dark roofs)
+    2.  Urban Geometry (Canyon Effect)
+    3.  Anthropogenic Heat Release
+    4.  Reduced Evapotranspiration
+    5.  Air Pollution (Traps radiation)
+    6.  Impermeable Surfaces
+    7.  High Thermal Capacity of Materials
+    8.  Reduced Sky View Factor
+    9.  Impact on Energy Consumption
+    10. Public Health Impacts
+*   **Conclusion:** A serious consequence of unplanned urbanization, requiring sustainable planning with green spaces and cool materials.
+
+#### Q3. Non-farm Primary Activities & Physiography
+*   **Intro:** Economic activities based on direct extraction of natural resources (other than farming), intrinsically linked to India's diverse physiography.
+*   **Body Keywords:**
+    1.  **Fishing:** Long coastline (Marine), River systems (Inland).
+    2.  **Forestry:** Himalayan region, Central India.
+    3.  **Mining:** Chota Nagpur Plateau, Deccan Plateau.
+    4.  **Pastoralism:** Arid regions (Rajasthan), High-altitude pastures (Himalayas).
+    5.  **Aquaculture:** Coastal areas (Shrimp farming).
+*   **Conclusion:** Crucial for diversifying rural livelihoods; their sustainable management is essential for balanced regional development.
+
+#### Q4. Population Distribution in Ganga Basin
+*   **Intro:** The Ganga Basin is one of the most densely populated regions on Earth due to its rich endowment of land, soil, and water resources.
+*   **Body Keywords:**
+    1.  **Land:** Flat alluvial plain.
+    2.  **Soil:** Fertile alluvium (Khadar, Bhangar).
+    3.  **Water:** Perennial rivers.
+    4.  **High Population Density:** >500-1000 persons/sq. km.
+    5.  **Intensive Subsistence Agriculture:** Supports large population.
+    6.  **Distribution:** High density in Upper, Middle, and Lower plains.
+    7.  **Urbanization:** Numerous cities along river banks.
+    8.  **Pressure on Resources:** Leading to groundwater depletion and pollution.
+*   **Conclusion:** A classic example of favorable geography leading to high population concentration, creating a fragile human-environment relationship.
+
+#### Q5. 'Purvaiya' (Easterly) Monsoon
+*   **Intro:** In the Bhojpur region, the SW monsoon winds are called 'Purvaiya' (easterly) due to deflection by the Himalayas.
+*   **Body Keywords:**
+    1.  **Geographical Reason:** Bay of Bengal branch is deflected westwards by the Himalayan barrier.
+    2.  **Cultural Influence:** Symbol of hope, dictates agricultural rhythms, a recurring motif in folklore and music (Kajari).
+*   **Conclusion:** A beautiful example of how local geographical perception shapes language and culture.
+
+#### Q6. Colour-Coded Weather Warnings (IMD)
+*   **Intro:** IMD uses a four-stage, color-coded system for cyclones to provide clear, simple, and graded information for a timely response.
+*   **Body Keywords:**
+    1.  **Green Alert ("All is Well"):** No action required.
+    2.  **Yellow Alert ("Watch"):** Be aware, monitor the situation.
+    3.  **Orange Alert ("Alert"):** Be prepared, mobilize resources.
+    4.  **Red Alert ("Warning"):** Take action, mass evacuation.
+*   **Conclusion:** A crucial component of India's improved cyclone early warning system, which has drastically reduced fatalities.
+
+#### Q7. Natural Resource Potential of Deccan Trap
+*   **Intro:** The Deccan Traps, a large igneous province, have a unique and rich potential for natural resources due to the weathering of basaltic lava.
+*   **Body Keywords:**
+    1.  Rich Black Soils (Regur)
+    2.  Cotton Cultivation
+    3.  Other Crops (Sugarcane, Jowar)
+    4.  Bauxite Deposits
+    5.  Building and Construction Material
+    6.  Semi-Precious Stones (Agate, Amethyst)
+    7.  Groundwater Resources
+    8.  Potential for Geothermal Energy
+*   **Conclusion:** A prime example of how ancient geological events create a distinct resource base that shapes a region's economy.
+
+#### Q8. Impact of Melting Himalayan Glaciers
+*   **Intro:** The receding Himalayan glaciers, the "Third Pole," will have profound impacts on India's water resources, threatening water and food security.
+*   **Body Keywords:**
+    1.  Source of Perennial Rivers
+    2.  Short-Term Impact (Increased Flooding, GLOFs)
+    3.  Long-Term Impact (Reduced River Flows)
+    4.  Impact on Agriculture
+    5.  Hydropower Generation at risk
+    6.  Groundwater Recharge reduction
+    7.  Ecological Impact
+    8.  Impact on Navigation
+    9.  Increased Water Conflicts
+*   **Conclusion:** A ticking water bomb for India, necessitating urgent action on climate change mitigation and adaptation.
+
+#### Q9. Interlinking of Rivers (ILR) - A Critical Examination
+*   **Intro:** The ILR project aims to transfer water from surplus to deficit basins but is fraught with immense challenges.
+*   **Body Keywords:**
+    1.  **Potential Benefits:** Drought Mitigation, Flood Control, Enhanced Irrigation, Navigation, Hydropower.
+    2.  **Challenges:** Massive Economic Cost, Huge Ecological Impact, Large-Scale Displacement, Questionable "Surplus-Deficit" Concept, Inter-State Conflicts.
+*   **Conclusion:** The potential benefits are outweighed by colossal costs and impacts; decentralized water management is a more prudent approach.
+
+#### Q10. Himalayan States & Tourism Carrying Capacity
+*   **Intro:** The Himalayan states are facing immense pressure from unregulated tourism, exceeding their ecological carrying capacity.
+*   **Body Keywords:**
+    1.  **Evidence:** Massive Construction, Severe Water Scarcity, Waste Management Crisis, Traffic Congestion, Pressure on Ecosystems, Increased Disaster Risk.
+    2.  **Evaluation:** Tourism is an economic lifeline, but a shift to "sustainable and responsible tourism" is needed.
+*   **Conclusion:** The current model is unsustainable; a paradigm shift to a low-impact, high-value model is urgently needed.
+
+#### Q11. Why Delhi's Air Pollution is More Serious
+*   **Intro:** Delhi's air pollution is more severe than in Mumbai or Kolkata due to a unique combination of geography, meteorology, and regional pollution sources.
+*   **Body Keywords:**
+    1.  **Geographical Disadvantage (Landlocked):** No sea breeze to disperse pollutants.
+    2.  **Meteorological Conditions (Winter Inversion):** Traps pollutants like a lid.
+    3.  **Calm Winds:** Leads to stagnation of pollutants.
+    4.  **Pollution from Hinterland (Stubble Burning):** From Punjab and Haryana.
+    5.  **Dust from Arid Regions:** From Rajasthan.
+    6.  **High Vehicular Density**
+    7.  **Peripheral Industrial Plants**
+    8.  **Geographical Funnel (Himalayas):** Blocks escape of pollutants.
+*   **Conclusion:** A complex problem resulting from a perfect storm of local emissions, regional sources, and adverse geography.
+
+#### Q12. Impact of Humanizing Landscapes on Monsoon
+*   **Intro:** I agree; while the monsoon is a large-scale phenomenon, human-induced landscape changes are altering its behavior.
+*   **Body Keywords:**
+    1.  Urbanization and Urban Heat Islands (UHIs)
+    2.  Deforestation
+    3.  Changes in Land Use and Agriculture
+    4.  Aerosol Pollution
+    5.  Impact of Large Dams and Reservoirs
+    6.  Groundwater Depletion
+    7.  Increased Frequency of Extreme Events
+    8.  Weakening of Monsoon Circulation
+*   **Conclusion:** The monsoon is now a hybrid system where natural drivers are modulated by human activities, making it more erratic.
+
+#### Q13. Shrinking Glaciers & Climate Change Symptoms
+*   **Intro:** The shrinking of Himalayan glaciers is a visible and alarming symptom of climate change in the subcontinent.
+*   **Body Keywords:**
+    1.  **Symptom:** Rising Temperatures cause melt.
+    2.  **Symptom:** Erratic Rainfall and less snowfall.
+    3.  **Feedback Loop:** Lower albedo from exposed rock accelerates melting.
+    4.  **Consequence:** Increased Frequency of GLOFs.
+    5.  **Consequence:** Changes in River Flows (floods then scarcity).
+    6.  **Consequence:** Threat to Water Security.
+    7.  **Consequence:** Impact on Biodiversity.
+*   **Conclusion:** The shrinking glaciers are the "canary in the coal mine" for climate change in the region.
+
+#### Q14. Landslides: Himalayas vs. Western Ghats
+*   **Intro:** The frequency and scale of landslides are significantly higher in the Himalayas due to differences in geology, tectonics, and human interference.
+*   **Body Keywords:**
+    1.  **Tectonic Activity:** Himalayas are young and active; Western Ghats are stable.
+    2.  **Geology:** Himalayas have weak sedimentary rocks; Western Ghats have hard basalt.
+    3.  **Steeper Slopes:** In the Himalayas.
+    4.  **Glacial and Periglacial Processes:** Absent in Western Ghats.
+    5.  **Higher Intensity of Rainfall:** Cloudbursts in Himalayas.
+    6.  **Intense Human Interference:** In the Himalayas.
+*   **Conclusion:** The higher frequency is a result of dynamic geology, dangerously exacerbated by unplanned development.
+
+#### Q15. Why No Deltas on West Coast
+*   **Intro:** West-flowing rivers form estuaries, not deltas, due to factors of course, velocity, sediment load, and coastal geomorphology.
+*   **Body Keywords:**
+    1.  Short and Swift Course
+    2.  Steep Gradient (High Velocity)
+    3.  Hard Rock Terrain (Low Sediment Load)
+    4.  Formation of Estuaries
+    5.  Submerged Coastline
+    6.  Lack of Distributaries
+*   **Conclusion:** The absence of deltas is a direct consequence of the region's distinct geomorphology.

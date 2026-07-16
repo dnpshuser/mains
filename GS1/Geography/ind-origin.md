@@ -151,3 +151,76 @@
 ### Q13. 
 ### Q14. 
 ### Q15. 
+
+---
+### Micronotes
+
+#### Q1. Formation of Deccan Traps
+*   **Intro:** A Large Igneous Province (LIP) formed around 66 million years ago, whose geology has profoundly shaped peninsular India.
+*   **Body Keywords:**
+    1.  **Time:** End of Cretaceous period (~66 mya).
+    2.  **Mechanism:** Quiet fissure eruptions, not conical volcanoes.
+    3.  **Cause:** Réunion hotspot volcanism.
+    4.  **Lava Type:** Fluid basaltic lava.
+    5.  **Structure:** Layered, step-like ('trap') structure.
+    6.  **Extent:** ~500,000 sq. km (Maharashtra, Gujarat etc.).
+    7.  **Impact:** Climate change, formation of black soil.
+*   **Conclusion:** A monumental testament to intra-plate volcanism, leaving a legacy of rich agricultural soils.
+
+#### Q2. Formation of Himalayan Mountain Range
+*   **Intro:** The world's highest and youngest fold mountains, formed by the collision of the Indian and Eurasian continental plates.
+*   **Body Keywords:**
+    1.  **Theory:** Plate Tectonics.
+    2.  **Process:** Northward drift of Indian plate.
+    3.  **Tethys Sea:** Sediments deposited in the sea between the plates.
+    4.  **Collision:** Continental-continental collision (~40-50 mya).
+    5.  **Folding and Uplift:** Sediments of Tethys Sea buckled and folded.
+    6.  **Three Phases:** Great Himalayas -> Lesser Himalayas -> Shiwaliks.
+    7.  **Ongoing Process:** Indian plate still pushing northwards, causing seismic activity.
+    8.  **Syntaxial Bends:** Sharp hairpin bends at western and eastern ends.
+*   **Conclusion:** A dynamic, living geological feature, a powerful reminder of the forces of plate tectonics.
+
+#### Q3. Economic Importance of Indian Rocks
+*   **Intro:** India's diverse geology has endowed it with a wide variety of rock systems, each with unique mineral resources.
+*   **Body Keywords:**
+    1.  **Dharwar System:** Iron ore, manganese, gold.
+    2.  **Cuddapah System:** Limestone, sandstone.
+    3.  **Vindhyan System:** Red sandstone, diamonds (Panna).
+    4.  **Gondwana System:** Over 98% of India's coal.
+    5.  **Deccan Traps:** Black soil (cotton), bauxite.
+    6.  **Tertiary System (Himalayas):** Petroleum, natural gas.
+    7.  **Alluvial Deposits:** Fertile Indo-Gangetic plains.
+    8.  **Metamorphic Rocks:** Marble, slate.
+*   **Conclusion:** The distribution of India's mineral and agricultural potential is directly governed by its underlying geology.
+
+#### Q4. Tilt of Peninsular India
+*   **Intro:** The general tilt of the Peninsular Plateau is from west to east, evidenced by the flow of its major rivers.
+*   **Body Keywords:**
+    1.  **Direction:** West to East.
+    2.  **Evidence:** Eastward flow of Mahanadi, Godavari, Krishna, Cauvery.
+    3.  **Cause:** Linked to Himalayan uplift; subsidence of the western flank of the peninsula.
+    4.  **Result:** Formation of Western Ghats as a steep fault-scarp.
+*   **Conclusion:** A fundamental geomorphological feature that has dictated the drainage patterns of southern India.
+
+#### Q5. Why East-Flowing Rivers Form Deltas
+*   **Intro:** The contrasting landforms (deltas in east, estuaries in west) are a result of differences in course, velocity, sediment load, and coastal geomorphology.
+*   **Body Keywords:**
+    1.  **East-Flowing (Deltas):** Long course, gentle slope, large sediment load, emergent coastline.
+    2.  **West-Flowing (Estuaries):** Short & swift course, high velocity, low sediment load, submerged coastline.
+*   **Conclusion:** A classic geographical outcome of the distinct geological history of the two sides of the Indian Peninsula.
+
+#### Q6. Importance of Himalayas
+*   **Intro:** The Himalayas are a critical geographical and climatic determinant that has profoundly shaped the subcontinent.
+*   **Body Keywords:**
+    1.  **Climatic:** Climatic Divide (blocks cold winds), Monsoon Control (forces rainfall), Jet Stream Influence.
+    2.  **Geographical:** Source of Perennial Rivers, Fertile Plains, Rich Biodiversity, Natural Defence Barrier, Tourism.
+*   **Conclusion:** The single most important geographical feature influencing the climate and hydrology of the Indian subcontinent.
+
+#### Q7. Population Distribution in India
+*   **Intro:** The distribution of population is highly uneven, reflecting the influence of physical, socio-economic, and historical factors.
+*   **Body Keywords:**
+    1.  **High-Density:** Indo-Gangetic plains, Coastal plains.
+    2.  **Moderate-Density:** Peninsular Plateau.
+    3.  **Low-Density:** Himalayas, Thar Desert.
+    4.  **Influence of Urbanization:** High concentration in metropolitan cities.
+*   **Conclusion:** A clear geographical expression of the interplay between environmental opportunities and economic development.
