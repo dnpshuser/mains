@@ -12,8 +12,7 @@
 6.  **Geographical Extent:** The Deccan Traps cover a massive area of about 500,000 sq. km, primarily in the states of Maharashtra, Gujarat, Madhya Pradesh, and Karnataka.
 7.  **Impact on Climate:** The massive release of volcanic gases like sulfur dioxide and carbon dioxide during the eruptions had a significant, though debated, impact on the global climate.
 8.  **Formation of Black Soil:** Over millions of years, the weathering of this basaltic rock has resulted in the formation of highly fertile black soils (Regur), which are ideal for cotton cultivation.
-
-
+![alt text](image.png)
 
 **CONCLUSION:** The Deccan Traps are a monumental testament to the power of intra-plate volcanism, a geological event that not only shaped the physical landscape of a subcontinent but also played a role in a global mass extinction, leaving behind a legacy of rich agricultural soils.
 

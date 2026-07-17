@@ -187,6 +187,32 @@
 - An untapped opportunity is a potential advantage, resource, or market that is valuable but has not yet been utilized. 
 - A souvenir is an item acquired to help you remember a holiday, visit, or special event. They serve as tangible tokens—ranging from handicrafts and local foods to trinkets like fridge magnets and keychains—that capture the memory of a specific place.
 - capsize: (used about boats) to turn over in the water
+- A steep fault-scarp is a giant cliff formed by moving earth. When an earthquake happens, the ground cracks along a fault. One side of the ground goes up. The other side goes down. This creates a sharp, steep wall
+- An emergent coast is a stretch of shoreline that becomes exposed when sea levels drop or the land is tectonically uplifted. 
+- Beget is a formal verb that typically means to cause, produce, or bring about an effect. 
+- shackle: हथकड़ी बेड़ी
+- devour: 
+  - to eat something quickly because you are very hungry
+  - to do or use something quickly and completely
+- "Stark contrast" is a phrase used to describe an obvious, glaring difference between two things, highlighting just how opposite they are.
+- demeanour: the way a person behaves, dresses, speaks, looks, etc. that show what their character is like
+- wrath: very great anger
+- Suturing, commonly known as stitching
+- A geosyncline is a large-scale, linear depression in the Earth’s crust where immense volumes of sediment accumulate over millions of years
+- Orogeny refers to the primary geological process of mountain building, typically occurring when tectonic plates collide at convergent margins.
+- A syntaxial bend (or syntaxis) is a sharp, hairpin-like geological fold where a continuous mountain range abruptly changes its structural trend. 
+- sparse: small in quantity or amount
+- tracts of land: bhumi ke khand
+- trough: a low area or point, between two higher areas
+- Synergy is the concept where the combined effort of two or more entities produces a result greater than the sum of their individual parts.
+- Omnipresence refers to the quality of being present everywhere simultaneously
+- endow: to give a large sum of money to a school, a college or another institution
+- To be "endowed" means to naturally possess a particular talent, quality, or physical feature.
+
+
+
+
+
 - incidence: 
 - mpi
 - 

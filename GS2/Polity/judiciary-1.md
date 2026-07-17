@@ -24,6 +24,32 @@
 
 
 ---
+
+### Q2. Why judiciary needs to be a court of records ?
+### Q3. Judicial review is turning to be a judicial overreach. Discuss.
+### Q4. Judicial machinery is given immense power but very less accountability. Discuss.
+### Q5. Parliament goes through a complex process for legislation; however, it is fairly easier in case of judicial legislation. Is it a violation of separation of powers ?
+
+### Q6. Parliament goes through a complex process for legislation; however, just a verdict is required to nullify the law. Discuss on the rising trend of judicial activism.### Q5. 
+
+### Q7. “Judicial reforms must focus as much on improving court administration as on strengthening adjudication.” Discuss.
+### Q8. 
+### Q9. 
+### Q10. 
+### Q11. 
+### Q12. 
+### Q13. 
+### Q14. 
+### Q15. 
+### Q16. 
+### Q17. 
+### Q18. 
+### Q19. 
+### Q20. 
+
+
+
+---
 ### Micronotes
 
 #### Q1. Suo-moto Cognizance & Judicial Activism
@@ -92,25 +118,3 @@
     4.  **Justification:** The judiciary acts as the ultimate guardian of the Constitution.
     5.  **Criticism:** Can lead to a confrontation between the judiciary and the legislature, and is sometimes seen as undemocratic.
 *   **Conclusion:** While Parliament represents the will of the people, the judiciary represents the will of the Constitution. Judicial activism in nullifying unconstitutional laws is a vital check on legislative overreach.
-
-### Q2. Why judiciary needs to be a court of records ?
-### Q3. Judicial review is turning to be a judicial overreach. Discuss.
-### Q4. Judicial machinery is given immense power but very less accountability. Discuss.
-### Q5. Parliament goes through a complex process for legislation; however, it is fairly easier in case of judicial legislation. Is it a violation of separation of powers ?
-
-### Q6. Parliament goes through a complex process for legislation; however, just a verdict is required to nullify the law. Discuss on the rising trend of judicial activism.### Q5. 
-
-### Q7. 
-### Q8. 
-### Q9. 
-### Q10. 
-### Q11. 
-### Q12. 
-### Q13. 
-### Q14. 
-### Q15. 
-### Q16. 
-### Q17. 
-### Q18. 
-### Q19. 
-### Q20. 

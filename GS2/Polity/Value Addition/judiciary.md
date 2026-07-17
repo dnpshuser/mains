@@ -1,0 +1,2 @@
+- Supreme Court Backlog Clearance
+  - The Supreme Court has constituted four special benches to exclusively hear its oldest pending civil and criminal cases, as part of Chief Justice of India Surya Kant’s strategy to reduce judicial backlog and resolve decades-old litigation.
