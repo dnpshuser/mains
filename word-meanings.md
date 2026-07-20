@@ -208,6 +208,20 @@
 - Omnipresence refers to the quality of being present everywhere simultaneously
 - endow: to give a large sum of money to a school, a college or another institution
 - To be "endowed" means to naturally possess a particular talent, quality, or physical feature.
+- anchor: to fix something firmly so that it cannot move
+- "Scrap" primarily refers to discarded, leftover, or waste materials—such as metal, paper, or plastic—that can be recycled, reused, or disposed of
+- An anvil is a heavy metal block used as a solid surface to strike and shape materials, typically heated metal, with a hammer. 
+- resort to: to do something else instead of doing it
+- To "disrupt" means to interrupt an event, process, or system so that it cannot continue as usual, often causing disorder or a radical change
+- Entrenched refers to something—such as an idea, belief, or custom—that is so firmly established and deeply ingrained that it is highly resistant to change.
+- Monazite is a yellowish-brown, dense phosphate mineral found in beach and alluvial sands. 
+- imminent: (usually used about something unpleasant) almost certain to happen very soon
+- pervasive: that is present in all parts of something
+- Bandalling is a traditional, low-cost river engineering and erosion control technique used across the Indian subcontinent. It involves erecting permeable bamboo or timber fences at a 45-degree angle to the water flow. The top of the fence is blocked to reduce current speed, while the bottom is left open.
+- Dredging is the excavation of underwater sediments and debris from the bottom of bodies of water like rivers, lakes, and harbors.
+- exemplify: to be a typical example of something
+
+
 
 
 
