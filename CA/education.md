@@ -1,0 +1,20 @@
+### Q1. “India’s education crisis reflects deeper weaknesses in public governance than deficiencies in educational policy.” Examine the structural factors responsible for this situation. Outline reforms to strengthen governance outcomes.
+### Q2. 
+### Q3. 
+### Q4. 
+### Q5. 
+### Q6. 
+### Q7. 
+### Q8. 
+### Q9. 
+### Q10. 
+### Q11. 
+### Q12. 
+### Q13. 
+### Q14. 
+### Q15. 
+### Q16. 
+### Q17. 
+### Q18. 
+### Q19. 
+### Q20. 

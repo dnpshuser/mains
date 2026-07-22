@@ -137,7 +137,27 @@
 
 **CONCLUSION:** The revolution was not caused by a single event, but by a cumulative erosion of trust and the belief that colonial liberties were under systematic attack.
 
-### Q8. What are the significance of American Revolution ?
+### Q8. Describe in brief the course of American Revolution.
+
+**INTRO:** The American Revolution progressed from organized protests against British taxation to a full-scale war for independence, culminating in a new republic.
+
+**BODY:**
+
+1.  **Stamp Act Congress (1765):** An early, organized political response where nine colonies met to protest direct taxation, asserting the principle of "no taxation without representation."
+2.  **Boston Massacre (1770):** British soldiers fired on a colonial mob, an event skillfully used as powerful anti-British propaganda by patriots like Paul Revere.
+3.  **Boston Tea Party (1773):** In protest of the Tea Act, colonists disguised as Native Americans dumped tea into Boston Harbor, a direct challenge to British authority.
+4.  **First Continental Congress (1774):** In response to the punitive Intolerable Acts, representatives from twelve colonies met to coordinate a boycott of British goods.
+5.  **Lexington and Concord (1775):** The "shot heard 'round the world," marking the first military clashes between colonial militia and British troops.
+6.  **Second Continental Congress (1775):** Assumed the role of a national government, creating the Continental Army and appointing George Washington as its commander-in-chief.
+7.  **Declaration of Independence (July 4, 1776):** Authored primarily by Thomas Jefferson, this document formally articulated the colonies' separation from Britain, based on Enlightenment ideals of natural rights.
+8.  **Battle of Saratoga (1777):** A major turning point; the decisive American victory convinced France to enter the war as a crucial ally, providing naval and financial support.
+9.  **Winter at Valley Forge (1777-78):** The Continental Army endured immense hardship but was transformed into a more disciplined fighting force under the training of Baron von Steuben.
+10. **Battle of Yorktown (1781):** The final major battle where a combined American-French force, with the French navy blockading the coast, trapped and forced the surrender of the main British army under General Cornwallis.
+11. **Treaty of Paris (1783):** Formally ended the war, with Britain officially recognizing the independence and sovereignty of the United States of America.
+
+**CONCLUSION:** The war was a long, arduous struggle where colonial resilience, strategic leadership, and crucial foreign aid ultimately defeated a global superpower.
+
+### Q9. What are the significance of American Revolution ?
 
 **INTRO:** The American Revolution was a watershed event in world history, establishing a new republic based on Enlightenment ideals and inspiring future anti-colonial movements.
 
@@ -156,7 +176,7 @@
 
 **CONCLUSION:** The revolution's significance lies in its successful translation of radical Enlightenment philosophy into a functioning political reality.
 
-### Q9. What were the reasons behind American Civil War ?
+### Q10. What were the reasons behind American Civil War ?
 
 **INTRO:** The American Civil War (1861-1865) was a brutal conflict born from deep-seated, irreconcilable differences between the industrial North and the agrarian South, with the institution of slavery at its core.
 
@@ -175,7 +195,7 @@
 
 **CONCLUSION:** While multiple factors were at play, they all revolved around the central, irrepressible conflict over the institution of slavery.
 
-### Q10. What were the reasons for the formation of Confederate States of America ?
+### Q11. What were the reasons for the formation of Confederate States of America ?
 
 **INTRO:** The formation of the Confederacy in 1861 was a radical act of secession by Southern states, driven by the desire to preserve slavery and their distinct agrarian way of life.
 
@@ -194,7 +214,7 @@
 
 **CONCLUSION:** The Confederacy was founded on the twin pillars of protecting slavery and upholding the principle of state sovereignty against a perceived hostile federal government.
 
-### Q11. Describe the course and important events in the American Civil War.
+### Q12. Describe the course and important events in the American Civil War.
 
 **INTRO:** The American Civil War was a four-year conflict (1861-1865) that pitted the Union (North) against the seceding Confederacy (South) in a brutal struggle for national survival.
 
@@ -213,7 +233,7 @@
 
 **CONCLUSION:** The war progressed from a limited conflict to preserve the Union to a total war to destroy the Confederacy and end slavery.
 
-### Q12. What were the impacts of American Civil War ?
+### Q13. What were the impacts of American Civil War ?
 
 **INTRO:** The American Civil War was a transformative event that ended slavery, preserved the Union, and fundamentally reshaped the nation's political and economic landscape.
 
@@ -234,7 +254,7 @@
 
 ---
 ## French History
-### Q13. What were the causes of French Revolution ?
+### Q14. What were the causes of French Revolution ?
 
 **INTRO:** The French Revolution of 1789 was a seismic event caused by a perfect storm of social inequality, political incompetence, and economic crisis.
 
@@ -253,7 +273,7 @@
 
 **CONCLUSION:** The revolution was the violent collapse of a feudal system that was no longer socially, economically, or intellectually sustainable.
 
-### Q14. Discuss the contribution of philosophical thinkers in French Revolution
+### Q15. Discuss the contribution of philosophical thinkers in French Revolution
 
 **INTRO:** The philosophers of the Enlightenment did not cause the French Revolution, but they provided the intellectual and ideological framework that justified it.
 
@@ -272,7 +292,7 @@
 
 **CONCLUSION:** The Enlightenment thinkers loaded the intellectual gun; the social and economic crises of 1789 pulled the trigger.
 
-### Q15. Explain the course of the French Revolution.
+### Q16. Explain the course of the French Revolution.
 
 **INTRO:** The French Revolution unfolded in a series of radicalizing phases, moving from constitutional monarchy to a radical republic and eventually to a military dictatorship.
 
@@ -297,7 +317,7 @@
 
 **CONCLUSION:** The revolution's course was a turbulent journey from idealism to terror, ultimately paving the way for Napoleon's authoritarian rule.
 
-### Q16. Describe the reign of terron in France.
+### Q17. Describe the reign of terron in France.
 
 **INTRO:** The Reign of Terror (1793-1794) was the most radical and violent phase of the French Revolution, where the state used systematic terror to defend the revolution from internal and external enemies.
 
@@ -317,7 +337,7 @@
 
 **CONCLUSION:** The Reign of Terror was a dark chapter that saved the revolution from military defeat but did so at the cost of its own founding principles of liberty.
 
-### Q17. What are the significance of the French Revolution ?
+### Q18. What are the significance of the French Revolution ?
 
 **INTRO:** The French Revolution was a pivotal event in modern history that destroyed the old feudal order and spread the ideals of liberty, equality, and nationalism across the world.
 
@@ -335,6 +355,7 @@
 10. **Birth of Modern Ideologies:** It gave birth to the political spectrum of left and right and ideologies like liberalism, conservatism, and socialism.
 
 **CONCLUSION:** The French Revolution fundamentally reshaped the political and social landscape of Europe, marking the definitive beginning of the modern era.
+
 
 ---
 ### Micronotes
@@ -452,7 +473,24 @@
 *   **Facts:** Influence of John Locke, Thomas Paine's 'Common Sense'.
 *   **Conclusion:** Caused by a cumulative erosion of trust and the belief that colonial liberties were under systematic attack.
 
-#### Q8. Significance of American Revolution
+#### Q8. Course of American Revolution
+*   **Intro:** The revolution progressed from organized protests against British taxation to a full-scale war for independence.
+*   **Keywords:**
+    1.  Stamp Act Congress (1765)
+    2.  Boston Massacre (1770)
+    3.  Boston Tea Party (1773)
+    4.  First Continental Congress (1774)
+    5.  Lexington and Concord (1775)
+    6.  Second Continental Congress (1775)
+    7.  Declaration of Independence (1776)
+    8.  Battle of Saratoga (1777)
+    9.  Winter at Valley Forge (1777-78)
+    10. Battle of Yorktown (1881)
+    11. Treaty of Paris (1783)
+*   **Facts:** Saratoga (1777) was the turning point that brought French support.
+*   **Conclusion:** A long struggle where colonial resilience and foreign aid defeated a global superpower.
+
+#### Q9. Significance of American Revolution
 *   **Intro:** A watershed event that established a new republic based on Enlightenment ideals and inspired future movements.
 *   **Keywords:**
     1.  Birth of the USA
@@ -467,7 +505,7 @@
     10. The "American Dream"
 *   **Conclusion:** It successfully translated radical Enlightenment philosophy into a functioning political reality.
 
-#### Q9. Reasons for American Civil War
+#### Q10. Reasons for American Civil War
 *   **Intro:** A conflict born from irreconcilable differences between the North and South, with slavery at its core.
 *   **Keywords:**
     1.  Slavery
@@ -482,7 +520,7 @@
     10. Secession
 *   **Conclusion:** While multiple factors were at play, all revolved around the central conflict over slavery.
 
-#### Q10. Formation of the Confederacy
+#### Q11. Formation of the Confederacy
 *   **Intro:** A radical act of secession by Southern states, driven by the desire to preserve slavery and their distinct way of life.
 *   **Keywords:**
     1.  Preservation of Slavery
@@ -497,7 +535,7 @@
     10. Reaction to Perceived Northern Aggression
 *   **Conclusion:** Founded on the twin pillars of protecting slavery and upholding state sovereignty.
 
-#### Q11. Course of American Civil War
+#### Q12. Course of American Civil War
 *   **Intro:** A four-year conflict (1861-1865) that pitted the Union against the Confederacy in a struggle for national survival.
 *   **Keywords:**
     1.  Fort Sumter (April 1861)
@@ -513,7 +551,7 @@
 *   **Facts:** Antietam (1862) was the bloodiest single day. Gettysburg (1863) was the turning point.
 *   **Conclusion:** The war progressed from a limited conflict to a total war to destroy the Confederacy and end slavery.
 
-#### Q12. Impacts of American Civil War
+#### Q13. Impacts of American Civil War
 *   **Intro:** A transformative event that ended slavery, preserved the Union, and reshaped the nation.
 *   **Keywords:**
     1.  Abolition of Slavery
@@ -529,7 +567,7 @@
 *   **Facts:** Over 620,000 soldiers killed.
 *   **Conclusion:** Resolved slavery and secession but left a bitter legacy of racial inequality.
 
-#### Q13. Causes of French Revolution
+#### Q14. Causes of French Revolution
 *   **Intro:** A seismic event caused by a perfect storm of social inequality, political incompetence, and economic crisis.
 *   **Keywords:**
     1.  The Ancien Régime
@@ -544,7 +582,7 @@
     10. The Tennis Court Oath
 *   **Conclusion:** The violent collapse of a feudal system that was no longer socially, economically, or intellectually sustainable.
 
-#### Q14. Contribution of Philosophers to French Revolution
+#### Q15. Contribution of Philosophers to French Revolution
 *   **Intro:** The Enlightenment philosophers did not cause the revolution, but they provided the intellectual framework that justified it.
 *   **Keywords:**
     1.  John Locke
@@ -559,7 +597,7 @@
     10. Inspiration for Leaders
 *   **Conclusion:** The philosophers loaded the intellectual gun; the crises of 1789 pulled the trigger.
 
-#### Q15. Course of French Revolution
+#### Q16. Course of French Revolution
 *   **Intro:** The revolution unfolded in radicalizing phases, from constitutional monarchy to a radical republic and finally a military dictatorship.
 *   **Keywords:**
     1.  The Moderate Phase (1789-1792)
@@ -568,7 +606,7 @@
     4.  The Age of Napoleon (1799 onwards)
 *   **Conclusion:** A turbulent journey from idealism to terror, ultimately paving the way for Napoleon's rule.
 
-#### Q16. Reign of Terror
+#### Q17. Reign of Terror
 *   **Intro:** The most radical and violent phase (1793-1794), where the state used systematic terror to defend the revolution.
 *   **Keywords:**
     1.  Context
@@ -585,7 +623,7 @@
 *   **Personality:** Maximilien Robespierre.
 *   **Conclusion:** Saved the revolution from military defeat but at the cost of its own founding principles.
 
-#### Q17. Significance of French Revolution
+#### Q18. Significance of French Revolution
 *   **Intro:** A pivotal event that destroyed the old feudal order and spread the ideals of liberty, equality, and nationalism.
 *   **Keywords:**
     1.  End of Feudalism
